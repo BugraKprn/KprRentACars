@@ -1,0 +1,369 @@
+2022-12-24 02:24:53.9289||DEBUG|Program|init main 
+2022-12-24 02:24:56.7309||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Car/Contact.cshtml'. 
+2022-12-24 02:24:56.7309||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Car/Details.cshtml'. 
+2022-12-24 02:24:56.7309||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Car/Index.cshtml'. 
+2022-12-24 02:24:56.7309||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/Components/Car/Default.cshtml'. 
+2022-12-24 02:24:56.7309||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/Components/ContactWidget/Default.cshtml'. 
+2022-12-24 02:24:56.7309||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/Components/Footer/Default.cshtml'. 
+2022-12-24 02:24:56.7309||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/Components/Header/Default.cshtml'. 
+2022-12-24 02:24:56.7309||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/Components/MobileHeader/Default.cshtml'. 
+2022-12-24 02:24:56.7309||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/Components/Slider/Default.cshtml'. 
+2022-12-24 02:24:56.7309||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'. 
+2022-12-24 02:24:56.7309||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'. 
+2022-12-24 02:24:56.7309||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'. 
+2022-12-24 02:24:56.7309||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'. 
+2022-12-24 02:24:56.7309||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'. 
+2022-12-24 02:24:56.7509||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory|Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider 
+2022-12-24 02:24:56.7869||DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting starting 
+2022-12-24 02:24:56.8158||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Ahmet\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2022-12-24 02:24:56.8158||DEBUG|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Reading data from file 'C:\Users\Ahmet\AppData\Local\ASP.NET\DataProtection-Keys\key-815aae77-febb-47ef-9095-db5481b4751b.xml'. 
+2022-12-24 02:24:56.8322||DEBUG|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Reading data from file 'C:\Users\Ahmet\AppData\Local\ASP.NET\DataProtection-Keys\key-851e6229-b78e-4ecc-9c41-ea4cd4ba4b36.xml'. 
+2022-12-24 02:24:56.8413||DEBUG|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Reading data from file 'C:\Users\Ahmet\AppData\Local\ASP.NET\DataProtection-Keys\key-8c321fe8-8a1f-4af8-8224-16e268d43ae7.xml'. 
+2022-12-24 02:24:56.8544||DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {815aae77-febb-47ef-9095-db5481b4751b}. 
+2022-12-24 02:24:56.8544||DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {851e6229-b78e-4ecc-9c41-ea4cd4ba4b36}. 
+2022-12-24 02:24:56.8544||DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {8c321fe8-8a1f-4af8-8224-16e268d43ae7}. 
+2022-12-24 02:24:56.8544||DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.DefaultKeyResolver|Considering key {815aae77-febb-47ef-9095-db5481b4751b} with expiration date 2023-02-24 14:05:32Z as default key. 
+2022-12-24 02:24:56.8544||DEBUG|Microsoft.AspNetCore.DataProtection.TypeForwardingActivator|Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60 
+2022-12-24 02:24:56.8544||DEBUG|Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor|Decrypting secret element using Windows DPAPI. 
+2022-12-24 02:24:56.8544||DEBUG|Microsoft.AspNetCore.DataProtection.TypeForwardingActivator|Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60 
+2022-12-24 02:24:56.8725||DEBUG|Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory|Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC. 
+2022-12-24 02:24:56.8725||DEBUG|Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory|Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC. 
+2022-12-24 02:24:56.8725||DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingProvider|Using key {815aae77-febb-47ef-9095-db5481b4751b} as the default key. 
+2022-12-24 02:24:56.8725||DEBUG|Microsoft.AspNetCore.DataProtection.Internal.DataProtectionHostedService|Key ring with default key {815aae77-febb-47ef-9095-db5481b4751b} was loaded during application startup. 
+2022-12-24 02:24:56.9141||DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly CarRental 
+2022-12-24 02:24:56.9141||DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2022-12-24 02:24:56.9141||DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2022-12-24 02:24:56.9141||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-12-24 02:24:56.9141||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-12-24 02:24:56.9141||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Users\Ahmet\source\repos\CarRental\CarRental\ 
+2022-12-24 02:24:56.9141||DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting started 
+2022-12-24 02:24:56.9539||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/ - - 
+2022-12-24 02:24:56.9927||DEBUG|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|Wildcard detected, all requests with hosts will be allowed. 
+2022-12-24 02:24:56.9927||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2022-12-24 02:24:56.9927||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path / does not match a supported file type 
+2022-12-24 02:24:56.9927||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter 
+2022-12-24 02:24:57.0239||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/' 
+2022-12-24 02:24:57.0274||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'CarRental.Controllers.CarController.Index (CarRental)' with route pattern '{controller=Car}/{action=Index}/{id?}' is valid for the request path '/' 
+2022-12-24 02:24:57.0274||DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'CarRental.Controllers.CarController.Index (CarRental)' 
+2022-12-24 02:24:57.0430||DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Cookies was not authenticated. 
+2022-12-24 02:24:57.0430||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CarRental.Controllers.CarController.Index (CarRental)' 
+2022-12-24 02:24:57.0799||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Car"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller CarRental.Controllers.CarController (CarRental). 
+2022-12-24 02:24:57.0799||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None 
+2022-12-24 02:24:57.0799||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2022-12-24 02:24:57.0799||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000) 
+2022-12-24 02:24:57.0799||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None 
+2022-12-24 02:24:57.0799||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2022-12-24 02:24:57.0799||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: Before executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2022-12-24 02:24:57.0799||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: After executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2022-12-24 02:24:57.0799||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller CarRental.Controllers.CarController (CarRental) 
+2022-12-24 02:24:57.0799||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller CarRental.Controllers.CarController (CarRental) 
+2022-12-24 02:24:57.0799||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter. 
+2022-12-24 02:24:57.0799||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2022-12-24 02:24:57.0799||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2022-12-24 02:24:57.0908||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method CarRental.Controllers.CarController.Index (CarRental) - Validation state: Valid 
+2022-12-24 02:24:57.0908||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method CarRental.Controllers.CarController.Index (CarRental), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.7409ms. 
+2022-12-24 02:24:57.0908||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2022-12-24 02:24:57.0908||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2022-12-24 02:24:57.0908||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter. 
+2022-12-24 02:24:57.0908||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2022-12-24 02:24:57.0908||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2022-12-24 02:24:57.0908||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.ViewResult. 
+2022-12-24 02:24:57.0908||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view 'Index' in controller 'Car'. 
+2022-12-24 02:24:57.0908||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/Car/Index.cshtml'. 
+2022-12-24 02:24:57.1048||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Views/Car/_ViewStart.cshtml'. 
+2022-12-24 02:24:57.1048||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/_ViewStart.cshtml'. 
+2022-12-24 02:24:57.1048||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/_ViewStart.cshtml'. 
+2022-12-24 02:24:57.1048||INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2022-12-24 02:24:57.1048||DEBUG|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|The view path '/Views/Car/Index.cshtml' was found in 7.5889ms. 
+2022-12-24 02:24:57.1505||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executing view component CarRental.ViewComponents.Slider with arguments (). 
+2022-12-24 02:24:57.1676||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executed view component CarRental.ViewComponents.Slider in 12.3036ms and returned Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult 
+2022-12-24 02:24:57.1676||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view 'Components/Slider/Default' in controller 'Car'. 
+2022-12-24 02:24:57.1676||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Views/Car/Components/Slider/Default.cshtml'. 
+2022-12-24 02:24:57.1676||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/Shared/Components/Slider/Default.cshtml'. 
+2022-12-24 02:24:57.2007||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executing view component CarRental.ViewComponents.Car with arguments (). 
+2022-12-24 02:24:57.2007||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executed view component CarRental.ViewComponents.Car in 3.6086ms and returned Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult 
+2022-12-24 02:24:57.2007||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view 'Components/Car/Default' in controller 'Car'. 
+2022-12-24 02:24:57.2007||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Views/Car/Components/Car/Default.cshtml'. 
+2022-12-24 02:24:57.2007||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/Shared/Components/Car/Default.cshtml'. 
+2022-12-24 02:24:57.2007||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/Shared/_Layout.cshtml'. 
+2022-12-24 02:24:57.2938||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executing view component CarRental.ViewComponents.MobileHeader with arguments (). 
+2022-12-24 02:24:57.2938||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executed view component CarRental.ViewComponents.MobileHeader in 0.1249ms and returned Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult 
+2022-12-24 02:24:57.2938||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view 'Components/MobileHeader/Default' in controller 'Car'. 
+2022-12-24 02:24:57.2938||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Views/Car/Components/MobileHeader/Default.cshtml'. 
+2022-12-24 02:24:57.2938||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/Shared/Components/MobileHeader/Default.cshtml'. 
+2022-12-24 02:24:57.2938||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executing view component CarRental.ViewComponents.Header with arguments (). 
+2022-12-24 02:24:57.2938||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executed view component CarRental.ViewComponents.Header in 2.6611ms and returned Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult 
+2022-12-24 02:24:57.2938||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view 'Components/Header/Default' in controller 'Car'. 
+2022-12-24 02:24:57.2938||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Views/Car/Components/Header/Default.cshtml'. 
+2022-12-24 02:24:57.2938||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/Shared/Components/Header/Default.cshtml'. 
+2022-12-24 02:24:57.2938||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executing view component CarRental.ViewComponents.Footer with arguments (). 
+2022-12-24 02:24:57.2938||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executed view component CarRental.ViewComponents.Footer in 2.4797ms and returned Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult 
+2022-12-24 02:24:57.2938||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view 'Components/Footer/Default' in controller 'Car'. 
+2022-12-24 02:24:57.2938||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Views/Car/Components/Footer/Default.cshtml'. 
+2022-12-24 02:24:57.2938||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/Shared/Components/Footer/Default.cshtml'. 
+2022-12-24 02:24:57.4422||INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 341.5798ms. 
+2022-12-24 02:24:57.4422||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.ViewResult. 
+2022-12-24 02:24:57.4422||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2022-12-24 02:24:57.4422||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2022-12-24 02:24:57.4491||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: Before executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2022-12-24 02:24:57.4491||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: After executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2022-12-24 02:24:57.4491||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CarRental.Controllers.CarController.Index (CarRental) in 368.835ms 
+2022-12-24 02:24:57.4491||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CarRental.Controllers.CarController.Index (CarRental)' 
+2022-12-24 02:24:57.4899||DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup is scheduled to include browser refresh script injection. 
+2022-12-24 02:24:57.5366||DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup was updated to include browser refresh script injection. 
+2022-12-24 02:24:57.5449||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18014398536862400581" disconnecting. 
+2022-12-24 02:24:57.5449||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/ - - - 200 - text/html;+charset=utf-8 598.4114ms 
+2022-12-24 02:24:57.7010||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/media/content/b-main-slider/slider1.png - - 
+2022-12-24 02:24:57.7010||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/media/content/b-main-slider/slider2.png - - 
+2022-12-24 02:24:57.7010||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/media/content/b-main-slider/slider3.png - - 
+2022-12-24 02:24:57.7010||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2022-12-24 02:24:57.7010||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2022-12-24 02:24:57.7010||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2022-12-24 02:24:57.7010||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /assets/media/content/b-main-slider/slider1.png does not match an existing file 
+2022-12-24 02:24:57.7010||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /assets/media/content/b-main-slider/slider3.png does not match an existing file 
+2022-12-24 02:24:57.7010||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /assets/media/content/b-main-slider/slider2.png does not match an existing file 
+2022-12-24 02:24:57.7010||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter 
+2022-12-24 02:24:57.7010||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter 
+2022-12-24 02:24:57.7010||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter 
+2022-12-24 02:24:57.7010||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/assets/media/content/b-main-slider/slider2.png' 
+2022-12-24 02:24:57.7010||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/assets/media/content/b-main-slider/slider3.png' 
+2022-12-24 02:24:57.7010||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/assets/media/content/b-main-slider/slider1.png' 
+2022-12-24 02:24:57.7010||DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints 
+2022-12-24 02:24:57.7010||DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints 
+2022-12-24 02:24:57.7010||DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints 
+2022-12-24 02:24:57.7010||DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Cookies was not authenticated. 
+2022-12-24 02:24:57.7010||DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Cookies was not authenticated. 
+2022-12-24 02:24:57.7010||DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Cookies was not authenticated. 
+2022-12-24 02:24:57.7340||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "17509995404366708849" disconnecting. 
+2022-12-24 02:24:57.7340||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/media/content/b-main-slider/slider2.png - - - 404 - - 33.2283ms 
+2022-12-24 02:24:57.7340||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/media/content/b-main-slider/slider3.png - - - 404 - - 36.9368ms 
+2022-12-24 02:24:57.7340||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/media/content/b-main-slider/slider1.png - - - 404 - - 36.9206ms 
+2022-12-24 02:24:57.7340||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/_vs/browserLink - - 
+2022-12-24 02:24:57.7472||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/_framework/aspnetcore-browser-refresh.js - - 
+2022-12-24 02:24:57.7680||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18302628917309079574" disconnecting. 
+2022-12-24 02:24:57.7680||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/_framework/aspnetcore-browser-refresh.js - - - 200 11988 application/javascript;+charset=utf-8 16.4992ms 
+2022-12-24 02:24:57.8685||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "17726168195070427190" disconnecting. 
+2022-12-24 02:24:57.8685||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 125.2420ms 
+2022-12-24 02:25:00.7947||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/Car/Details/1 - - 
+2022-12-24 02:25:00.7947||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2022-12-24 02:25:00.7947||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /Car/Details/1 does not match a supported file type 
+2022-12-24 02:25:00.7947||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter 
+2022-12-24 02:25:00.7947||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/Car/Details/1' 
+2022-12-24 02:25:00.7947||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'CarRental.Controllers.CarController.Details (CarRental)' with route pattern 'Car/Details/{id}' is valid for the request path '/Car/Details/1' 
+2022-12-24 02:25:00.7947||DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'CarRental.Controllers.CarController.Details (CarRental)' 
+2022-12-24 02:25:00.7947||DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Cookies was not authenticated. 
+2022-12-24 02:25:00.7947||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CarRental.Controllers.CarController.Details (CarRental)' 
+2022-12-24 02:25:00.8113||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Details", controller = "Car"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Details(Int32) on controller CarRental.Controllers.CarController (CarRental). 
+2022-12-24 02:25:00.8113||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None 
+2022-12-24 02:25:00.8113||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2022-12-24 02:25:00.8113||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000) 
+2022-12-24 02:25:00.8113||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None 
+2022-12-24 02:25:00.8113||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2022-12-24 02:25:00.8113||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: Before executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2022-12-24 02:25:00.8113||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: After executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2022-12-24 02:25:00.8113||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller CarRental.Controllers.CarController (CarRental) 
+2022-12-24 02:25:00.8113||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller CarRental.Controllers.CarController (CarRental) 
+2022-12-24 02:25:00.8113||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to bind parameter 'id' of type 'System.Int32' ... 
+2022-12-24 02:25:00.8113||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Attempting to bind parameter 'id' of type 'System.Int32' using the name 'id' in request data ... 
+2022-12-24 02:25:00.8113||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Done attempting to bind parameter 'id' of type 'System.Int32'. 
+2022-12-24 02:25:00.8113||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to bind parameter 'id' of type 'System.Int32'. 
+2022-12-24 02:25:00.8113||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to validate the bound parameter 'id' of type 'System.Int32' ... 
+2022-12-24 02:25:00.8113||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to validate the bound parameter 'id' of type 'System.Int32'. 
+2022-12-24 02:25:00.8113||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter. 
+2022-12-24 02:25:00.8113||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2022-12-24 02:25:00.8113||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2022-12-24 02:25:00.8113||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method CarRental.Controllers.CarController.Details (CarRental) - Validation state: Valid 
+2022-12-24 02:25:00.8113||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method CarRental.Controllers.CarController.Details (CarRental) with arguments (1) 
+2022-12-24 02:25:00.8113||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method CarRental.Controllers.CarController.Details (CarRental), returned result Microsoft.AspNetCore.Mvc.ViewResult in 3.5309ms. 
+2022-12-24 02:25:00.8113||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2022-12-24 02:25:00.8113||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2022-12-24 02:25:00.8113||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter. 
+2022-12-24 02:25:00.8113||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2022-12-24 02:25:00.8113||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2022-12-24 02:25:00.8113||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.ViewResult. 
+2022-12-24 02:25:00.8113||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view 'Details' in controller 'Car'. 
+2022-12-24 02:25:00.8113||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/Car/Details.cshtml'. 
+2022-12-24 02:25:00.8113||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Views/Car/_ViewStart.cshtml'. 
+2022-12-24 02:25:00.8113||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/_ViewStart.cshtml'. 
+2022-12-24 02:25:00.8113||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/_ViewStart.cshtml'. 
+2022-12-24 02:25:00.8113||INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Details. 
+2022-12-24 02:25:00.8113||DEBUG|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|The view path '/Views/Car/Details.cshtml' was found in 0.4779ms. 
+2022-12-24 02:25:00.8266||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executing view component CarRental.ViewComponents.ContactWidget with arguments (). 
+2022-12-24 02:25:00.8266||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executed view component CarRental.ViewComponents.ContactWidget in 0.5921ms and returned Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult 
+2022-12-24 02:25:00.8266||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view 'Components/ContactWidget/Default' in controller 'Car'. 
+2022-12-24 02:25:00.8266||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Views/Car/Components/ContactWidget/Default.cshtml'. 
+2022-12-24 02:25:00.8266||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/Shared/Components/ContactWidget/Default.cshtml'. 
+2022-12-24 02:25:00.8266||TRACE|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector|Performing protect operation to key {815aae77-febb-47ef-9095-db5481b4751b} with purposes ('C:\Users\Ahmet\source\repos\CarRental\CarRental\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1'). 
+2022-12-24 02:25:00.8266||TRACE|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector|Performing protect operation to key {815aae77-febb-47ef-9095-db5481b4751b} with purposes ('C:\Users\Ahmet\source\repos\CarRental\CarRental\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1'). 
+2022-12-24 02:25:00.8266||DEBUG|Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery|A new antiforgery cookie token was created. 
+2022-12-24 02:25:00.8474||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Car}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress 
+2022-12-24 02:25:00.8474||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Car}/{action=Index}/{id?} for Route: {controller=Car}/{action=Index}/{id?} resulting in /Car/ContactPost and  
+2022-12-24 02:25:00.8474||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Car}/{action=Index}/{id?} with result /Car/ContactPost 
+2022-12-24 02:25:00.8474||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Car}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress 
+2022-12-24 02:25:00.8474||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Car}/{action=Index}/{id?} for Route: {controller=Car}/{action=Index}/{id?} resulting in  and  
+2022-12-24 02:25:00.8474||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Car}/{action=Index}/{id?} with result / 
+2022-12-24 02:25:00.8571||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executing view component CarRental.ViewComponents.MobileHeader with arguments (). 
+2022-12-24 02:25:00.8571||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executed view component CarRental.ViewComponents.MobileHeader in 0.0058ms and returned Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult 
+2022-12-24 02:25:00.8571||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache hit for view 'Components/MobileHeader/Default' in controller 'Car'. 
+2022-12-24 02:25:00.8571||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executing view component CarRental.ViewComponents.Header with arguments (). 
+2022-12-24 02:25:00.8571||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executed view component CarRental.ViewComponents.Header in 0.9344ms and returned Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult 
+2022-12-24 02:25:00.8571||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache hit for view 'Components/Header/Default' in controller 'Car'. 
+2022-12-24 02:25:00.8571||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executing view component CarRental.ViewComponents.Footer with arguments (). 
+2022-12-24 02:25:00.8571||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executed view component CarRental.ViewComponents.Footer in 1.2119ms and returned Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult 
+2022-12-24 02:25:00.8571||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache hit for view 'Components/Footer/Default' in controller 'Car'. 
+2022-12-24 02:25:00.8571||INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Details executed in 46.4475ms. 
+2022-12-24 02:25:00.8571||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.ViewResult. 
+2022-12-24 02:25:00.8571||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2022-12-24 02:25:00.8571||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2022-12-24 02:25:00.8571||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: Before executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2022-12-24 02:25:00.8571||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: After executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2022-12-24 02:25:00.8571||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CarRental.Controllers.CarController.Details (CarRental) in 58.0498ms 
+2022-12-24 02:25:00.8571||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CarRental.Controllers.CarController.Details (CarRental)' 
+2022-12-24 02:25:00.8724||DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup is scheduled to include browser refresh script injection. 
+2022-12-24 02:25:00.8724||DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup was updated to include browser refresh script injection. 
+2022-12-24 02:25:00.8724||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18014398571222138921" disconnecting. 
+2022-12-24 02:25:00.8724||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/Car/Details/1 - - - 200 - text/html;+charset=utf-8 80.0969ms 
+2022-12-24 02:25:00.8936||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/Car/Details/assets/media/general/logo-light.png - - 
+2022-12-24 02:25:00.8936||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2022-12-24 02:25:00.8936||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /Car/Details/assets/media/general/logo-light.png does not match an existing file 
+2022-12-24 02:25:00.8936||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter 
+2022-12-24 02:25:00.8936||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/Car/Details/assets/media/general/logo-light.png' 
+2022-12-24 02:25:00.8936||DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints 
+2022-12-24 02:25:00.8936||DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Cookies was not authenticated. 
+2022-12-24 02:25:00.8936||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686481282236576" disconnecting. 
+2022-12-24 02:25:00.8936||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/Car/Details/assets/media/general/logo-light.png - - - 404 - - 1.4984ms 
+2022-12-24 02:25:00.8936||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/_framework/aspnetcore-browser-refresh.js - - 
+2022-12-24 02:25:00.8936||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686481282236578" disconnecting. 
+2022-12-24 02:25:00.8936||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/_framework/aspnetcore-browser-refresh.js - - - 200 11988 application/javascript;+charset=utf-8 0.7881ms 
+2022-12-24 02:25:00.9014||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/_vs/browserLink - - 
+2022-12-24 02:25:00.9014||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/Car/Details/assets/media/general/logo.png - - 
+2022-12-24 02:25:00.9014||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2022-12-24 02:25:00.9014||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/Car/Details/assets/media/general/go_top.png - - 
+2022-12-24 02:25:00.9014||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2022-12-24 02:25:00.9014||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /Car/Details/assets/media/general/go_top.png does not match an existing file 
+2022-12-24 02:25:00.9014||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter 
+2022-12-24 02:25:00.9014||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/Car/Details/assets/media/general/go_top.png' 
+2022-12-24 02:25:00.9014||DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints 
+2022-12-24 02:25:00.9014||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /Car/Details/assets/media/general/logo.png does not match an existing file 
+2022-12-24 02:25:00.9014||DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Cookies was not authenticated. 
+2022-12-24 02:25:00.9014||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter 
+2022-12-24 02:25:00.9014||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/Car/Details/assets/media/general/logo.png' 
+2022-12-24 02:25:00.9014||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/media/content/b-goods/main-slider/main/photo1.png - - 
+2022-12-24 02:25:00.9014||DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints 
+2022-12-24 02:25:00.9014||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2022-12-24 02:25:00.9014||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18302628934488948771" disconnecting. 
+2022-12-24 02:25:00.9014||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/Car/Details/assets/media/general/go_top.png - - - 404 - - 7.5461ms 
+2022-12-24 02:25:00.9014||DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Cookies was not authenticated. 
+2022-12-24 02:25:00.9014||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /assets/media/content/b-goods/main-slider/main/photo1.png does not match an existing file 
+2022-12-24 02:25:00.9014||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter 
+2022-12-24 02:25:00.9014||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/assets/media/content/b-goods/main-slider/main/photo1.png' 
+2022-12-24 02:25:00.9014||DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints 
+2022-12-24 02:25:00.9014||DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Cookies was not authenticated. 
+2022-12-24 02:25:00.9014||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "17437937793148911706" disconnecting. 
+2022-12-24 02:25:00.9014||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/Car/Details/assets/media/general/logo.png - - - 404 - - 10.2562ms 
+2022-12-24 02:25:00.9014||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/media/content/b-goods/main-slider/main/photo1.png - - - 404 - - 8.4863ms 
+2022-12-24 02:25:00.9014||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "17726168173595590727" disconnecting. 
+2022-12-24 02:25:00.9501||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "17365880211995885703" disconnecting. 
+2022-12-24 02:25:00.9501||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 48.9667ms 
+2022-12-24 02:25:00.9501||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/Car/Details/assets/media/general/logo-light.png - - 
+2022-12-24 02:25:00.9501||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2022-12-24 02:25:00.9501||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /Car/Details/assets/media/general/logo-light.png does not match an existing file 
+2022-12-24 02:25:00.9501||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter 
+2022-12-24 02:25:00.9501||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/Car/Details/assets/media/general/logo-light.png' 
+2022-12-24 02:25:00.9501||DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints 
+2022-12-24 02:25:00.9501||DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Cookies was not authenticated. 
+2022-12-24 02:25:00.9501||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18302628904424177748" disconnecting. 
+2022-12-24 02:25:00.9501||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/Car/Details/assets/media/general/logo-light.png - - - 404 - - 0.8049ms 
+2022-12-24 02:25:01.0485||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/Car/Details/favicon.ico - - 
+2022-12-24 02:25:01.0485||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2022-12-24 02:25:01.0485||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /Car/Details/favicon.ico does not match an existing file 
+2022-12-24 02:25:01.0485||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter 
+2022-12-24 02:25:01.0485||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/Car/Details/favicon.ico' 
+2022-12-24 02:25:01.0485||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'CarRental.Controllers.CarController.Details (CarRental)' with route pattern 'Car/Details/{id}' is valid for the request path '/Car/Details/favicon.ico' 
+2022-12-24 02:25:01.0485||DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'CarRental.Controllers.CarController.Details (CarRental)' 
+2022-12-24 02:25:01.0485||DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Cookies was not authenticated. 
+2022-12-24 02:25:01.0485||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CarRental.Controllers.CarController.Details (CarRental)' 
+2022-12-24 02:25:01.0485||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Details", controller = "Car"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Details(Int32) on controller CarRental.Controllers.CarController (CarRental). 
+2022-12-24 02:25:01.0485||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None 
+2022-12-24 02:25:01.0485||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2022-12-24 02:25:01.0485||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000) 
+2022-12-24 02:25:01.0485||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None 
+2022-12-24 02:25:01.0485||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2022-12-24 02:25:01.0485||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: Before executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2022-12-24 02:25:01.0485||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: After executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2022-12-24 02:25:01.0485||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller CarRental.Controllers.CarController (CarRental) 
+2022-12-24 02:25:01.0485||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller CarRental.Controllers.CarController (CarRental) 
+2022-12-24 02:25:01.0485||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to bind parameter 'id' of type 'System.Int32' ... 
+2022-12-24 02:25:01.0485||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Attempting to bind parameter 'id' of type 'System.Int32' using the name 'id' in request data ... 
+2022-12-24 02:25:01.0485||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to bind parameter 'id' of type 'System.Int32'. 
+2022-12-24 02:25:01.0485||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to validate the bound parameter 'id' of type 'System.Int32' ... 
+2022-12-24 02:25:01.0485||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to validate the bound parameter 'id' of type 'System.Int32'. 
+2022-12-24 02:25:01.0485||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter. 
+2022-12-24 02:25:01.0485||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2022-12-24 02:25:01.0485||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2022-12-24 02:25:01.0485||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method CarRental.Controllers.CarController.Details (CarRental) - Validation state: Invalid 
+2022-12-24 02:25:01.0485||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method CarRental.Controllers.CarController.Details (CarRental) with arguments (0) 
+2022-12-24 02:25:01.0579||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method CarRental.Controllers.CarController.Details (CarRental), returned result Microsoft.AspNetCore.Mvc.ViewResult in 2.0626ms. 
+2022-12-24 02:25:01.0579||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2022-12-24 02:25:01.0579||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2022-12-24 02:25:01.0579||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter. 
+2022-12-24 02:25:01.0579||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2022-12-24 02:25:01.0579||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2022-12-24 02:25:01.0579||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.ViewResult. 
+2022-12-24 02:25:01.0579||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache hit for view 'Details' in controller 'Car'. 
+2022-12-24 02:25:01.0579||INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Details. 
+2022-12-24 02:25:01.0579||DEBUG|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|The view path '/Views/Car/Details.cshtml' was found in 0.04ms. 
+2022-12-24 02:25:01.0579||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executing view component CarRental.ViewComponents.ContactWidget with arguments (). 
+2022-12-24 02:25:01.0579||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executed view component CarRental.ViewComponents.ContactWidget in 0.396ms and returned Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult 
+2022-12-24 02:25:01.0579||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache hit for view 'Components/ContactWidget/Default' in controller 'Car'. 
+2022-12-24 02:25:01.0579||TRACE|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector|Performing unprotect operation to key {815aae77-febb-47ef-9095-db5481b4751b} with purposes ('C:\Users\Ahmet\source\repos\CarRental\CarRental\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1'). 
+2022-12-24 02:25:01.0579||TRACE|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingBasedDataProtector|Performing protect operation to key {815aae77-febb-47ef-9095-db5481b4751b} with purposes ('C:\Users\Ahmet\source\repos\CarRental\CarRental\', 'Microsoft.AspNetCore.Antiforgery.AntiforgeryToken.v1'). 
+2022-12-24 02:25:01.0579||DEBUG|Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery|An antiforgery cookie token was reused. 
+2022-12-24 02:25:01.0579||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Car}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress 
+2022-12-24 02:25:01.0579||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Car}/{action=Index}/{id?} for Route: {controller=Car}/{action=Index}/{id?} resulting in /Car/ContactPost and  
+2022-12-24 02:25:01.0579||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Car}/{action=Index}/{id?} with result /Car/ContactPost 
+2022-12-24 02:25:01.0579||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints Route: {controller=Car}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress 
+2022-12-24 02:25:01.0579||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Car}/{action=Index}/{id?} for Route: {controller=Car}/{action=Index}/{id?} resulting in  and  
+2022-12-24 02:25:01.0579||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints Route: {controller=Car}/{action=Index}/{id?} with result / 
+2022-12-24 02:25:01.0579||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executing view component CarRental.ViewComponents.MobileHeader with arguments (). 
+2022-12-24 02:25:01.0579||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executed view component CarRental.ViewComponents.MobileHeader in 0.0116ms and returned Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult 
+2022-12-24 02:25:01.0579||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache hit for view 'Components/MobileHeader/Default' in controller 'Car'. 
+2022-12-24 02:25:01.0579||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executing view component CarRental.ViewComponents.Header with arguments (). 
+2022-12-24 02:25:01.0579||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executed view component CarRental.ViewComponents.Header in 0.7984ms and returned Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult 
+2022-12-24 02:25:01.0579||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache hit for view 'Components/Header/Default' in controller 'Car'. 
+2022-12-24 02:25:01.0579||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executing view component CarRental.ViewComponents.Footer with arguments (). 
+2022-12-24 02:25:01.0579||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executed view component CarRental.ViewComponents.Footer in 0.7017ms and returned Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult 
+2022-12-24 02:25:01.0579||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache hit for view 'Components/Footer/Default' in controller 'Car'. 
+2022-12-24 02:25:01.0579||INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Details executed in 7.1946ms. 
+2022-12-24 02:25:01.0579||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.ViewResult. 
+2022-12-24 02:25:01.0579||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2022-12-24 02:25:01.0579||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2022-12-24 02:25:01.0579||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: Before executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2022-12-24 02:25:01.0579||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: After executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2022-12-24 02:25:01.0579||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CarRental.Controllers.CarController.Details (CarRental) in 16.2655ms 
+2022-12-24 02:25:01.0579||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CarRental.Controllers.CarController.Details (CarRental)' 
+2022-12-24 02:25:01.0579||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18014398571222138923" disconnecting. 
+2022-12-24 02:25:01.0579||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/Car/Details/favicon.ico - - - 200 - text/html;+charset=utf-8 17.2978ms 
+2022-12-24 02:25:04.9960||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/libs/bootstrap-select.js.map - - 
+2022-12-24 02:25:04.9960||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2022-12-24 02:25:04.9960||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /assets/libs/bootstrap-select.js.map does not match an existing file 
+2022-12-24 02:25:04.9960||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter 
+2022-12-24 02:25:04.9960||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/assets/libs/bootstrap-select.js.map' 
+2022-12-24 02:25:04.9960||DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints 
+2022-12-24 02:25:04.9960||DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Cookies was not authenticated. 
+2022-12-24 02:25:04.9960||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/libs/bootstrap-select.js.map - - - 404 - - 1.5250ms 
+2022-12-24 02:25:04.9960||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "17942340981479178361" disconnecting. 
+2022-12-24 02:25:05.0838||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/css/main.css.map - - 
+2022-12-24 02:25:05.0838||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2022-12-24 02:25:05.0838||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /assets/css/main.css.map does not match an existing file 
+2022-12-24 02:25:05.0838||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter 
+2022-12-24 02:25:05.0838||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/assets/css/main.css.map' 
+2022-12-24 02:25:05.0838||DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints 
+2022-12-24 02:25:05.0838||DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Cookies was not authenticated. 
+2022-12-24 02:25:05.0838||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/css/main.css.map - - - 404 - - 1.0490ms 
+2022-12-24 02:25:05.0896||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/libs/bootstrap-4.1.3/bootstrap.css.map - - 
+2022-12-24 02:25:05.0896||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2022-12-24 02:25:05.0896||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2022-12-24 02:25:05.1293||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/libs/bootstrap-4.1.3/bootstrap.css.map'. Physical path: 'C:\Users\Ahmet\source\repos\CarRental\CarRental\wwwroot\assets\libs\bootstrap-4.1.3\bootstrap.css.map' 
+2022-12-24 02:25:05.1293||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "17437937793148911708" disconnecting. 
+2022-12-24 02:25:05.1293||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/libs/bootstrap-4.1.3/bootstrap.css.map - - - 200 87205 text/plain 43.2948ms 

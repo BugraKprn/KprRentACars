@@ -1,0 +1,78 @@
+2022-12-23 00:09:09.4014||DEBUG|Program|init main |url: |action: 
+2022-12-23 00:09:31.7797||ERROR|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|The view 'ProductDetails' was not found. Searched locations: /Views/Car/ProductDetails.cshtml, /Views/Shared/ProductDetails.cshtml |url: https://localhost/Car/Details/1|action: ProductDetails
+2022-12-23 00:09:31.7797||ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: The view 'ProductDetails' was not found. The following locations were searched:
+/Views/Car/ProductDetails.cshtml
+/Views/Shared/ProductDetails.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeResultAsync>g__Logged|22_0(ResourceInvoker invoker, IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: https://localhost/Car/Details/1|action: ProductDetails
+2022-12-23 00:10:57.1228||DEBUG|Program|init main |url: |action: 
+2022-12-23 00:11:56.7455||DEBUG|Program|init main |url: |action: 
+2022-12-23 00:12:45.5200||DEBUG|Program|init main |url: |action: 
+2022-12-23 00:14:25.9264||DEBUG|Program|init main |url: |action: 
+2022-12-23 00:30:38.9526||DEBUG|Program|init main |url: |action: 
+2022-12-23 00:31:10.3516||DEBUG|Program|init main |url: |action: 
+2022-12-23 00:47:38.6393||DEBUG|Program|init main |url: |action: 
+2022-12-23 00:48:05.4372||DEBUG|Program|init main |url: |action: 
+2022-12-23 00:48:18.5936||DEBUG|Program|init main |url: |action: 
+2022-12-23 00:48:41.8254||DEBUG|Program|init main |url: |action: 
+2022-12-23 01:55:22.8709||DEBUG|Program|init main |url: |action: 
+2022-12-23 02:40:04.6982||DEBUG|Program|init main |url: |action: 
+2022-12-23 02:41:33.2469||DEBUG|Program|init main |url: |action: 
+2022-12-23 02:44:44.4652||DEBUG|Program|init main |url: |action: 
+2022-12-23 02:46:24.9637||DEBUG|Program|init main |url: |action: 
+2022-12-23 02:48:25.4192||DEBUG|Program|init main |url: |action: 
+2022-12-23 02:49:17.8372||DEBUG|Program|init main |url: |action: 
+2022-12-23 02:49:59.5707||DEBUG|Program|init main |url: |action: 
+2022-12-23 03:56:13.2175||DEBUG|Program|init main |url: |action: 
+2022-12-23 04:05:24.8673||DEBUG|Program|init main |url: |action: 
+2022-12-23 04:07:01.2665||DEBUG|Program|init main |url: |action: 
+2022-12-23 04:15:03.7294||DEBUG|Program|init main |url: |action: 
+2022-12-23 04:15:45.3325||DEBUG|Program|init main |url: |action: 
+2022-12-23 04:16:10.5122||DEBUG|Program|init main |url: |action: 
+2022-12-23 04:23:28.3405||DEBUG|Program|init main |url: |action: 
+2022-12-23 17:18:35.4426||DEBUG|Program|init main |url: |action: 
+2022-12-23 17:26:53.4852||DEBUG|Program|init main |url: |action: 
+2022-12-23 17:28:24.3291||DEBUG|Program|init main |url: |action: 
+2022-12-23 17:28:53.6709||DEBUG|Program|init main |url: |action: 
+2022-12-23 17:29:45.2609||DEBUG|Program|init main |url: |action: 
+2022-12-23 17:30:09.3708||DEBUG|Program|init main |url: |action: 
+2022-12-23 17:30:26.9229||DEBUG|Program|init main |url: |action: 
+2022-12-23 17:30:48.2780||DEBUG|Program|init main |url: |action: 
+2022-12-23 17:31:07.5265||DEBUG|Program|init main |url: |action: 
+2022-12-23 17:31:24.1596||DEBUG|Program|init main |url: |action: 
+2022-12-23 17:32:27.9966||DEBUG|Program|init main |url: |action: 
+2022-12-23 17:33:24.2428||DEBUG|Program|init main |url: |action: 
+2022-12-23 17:47:26.6608||DEBUG|Program|init main |url: |action: 
+2022-12-23 17:47:55.8219||DEBUG|Program|init main |url: |action: 
+2022-12-23 17:51:21.7360||DEBUG|Program|init main |url: |action: 
+2022-12-23 17:53:08.1238||DEBUG|Program|init main |url: |action: 
+2022-12-23 18:25:34.5323||DEBUG|Program|init main |url: |action: 
+2022-12-23 18:35:59.9327||DEBUG|Program|init main |url: |action: 
+2022-12-23 18:36:51.9021||DEBUG|Program|init main |url: |action: 
+2022-12-23 18:39:25.3506||DEBUG|Program|init main |url: |action: 
+2022-12-23 18:41:13.7825||DEBUG|Program|init main |url: |action: 
+2022-12-23 18:43:31.4963||DEBUG|Program|init main |url: |action: 
+2022-12-23 18:43:46.7880||DEBUG|Program|init main |url: |action: 
+2022-12-23 18:45:05.1757||DEBUG|Program|init main |url: |action: 
+2022-12-23 18:50:14.3056||DEBUG|Program|init main |url: |action: 
+2022-12-23 18:50:37.5709||DEBUG|Program|init main |url: |action: 
+2022-12-23 18:51:02.6508||DEBUG|Program|init main |url: |action: 
+2022-12-23 19:14:27.6699||DEBUG|Program|init main |url: |action: 

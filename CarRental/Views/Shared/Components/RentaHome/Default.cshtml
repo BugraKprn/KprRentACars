@@ -1,0 +1,45 @@
+﻿@using CarRental.Library.Entity
+@using CarRental.Library.Helpers;
+@model List<CarRental.Library.Entity.Home>
+
+<section class="section-carousel">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="ui-title-slogan">Göz atabileceğiniz kiralık evler</div>
+                <h2 class="ui-title">Kiralık<span class="text-primary"> Evler</span></h2>
+            </div>
+        </div>
+    </div>
+    <div class="section-carousel__inner bg-dark">
+        <div class="js-slider" data-slick="{&quot;slidesToShow&quot;: 5,  &quot;slidesToScroll&quot;: 5, &quot;infinite&quot;: true, &quot;responsive&quot;: [{&quot;breakpoint&quot;: 1800, &quot;settings&quot;: {&quot;slidesToShow&quot;: 4, &quot;slidesToScroll&quot;: 4}}, {&quot;breakpoint&quot;: 1400, &quot;settings&quot;: {&quot;slidesToShow&quot;: 3, &quot;slidesToScroll&quot;: 1}}, {&quot;breakpoint&quot;: 1040, &quot;settings&quot;: {&quot;slidesToShow&quot;: 2, &quot;slidesToScroll&quot;: 1}}, {&quot;breakpoint&quot;: 767, &quot;settings&quot;: {&quot;slidesToShow&quot;: 1, &quot;slidesToScroll&quot;: 1}}]}">
+            @foreach (var item in Model)
+            {
+                <div class="b-goods-f b-goods-f_mod-a">
+                    <div class="b-goods-f__media">
+                        <a href="#"><img class="b-goods-f__img img-scale" src="assets/media/content/b-goods/375x300/1.jpg" alt="foto" /></a>
+                    </div>
+                    <div class="b-goods-f__main">
+                        <div class="b-goods-f__descrip">
+                            <div class="b-goods-f__title"><span>@item.HomeLocation</span></div>
+                            <ul class="b-goods-f__list list-unstyled">
+                                <li class="b-goods-f__list-item"><i class="fa fa-text-width"></i>&nbsp; @item.HomeMeter m2</li>
+                                <li class="b-goods-f__list-item"><i class="fa fa-person-shelter"></i>&nbsp; Oda: @item.HomeRoom</li>
+                                <li class="b-goods-f__list-item"><i class="fa fa-layer-group"></i>&nbsp; Kat: @item.HomeFloor</li>
+                            </ul>
+                        </div>
+                        <div class="b-goods-f__sidebar">
+                            <span class="b-goods-f__price-group">
+
+                                    <span class="b-goods-f__price bg-primary"><span class="b-goods-f__price-numb">@item.HomePrice TL</span></span>
+                                
+                                
+                            </span>
+                        </div>
+                    </div>
+                </div>
+                <!-- end .b-goods-->
+            }
+        </div>
+    </div>
+</section>

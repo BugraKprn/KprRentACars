@@ -1,0 +1,20 @@
+﻿@model List<CarRental.Library.Entity.Car>
+
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewData["Title"] = "Ana Sayfa";
+}
+
+
+
+@await Component.InvokeAsync("Slider")
+
+<!-- end .main-slider-->
+
+
+<!-- end .b-find-->
+@await Component.InvokeAsync("Car")
+
+<!-- await Component.InvokeAsync("RentaHome")-->
+
+

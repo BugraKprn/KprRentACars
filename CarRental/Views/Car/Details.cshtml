@@ -1,0 +1,125 @@
+﻿@model CarRental.Controllers.CarController.DenemeDto
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="section-title-page area-bg area-bg_dark area-bg_op_60">
+    <div class="area-bg__inner">
+        <div class="container">
+            <div class="row">
+                <div class="col offset-lg-3">
+                    <div class="b-title-page__wrap">
+                        <h1 class="b-title-page">Araba Detayları</h1>
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item"><a href="/">Anasayfa</a></li>
+                                <li class="breadcrumb-item" aria-current="page">Detay</li>
+                                <li class="breadcrumb-item active" aria-current="page">@Model.CarModel.CarName</li>
+                            </ol>
+                            <!-- end breadcrumb-->
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="l-main-content">
+    <div class="container">
+        <section class="b-goods-f">
+
+
+            <div class="row">
+                <div class="col-lg-8">
+                    <div class="ui-subtitle"></div>
+                    <h1 class="ui-title text-uppercase">@Model.CarModel.CarName</h1>
+
+                </div>
+                <div class="col-lg-4">
+                    <div class="b-goods-f-price">
+                        <div class="b-goods-f-price__inner">
+                            @if (!String.IsNullOrEmpty(Model.CarModel.CarPrice) && String.IsNullOrEmpty(Model.CarModel.CarDownPrice))
+                            {
+                                <div class="b-goods-f-price__msrp"><strong>Günlük:</strong> @Model.CarModel.CarPrice TL</div>
+                            }
+                            @if (!String.IsNullOrEmpty(Model.CarModel.CarPrice) && !String.IsNullOrEmpty(Model.CarModel.CarDownPrice))
+                            {
+                                <div class="b-goods-f-price__msrp"><strong>Günlük:</strong><del> @Model.CarModel.CarPrice</del> TL</div>
+                                <div class="b-goods-f-price__main bg-primary">@Model.CarModel.CarDownPrice TL</div>
+                            }
+                            @if (String.IsNullOrEmpty(Model.CarModel.CarPrice) && !String.IsNullOrEmpty(Model.CarModel.CarDownPrice))
+                            {
+                                <div class="b-goods-f-price__msrp"><strong>Günlük:</strong> @Model.CarModel.CarDownPrice TL</div>
+                            }
+                        </div>
+                        <div class="b-goods-f-price__note">Daha detaylı bilgi için iletişime geçiniz.*</div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-8">
+                    <div class="b-goods-f__slider">
+                        <div class="ui-slider-main js-slider-for">
+                            @foreach (var car in Model.CarImageModel.Where(x => x.Car.Id == Model.CarModel.Id))
+                            {
+                                <img class="img-scale" src="@Url.Content("~/StaticFiles")/@car.CarSmallImage" alt="foto" />
+                            }
+                        </div>
+                        <div class="ui-slider-nav js-slider-nav">
+                            @foreach (var car in Model.CarImageModel.Where(x => x.Car.Id == Model.CarModel.Id))
+                            {
+                                <img class="img-scale" src="@Url.Content("~/StaticFiles")/@car.CarSmallImage" alt="foto" />
+                            }
+                        </div>
+                    </div>
+                    <h2 class="b-goods-f__title">Araç Özellikleri</h2>
+                    <div class="row">
+                        <div class="col-md-6">
+                            <dl class="b-goods-f__descr row">
+                                <dt class="b-goods-f__descr-title col-lg-5 col-md-12">Marka / Model</dt>
+                                <dd class="b-goods-f__descr-info col-lg-7 col-md-12">@Model.CarModel.CarName</dd>
+                                <dt class="b-goods-f__descr-title col-lg-5 col-md-12">Kasa Tipi</dt>
+                                <dd class="b-goods-f__descr-info col-lg-7 col-md-12">@Model.CarModel.BodyStyle</dd>
+                                <dt class="b-goods-f__descr-title col-lg-5 col-md-12">Renk</dt>
+                                <dd class="b-goods-f__descr-info col-lg-7 col-md-12">@Model.CarModel.Color</dd>
+                                <dt class="b-goods-f__descr-title col-lg-5 col-md-12">Yakıt</dt>
+                                <dd class="b-goods-f__descr-info col-lg-7 col-md-12">@Model.CarModel.FuelType</dd>
+                                <dt class="b-goods-f__descr-title col-lg-5 col-md-12">Motor Gücü</dt>
+                                <dd class="b-goods-f__descr-info col-lg-7 col-md-12">@Model.CarModel.Engine</dd>
+                            </dl>
+                        </div>
+                        <div class="col-md-6">
+                            <dl class="b-goods-f__descr row">
+                                <dt class="b-goods-f__descr-title col-lg-5 col-md-12">Araç Durumu</dt>
+                                <dd class="b-goods-f__descr-info col-lg-7 col-md-12">@Model.CarModel.Condition</dd>
+                                <dt class="b-goods-f__descr-title col-lg-5 col-md-12">Vites</dt>
+                                <dd class="b-goods-f__descr-info col-lg-7 col-md-12">@Model.CarModel.Gear</dd>
+                                <dt class="b-goods-f__descr-title col-lg-5 col-md-12">Koltuk Sayısı</dt>
+                                <dd class="b-goods-f__descr-info col-lg-7 col-md-12">@Model.CarModel.Seats</dd>
+                            </dl>
+                        </div>
+                    </div>
+                    <ul class="nav nav-tabs nav-vehicle-detail-tabs" id="myTab" role="tablist">
+                        <li class="nav-item"><a class="nav-link active" id="overview-tab" data-toggle="tab" href="#overview" role="tab" aria-controls="overview" aria-selected="true">Detaylı Bilgiler</a></li>
+                        <li class="nav-item"><a class="nav-link" id="location-tab" data-toggle="tab" href="#location" role="tab" aria-controls="location" aria-selected="false">Araba Lokasyonu</a></li>
+                    </ul>
+                    <div class="tab-content" id="myTabContent">
+                        <div class="tab-pane fade show active" id="overview" role="tabpanel" aria-labelledby="overview-tab">
+                            @Html.Raw(Model.CarModel.Overview)
+                        </div>
+                        <div class="tab-pane fade" id="location" role="tabpanel" aria-labelledby="location-tab">
+                            <div class="map" id="map">@Html.Raw(Model.CarModel.Location)</div>
+                        </div>
+                    </div>
+                </div>
+
+
+                @await Component.InvokeAsync("ContactWidget")
+            </div>
+        </section>
+        <!-- end .b-goods-f-->
+
+    </div>
+</div>

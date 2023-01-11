@@ -1,0 +1,90 @@
+﻿@model CarRental.ViewComponents.FooterDto
+
+<!-- end .b-gallery-->
+<footer class="footer">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="text-center">
+                    <div class="footer-logo">
+                        <a class="footer-logo__link" href="/"><img class="img-responsive" src="@Url.Content("~/StaticFiles")/@Model.SiteSetting.FooterLogo" alt="FooterLogo"></a>
+                    </div>
+                    <ul class="footer-soc list-unstyled">
+                        @if (!String.IsNullOrEmpty(Model.SiteSetting.Instagram))
+                        {
+                            <li class="footer-soc__item"><a class="footer-soc__link" href="@Model.SiteSetting.Instagram" target="_blank"><i class="ic fab fa-instagram"></i></a></li>
+                        }
+                        @if (!String.IsNullOrEmpty(Model.SiteSetting.Twitter))
+                        {
+                            <li class="footer-soc__item"><a class="footer-soc__link" href="@Model.SiteSetting.Twitter" target="_blank"><i class="ic fab fa-twitter"></i></a></li>
+                        }
+                        @if (!String.IsNullOrEmpty(Model.SiteSetting.Facebook))
+                        {
+                            <li class="footer-soc__item"><a class="footer-soc__link" href="@Model.SiteSetting.Facebook" target="_blank"><i class="ic fab fa-facebook"></i></a></li>
+                        }
+                        @if (!String.IsNullOrEmpty(Model.SiteSetting.Linkedin))
+                        {
+                            <li class="footer-soc__item"><a class="footer-soc__link" href="@Model.SiteSetting.Linkedin" target="_blank"><i class="ic fab fa-linkedin"></i></a></li>
+                        }
+                        @if (!String.IsNullOrEmpty(Model.SiteSetting.GooglePlus))
+                        {
+                            <li class="footer-soc__item"><a class="footer-soc__link" href="@Model.SiteSetting.GooglePlus" target="_blank"><i class="ic fab fa-google-plus-g"></i></a></li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-4 col-sm-5">
+                <div class="footer-section footer-section_info">
+                    <div class="footer-info">@Model.SiteSetting.FooterDescription</div>
+                    <div class="footer-contacts">
+                        <div class="footer-contacts__item"><i class="ic icon-location-pin"></i>@Model.SiteSetting.Adress</div>
+                        <div class="footer-contacts__item"><i class="ic icon-envelope"></i><a href="mailto:@Model.SiteSetting.Mail">@Model.SiteSetting.Mail</a></div>
+                        <div class="footer-contacts__item">
+                            <i class="ic icon-phone"></i>Tel No:
+
+                            <a href="tel:+@Model.SiteSetting.Phone">@Model.SiteSetting.Phone</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-4 col-sm-3">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <section class="footer-section footer-section_link">
+                            <h3 class="footer-section__title">Hızlı Linkler</h3>
+                            <ul class="footer-list list-unstyled">
+                                @foreach (var item in Model.FooterLink)
+                                {
+                                    <li><a href="@item.Url">@item.LinkName</a></li>
+                                }
+                            </ul>
+                        </section>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <section class="footer-section footer-section_subscribe">
+                    <h3 class="footer-section__title">Abone Bülteni</h3>
+                    <form class="footer-form">
+                        <div class="footer-form__info">Kampanya ve araçlar hakkında yeni haberler almak için abone olun.</div>
+                        <div class="form-group">
+                            <input class="footer-form__input form-control" type="email" placeholder="Mail Adresiniz">
+                        </div>
+                        <button class="btn btn-sm btn-primary">Abone Ol</button>
+                    </form>
+                </section>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <div class="footer-copyright">
+                    Copyrights (c) - Tüm Hakları Saklıdır.
+                    <a class="footer-copyright__link" href="#">Gizlilik Politikası</a>
+                </div>
+            </div>
+        </div><span class="footer__btn-up js-scroll-top"><i class="ic fas fa-angle-up"></i><img src="@Url.Content("~/StaticFiles")/go_top.png" alt="go top"></span>
+    </div>
+</footer>
+<!-- .footer-->

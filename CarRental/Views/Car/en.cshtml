@@ -1,0 +1,66 @@
+﻿@model CarRental.Library.Entity.Setting
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="section-title-page area-bg area-bg_dark area-bg_op_60">
+    <div class="area-bg__inner">
+        <div class="container">
+            <div class="row">
+                <div class="col offset-lg-3">
+                    <div class="b-title-page__wrap">
+                        <h1 class="b-title-page"></h1>
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item"><a href="/">Home</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">English Page</li>
+                            </ol>
+                            <!-- end breadcrumb-->
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- end .b-title-page-->
+<main class="l-main-content">
+    <div class="container">
+        <div class="section-area">
+            <br />
+            <br />
+            <div class="b-contacts__info" style="font-size: 20px;">Our site currently does not have English language support. For detailed information, contact the phone number below.</div>
+
+            <br />
+            <br />
+            <br />
+            <br />
+            <hr />
+            <div class="row">
+                <div class="col-md-6 col-lg-3">
+                    <div class="b-contacts">
+                        <i class="ic icon-direction"></i>
+                        <div class="b-contacts__title">Office</div>
+                        <div class="b-contacts__info">@Html.Raw(Model.Adress)</div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="b-contacts">
+                        <i class="ic icon-call-end bg-primary"></i>
+                        <div class="b-contacts__title">Contact Phone</div>
+                        <div class="b-contacts__info">@Html.Raw(Model.Phone)</div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="b-contacts">
+                        <i class="ic icon-envelope"></i>
+                        <div class="b-contacts__title">Mail</div>
+                        <div class="b-contacts__info">@Html.Raw(Model.Mail)</div>
+                    </div>
+                </div>
+            </div>
+            <!-- end .b-contacts-->
+        </div>
+    </div>
+</main>

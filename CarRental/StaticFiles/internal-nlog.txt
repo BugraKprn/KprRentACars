@@ -1,0 +1,1583 @@
+2022-12-25 00:29:10.6125 Info Message Template Auto Format enabled
+2022-12-25 00:29:10.6125 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 00:29:10.6609 Info Registered target FileTarget(Name=allfile)
+2022-12-25 00:29:10.6609 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 00:29:10.6816 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 00:29:11.7802 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 00:32:06.1541 Info Message Template Auto Format enabled
+2022-12-25 00:32:06.1541 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 00:32:06.2016 Info Registered target FileTarget(Name=allfile)
+2022-12-25 00:32:06.2016 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 00:32:06.2215 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 00:32:07.2844 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 00:33:02.7096 Info Message Template Auto Format enabled
+2022-12-25 00:33:02.7155 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 00:33:02.7570 Info Registered target FileTarget(Name=allfile)
+2022-12-25 00:33:02.7570 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 00:33:02.7771 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 00:33:03.8482 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 00:36:26.3378 Info Message Template Auto Format enabled
+2022-12-25 00:36:26.3439 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 00:36:26.3855 Info Registered target FileTarget(Name=allfile)
+2022-12-25 00:36:26.3855 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 00:36:26.4060 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 00:36:27.5770 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 00:37:47.3081 Info Message Template Auto Format enabled
+2022-12-25 00:37:47.3081 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 00:37:47.3577 Info Registered target FileTarget(Name=allfile)
+2022-12-25 00:37:47.3577 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 00:37:47.3786 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 00:37:48.4913 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 02:17:06.0537 Info Message Template Auto Format enabled
+2022-12-25 02:17:06.0757 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 02:17:06.1176 Info Registered target FileTarget(Name=allfile)
+2022-12-25 02:17:06.1176 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 02:17:06.1379 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 02:17:07.5567 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 02:21:42.2672 Info Message Template Auto Format enabled
+2022-12-25 02:21:42.2672 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 02:21:42.3163 Info Registered target FileTarget(Name=allfile)
+2022-12-25 02:21:42.3163 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 02:21:42.3379 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 02:21:43.5550 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 02:53:27.4893 Info Message Template Auto Format enabled
+2022-12-25 02:53:27.4958 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 02:53:27.5472 Info Registered target FileTarget(Name=allfile)
+2022-12-25 02:53:27.5472 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 02:53:27.5679 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 02:53:28.7425 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 02:53:58.5268 Info Message Template Auto Format enabled
+2022-12-25 02:53:58.5268 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 02:53:58.5994 Info Registered target FileTarget(Name=allfile)
+2022-12-25 02:53:58.5994 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 02:53:58.6323 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 02:53:59.7724 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 02:57:12.2652 Info Message Template Auto Format enabled
+2022-12-25 02:57:12.2652 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 02:57:12.3147 Info Registered target FileTarget(Name=allfile)
+2022-12-25 02:57:12.3147 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 02:57:12.3357 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 02:57:13.4547 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 02:57:36.7959 Info Message Template Auto Format enabled
+2022-12-25 02:57:36.7959 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 02:57:36.8480 Info Registered target FileTarget(Name=allfile)
+2022-12-25 02:57:36.8480 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 02:57:36.8698 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 02:57:38.1637 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 02:59:45.8220 Info Message Template Auto Format enabled
+2022-12-25 02:59:45.8286 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 02:59:45.8740 Info Registered target FileTarget(Name=allfile)
+2022-12-25 02:59:45.8740 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 02:59:45.8949 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 02:59:46.9811 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 16:26:46.3896 Info Message Template Auto Format enabled
+2022-12-25 16:26:46.4110 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 16:26:46.4574 Info Registered target FileTarget(Name=allfile)
+2022-12-25 16:26:46.4574 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 16:26:46.4793 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 16:26:47.9222 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 16:39:51.0726 Info Message Template Auto Format enabled
+2022-12-25 16:39:51.0785 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 16:39:51.1273 Info Registered target FileTarget(Name=allfile)
+2022-12-25 16:39:51.1273 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 16:39:51.1488 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 16:39:52.1940 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 16:40:34.9333 Info Message Template Auto Format enabled
+2022-12-25 16:40:34.9333 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 16:40:34.9846 Info Registered target FileTarget(Name=allfile)
+2022-12-25 16:40:34.9846 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 16:40:35.0042 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 16:40:35.8072 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 16:41:19.7187 Info Message Template Auto Format enabled
+2022-12-25 16:41:19.7187 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 16:41:19.7686 Info Registered target FileTarget(Name=allfile)
+2022-12-25 16:41:19.7686 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 16:41:19.7891 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 16:41:20.8717 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 16:41:34.3728 Info Message Template Auto Format enabled
+2022-12-25 16:41:34.3728 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 16:41:34.4273 Info Registered target FileTarget(Name=allfile)
+2022-12-25 16:41:34.4273 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 16:41:34.4500 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 16:41:35.3216 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 16:44:00.2708 Info Message Template Auto Format enabled
+2022-12-25 16:44:00.2768 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 16:44:00.3182 Info Registered target FileTarget(Name=allfile)
+2022-12-25 16:44:00.3182 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 16:44:00.3393 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 16:44:01.4150 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 16:44:43.7495 Info Message Template Auto Format enabled
+2022-12-25 16:44:43.7495 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 16:44:43.7982 Info Registered target FileTarget(Name=allfile)
+2022-12-25 16:44:43.7982 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 16:44:43.8178 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 16:44:44.8934 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 17:27:45.7417 Info Message Template Auto Format enabled
+2022-12-25 17:27:45.7479 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 17:27:45.7889 Info Registered target FileTarget(Name=allfile)
+2022-12-25 17:27:45.7889 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 17:27:45.8091 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 17:27:46.9044 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 18:02:59.9602 Info Message Template Auto Format enabled
+2022-12-25 18:02:59.9671 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 18:03:00.0140 Info Registered target FileTarget(Name=allfile)
+2022-12-25 18:03:00.0140 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 18:03:00.0395 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 18:03:01.2768 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 18:03:30.6344 Info Message Template Auto Format enabled
+2022-12-25 18:03:30.6404 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 18:03:30.6846 Info Registered target FileTarget(Name=allfile)
+2022-12-25 18:03:30.6846 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 18:03:30.7064 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 18:03:31.8009 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 18:04:57.4953 Info Message Template Auto Format enabled
+2022-12-25 18:04:57.4953 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 18:04:57.5461 Info Registered target FileTarget(Name=allfile)
+2022-12-25 18:04:57.5461 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 18:04:57.5670 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 18:04:58.6805 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 18:06:56.6920 Info Message Template Auto Format enabled
+2022-12-25 18:06:56.6986 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 18:06:56.7409 Info Registered target FileTarget(Name=allfile)
+2022-12-25 18:06:56.7409 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 18:06:56.7613 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 18:06:57.8163 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 18:09:05.2489 Info Message Template Auto Format enabled
+2022-12-25 18:09:05.2489 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 18:09:05.2984 Info Registered target FileTarget(Name=allfile)
+2022-12-25 18:09:05.2984 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 18:09:05.3200 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 18:09:06.4048 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 18:10:11.8997 Info Message Template Auto Format enabled
+2022-12-25 18:10:11.9069 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 18:10:11.9581 Info Registered target FileTarget(Name=allfile)
+2022-12-25 18:10:11.9581 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 18:10:11.9805 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 18:10:13.0477 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 18:11:25.8952 Info Message Template Auto Format enabled
+2022-12-25 18:11:25.8952 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 18:11:25.9451 Info Registered target FileTarget(Name=allfile)
+2022-12-25 18:11:25.9451 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 18:11:25.9669 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 18:11:27.0538 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 18:19:31.7355 Info Message Template Auto Format enabled
+2022-12-25 18:19:31.7355 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 18:19:31.7830 Info Registered target FileTarget(Name=allfile)
+2022-12-25 18:19:31.7830 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 18:19:31.8032 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 18:19:32.9181 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 18:20:29.7723 Info Message Template Auto Format enabled
+2022-12-25 18:20:29.7787 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 18:20:29.8198 Info Registered target FileTarget(Name=allfile)
+2022-12-25 18:20:29.8198 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 18:20:29.8404 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 18:20:30.8994 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 18:23:01.4133 Info Message Template Auto Format enabled
+2022-12-25 18:23:01.4191 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 18:23:01.4601 Info Registered target FileTarget(Name=allfile)
+2022-12-25 18:23:01.4601 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 18:23:01.4799 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 18:23:02.5615 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 18:23:33.9451 Info Message Template Auto Format enabled
+2022-12-25 18:23:33.9517 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 18:23:33.9947 Info Registered target FileTarget(Name=allfile)
+2022-12-25 18:23:33.9955 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 18:23:34.0147 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 18:23:34.8798 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 18:31:58.2090 Info Message Template Auto Format enabled
+2022-12-25 18:31:58.2151 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 18:31:58.2568 Info Registered target FileTarget(Name=allfile)
+2022-12-25 18:31:58.2568 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 18:31:58.2766 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 18:31:59.3724 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 19:43:23.2994 Info Message Template Auto Format enabled
+2022-12-25 19:43:23.3196 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 19:43:23.3609 Info Registered target FileTarget(Name=allfile)
+2022-12-25 19:43:23.3609 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 19:43:23.3866 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 19:43:24.6389 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 19:44:05.5598 Info Message Template Auto Format enabled
+2022-12-25 19:44:05.5598 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 19:44:05.6075 Info Registered target FileTarget(Name=allfile)
+2022-12-25 19:44:05.6075 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 19:44:05.6307 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 19:44:06.4703 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 19:44:34.6869 Info Message Template Auto Format enabled
+2022-12-25 19:44:34.6869 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 19:44:34.7411 Info Registered target FileTarget(Name=allfile)
+2022-12-25 19:44:34.7411 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 19:44:34.7630 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 19:44:35.9048 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 19:45:43.8098 Info Message Template Auto Format enabled
+2022-12-25 19:45:43.8098 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 19:45:43.8594 Info Registered target FileTarget(Name=allfile)
+2022-12-25 19:45:43.8594 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 19:45:43.8794 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 19:45:45.0118 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 19:48:40.7560 Info Message Template Auto Format enabled
+2022-12-25 19:48:40.7620 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 19:48:40.8050 Info Registered target FileTarget(Name=allfile)
+2022-12-25 19:48:40.8050 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 19:48:40.8257 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 19:48:42.1391 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 19:51:33.6999 Info Message Template Auto Format enabled
+2022-12-25 19:51:33.6999 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 19:51:33.7490 Info Registered target FileTarget(Name=allfile)
+2022-12-25 19:51:33.7490 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 19:51:33.7694 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 19:51:34.8905 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 19:54:20.3835 Info Message Template Auto Format enabled
+2022-12-25 19:54:20.3894 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 19:54:20.4310 Info Registered target FileTarget(Name=allfile)
+2022-12-25 19:54:20.4310 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 19:54:20.4535 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 19:54:21.5721 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 19:55:14.5257 Info Message Template Auto Format enabled
+2022-12-25 19:55:14.5321 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 19:55:14.5749 Info Registered target FileTarget(Name=allfile)
+2022-12-25 19:55:14.5749 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 19:55:14.5950 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 19:55:15.4255 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 19:59:19.5316 Info Message Template Auto Format enabled
+2022-12-25 19:59:19.5316 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 19:59:19.5816 Info Registered target FileTarget(Name=allfile)
+2022-12-25 19:59:19.5816 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 19:59:19.6028 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 19:59:20.7568 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 19:59:43.5109 Info Message Template Auto Format enabled
+2022-12-25 19:59:43.5109 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-25 19:59:43.5632 Info Registered target FileTarget(Name=allfile)
+2022-12-25 19:59:43.5632 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-25 19:59:43.5868 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-25 19:59:44.8422 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 13:14:20.6502 Info Message Template Auto Format enabled
+2022-12-26 13:14:20.6884 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 13:14:20.7569 Info Registered target FileTarget(Name=allfile)
+2022-12-26 13:14:20.7569 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 13:14:20.7838 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 13:14:23.1091 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:00:47.3224 Info Message Template Auto Format enabled
+2022-12-26 14:00:47.3324 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 14:00:47.4129 Info Registered target FileTarget(Name=allfile)
+2022-12-26 14:00:47.4129 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 14:00:47.4483 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:00:49.0827 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:04:44.9807 Info Message Template Auto Format enabled
+2022-12-26 14:04:44.9807 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 14:04:45.0307 Info Registered target FileTarget(Name=allfile)
+2022-12-26 14:04:45.0307 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 14:04:45.0500 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:04:46.0605 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:42:02.8902 Info Message Template Auto Format enabled
+2022-12-26 14:42:02.8902 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 14:42:02.9497 Info Registered target FileTarget(Name=allfile)
+2022-12-26 14:42:02.9497 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 14:42:02.9740 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:42:04.4186 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:44:45.3455 Info Message Template Auto Format enabled
+2022-12-26 14:44:45.3556 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 14:44:45.4011 Info Registered target FileTarget(Name=allfile)
+2022-12-26 14:44:45.4011 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 14:44:45.4208 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:44:46.7616 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:47:01.5251 Info Message Template Auto Format enabled
+2022-12-26 14:47:01.5338 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 14:47:01.5882 Info Registered target FileTarget(Name=allfile)
+2022-12-26 14:47:01.5882 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 14:47:01.6132 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:47:03.0518 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:49:14.8368 Info Message Template Auto Format enabled
+2022-12-26 14:49:14.8448 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 14:49:14.8981 Info Registered target FileTarget(Name=allfile)
+2022-12-26 14:49:14.8981 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 14:49:14.9238 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:49:16.7155 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:50:38.3233 Info Message Template Auto Format enabled
+2022-12-26 14:50:38.3233 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 14:50:38.3869 Info Registered target FileTarget(Name=allfile)
+2022-12-26 14:50:38.3869 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 14:50:38.4118 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:50:40.0506 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:51:20.0434 Info Message Template Auto Format enabled
+2022-12-26 14:51:20.0434 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 14:51:20.1208 Info Registered target FileTarget(Name=allfile)
+2022-12-26 14:51:20.1208 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 14:51:20.1533 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:51:21.1745 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:52:41.5086 Info Message Template Auto Format enabled
+2022-12-26 14:52:41.5163 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 14:52:41.5683 Info Registered target FileTarget(Name=allfile)
+2022-12-26 14:52:41.5683 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 14:52:41.5920 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:52:43.3313 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:53:33.5875 Info Message Template Auto Format enabled
+2022-12-26 14:53:33.5951 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 14:53:33.6523 Info Registered target FileTarget(Name=allfile)
+2022-12-26 14:53:33.6523 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 14:53:33.6809 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:53:35.1279 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:54:20.9106 Info Message Template Auto Format enabled
+2022-12-26 14:54:20.9168 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 14:54:20.9679 Info Registered target FileTarget(Name=allfile)
+2022-12-26 14:54:20.9679 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 14:54:20.9890 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:54:22.3606 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:54:54.8646 Info Message Template Auto Format enabled
+2022-12-26 14:54:54.8809 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 14:54:54.9775 Info Registered target FileTarget(Name=allfile)
+2022-12-26 14:54:54.9775 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 14:54:55.0238 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:54:57.0275 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:56:19.1275 Info Message Template Auto Format enabled
+2022-12-26 14:56:19.1367 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 14:56:19.1996 Info Registered target FileTarget(Name=allfile)
+2022-12-26 14:56:19.1996 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 14:56:19.2270 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:56:20.7451 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:57:19.2688 Info Message Template Auto Format enabled
+2022-12-26 14:57:19.2899 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 14:57:19.4074 Info Registered target FileTarget(Name=allfile)
+2022-12-26 14:57:19.4074 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 14:57:19.4513 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:57:20.9860 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:57:54.5742 Info Message Template Auto Format enabled
+2022-12-26 14:57:54.5742 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 14:57:54.6378 Info Registered target FileTarget(Name=allfile)
+2022-12-26 14:57:54.6378 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 14:57:54.6624 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:57:55.6678 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:58:47.1105 Info Message Template Auto Format enabled
+2022-12-26 14:58:47.1105 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 14:58:47.1842 Info Registered target FileTarget(Name=allfile)
+2022-12-26 14:58:47.1842 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 14:58:47.2177 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:58:48.7422 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:59:04.3362 Info Message Template Auto Format enabled
+2022-12-26 14:59:04.3449 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 14:59:04.4081 Info Registered target FileTarget(Name=allfile)
+2022-12-26 14:59:04.4081 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 14:59:04.4367 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:59:05.4329 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:59:26.9438 Info Message Template Auto Format enabled
+2022-12-26 14:59:26.9520 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 14:59:27.0122 Info Registered target FileTarget(Name=allfile)
+2022-12-26 14:59:27.0122 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 14:59:27.0431 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 14:59:28.5354 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:00:09.2294 Info Message Template Auto Format enabled
+2022-12-26 15:00:09.2354 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 15:00:09.2825 Info Registered target FileTarget(Name=allfile)
+2022-12-26 15:00:09.2825 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 15:00:09.3030 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:00:10.0590 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:00:57.9280 Info Message Template Auto Format enabled
+2022-12-26 15:00:57.9361 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 15:00:57.9893 Info Registered target FileTarget(Name=allfile)
+2022-12-26 15:00:57.9893 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 15:00:58.0156 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:00:59.4942 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:01:11.5333 Info Message Template Auto Format enabled
+2022-12-26 15:01:11.5423 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 15:01:11.6214 Info Registered target FileTarget(Name=allfile)
+2022-12-26 15:01:11.6214 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 15:01:11.6606 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:01:12.9704 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:03:03.3305 Info Message Template Auto Format enabled
+2022-12-26 15:03:03.3391 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 15:03:03.3991 Info Registered target FileTarget(Name=allfile)
+2022-12-26 15:03:03.3991 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 15:03:03.4286 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:03:04.9507 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:08:15.1006 Info Message Template Auto Format enabled
+2022-12-26 15:08:15.1095 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 15:08:15.1686 Info Registered target FileTarget(Name=allfile)
+2022-12-26 15:08:15.1686 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 15:08:15.1956 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:08:16.7100 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:26:48.4462 Info Message Template Auto Format enabled
+2022-12-26 15:26:48.4677 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 15:26:48.5300 Info Registered target FileTarget(Name=allfile)
+2022-12-26 15:26:48.5300 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 15:26:48.5585 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:26:51.9219 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:30:23.1553 Info Message Template Auto Format enabled
+2022-12-26 15:30:23.1553 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 15:30:23.2247 Info Registered target FileTarget(Name=allfile)
+2022-12-26 15:30:23.2247 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 15:30:23.2590 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:30:25.8893 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:31:27.1418 Info Message Template Auto Format enabled
+2022-12-26 15:31:27.1571 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 15:31:27.2776 Info Registered target FileTarget(Name=allfile)
+2022-12-26 15:31:27.2776 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 15:31:27.3309 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:31:30.1947 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:36:58.0404 Info Message Template Auto Format enabled
+2022-12-26 15:36:58.0490 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 15:36:58.1041 Info Registered target FileTarget(Name=allfile)
+2022-12-26 15:36:58.1050 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 15:36:58.1483 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:37:00.6839 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:37:20.8811 Info Message Template Auto Format enabled
+2022-12-26 15:37:20.8909 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 15:37:20.9539 Info Registered target FileTarget(Name=allfile)
+2022-12-26 15:37:20.9539 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 15:37:20.9820 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:37:22.2860 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:38:58.0752 Info Message Template Auto Format enabled
+2022-12-26 15:38:58.0752 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 15:38:58.1431 Info Registered target FileTarget(Name=allfile)
+2022-12-26 15:38:58.1431 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 15:38:58.1743 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:39:00.9704 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:42:21.5398 Info Message Template Auto Format enabled
+2022-12-26 15:42:21.5482 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 15:42:21.6187 Info Registered target FileTarget(Name=allfile)
+2022-12-26 15:42:21.6187 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 15:42:21.6489 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:42:24.3153 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:49:10.9130 Info Message Template Auto Format enabled
+2022-12-26 15:49:10.9276 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 15:49:11.0022 Info Registered target FileTarget(Name=allfile)
+2022-12-26 15:49:11.0022 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 15:49:11.0282 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:49:14.0416 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:52:37.3287 Info Message Template Auto Format enabled
+2022-12-26 15:52:37.3388 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 15:52:37.4006 Info Registered target FileTarget(Name=allfile)
+2022-12-26 15:52:37.4015 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 15:52:37.4262 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 15:52:40.2297 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 20:13:13.0913 Info Message Template Auto Format enabled
+2022-12-26 20:13:13.1291 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 20:13:13.1911 Info Registered target FileTarget(Name=allfile)
+2022-12-26 20:13:13.1911 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 20:13:13.2174 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 20:13:15.4291 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 20:53:58.6490 Info Message Template Auto Format enabled
+2022-12-26 20:53:58.6490 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 20:53:58.7084 Info Registered target FileTarget(Name=allfile)
+2022-12-26 20:53:58.7084 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 20:53:58.7349 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 20:54:00.1189 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 20:54:42.8239 Info Message Template Auto Format enabled
+2022-12-26 20:54:42.8328 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 20:54:42.8984 Info Registered target FileTarget(Name=allfile)
+2022-12-26 20:54:42.8984 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 20:54:42.9267 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 20:54:44.4793 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 20:55:05.7641 Info Message Template Auto Format enabled
+2022-12-26 20:55:05.7726 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 20:55:05.8346 Info Registered target FileTarget(Name=allfile)
+2022-12-26 20:55:05.8346 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 20:55:05.8623 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 20:55:06.9449 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 20:55:32.9707 Info Message Template Auto Format enabled
+2022-12-26 20:55:32.9707 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 20:55:33.0271 Info Registered target FileTarget(Name=allfile)
+2022-12-26 20:55:33.0271 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 20:55:33.0514 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 20:55:34.5267 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 20:55:54.6828 Info Message Template Auto Format enabled
+2022-12-26 20:55:54.6989 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 20:55:54.8627 Info Registered target FileTarget(Name=allfile)
+2022-12-26 20:55:54.8627 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 20:55:54.9179 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 20:55:56.0034 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 20:57:20.0695 Info Message Template Auto Format enabled
+2022-12-26 20:57:20.0695 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 20:57:20.1254 Info Registered target FileTarget(Name=allfile)
+2022-12-26 20:57:20.1254 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 20:57:20.1474 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 20:57:21.8506 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 20:58:51.4592 Info Message Template Auto Format enabled
+2022-12-26 20:58:51.4743 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 20:58:51.5825 Info Registered target FileTarget(Name=allfile)
+2022-12-26 20:58:51.5825 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 20:58:51.6222 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 20:58:53.2165 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 20:59:57.0579 Info Message Template Auto Format enabled
+2022-12-26 20:59:57.0657 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 20:59:57.1196 Info Registered target FileTarget(Name=allfile)
+2022-12-26 20:59:57.1196 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 20:59:57.1444 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 20:59:58.7289 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:02:50.6320 Info Message Template Auto Format enabled
+2022-12-26 21:02:50.6474 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 21:02:50.7465 Info Registered target FileTarget(Name=allfile)
+2022-12-26 21:02:50.7465 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 21:02:50.7926 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:02:52.3547 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:05:47.6076 Info Message Template Auto Format enabled
+2022-12-26 21:05:47.6180 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 21:05:47.6760 Info Registered target FileTarget(Name=allfile)
+2022-12-26 21:05:47.6760 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 21:05:47.7031 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:05:49.1173 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:07:13.2197 Info Message Template Auto Format enabled
+2022-12-26 21:07:13.2274 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 21:07:13.2815 Info Registered target FileTarget(Name=allfile)
+2022-12-26 21:07:13.2815 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 21:07:13.3066 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:07:14.9278 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:08:45.3087 Info Message Template Auto Format enabled
+2022-12-26 21:08:45.3158 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 21:08:45.3671 Info Registered target FileTarget(Name=allfile)
+2022-12-26 21:08:45.3671 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 21:08:45.3958 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:08:46.9845 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:10:50.6346 Info Message Template Auto Format enabled
+2022-12-26 21:10:50.6452 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 21:10:50.7144 Info Registered target FileTarget(Name=allfile)
+2022-12-26 21:10:50.7144 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 21:10:50.7442 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:10:52.3259 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:19:05.8423 Info Message Template Auto Format enabled
+2022-12-26 21:19:05.8494 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 21:19:05.9039 Info Registered target FileTarget(Name=allfile)
+2022-12-26 21:19:05.9039 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 21:19:05.9281 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:19:07.5360 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:23:19.0508 Info Message Template Auto Format enabled
+2022-12-26 21:23:19.0508 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 21:23:19.1145 Info Registered target FileTarget(Name=allfile)
+2022-12-26 21:23:19.1145 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 21:23:19.1454 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:23:20.7309 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:24:58.8654 Info Message Template Auto Format enabled
+2022-12-26 21:24:58.8654 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 21:24:58.9290 Info Registered target FileTarget(Name=allfile)
+2022-12-26 21:24:58.9290 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 21:24:58.9573 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:25:00.3803 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:29:31.4714 Info Message Template Auto Format enabled
+2022-12-26 21:29:31.4714 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 21:29:31.5388 Info Registered target FileTarget(Name=allfile)
+2022-12-26 21:29:31.5388 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 21:29:31.5659 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:29:33.5940 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:30:14.2030 Info Message Template Auto Format enabled
+2022-12-26 21:30:14.2103 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 21:30:14.2723 Info Registered target FileTarget(Name=allfile)
+2022-12-26 21:30:14.2723 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 21:30:14.3000 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:30:15.8204 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:30:31.6325 Info Message Template Auto Format enabled
+2022-12-26 21:30:31.6485 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 21:30:31.7618 Info Registered target FileTarget(Name=allfile)
+2022-12-26 21:30:31.7618 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 21:30:31.8086 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:30:33.2111 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:30:48.9960 Info Message Template Auto Format enabled
+2022-12-26 21:30:49.0047 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 21:30:49.0647 Info Registered target FileTarget(Name=allfile)
+2022-12-26 21:30:49.0647 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 21:30:49.0922 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:30:50.7472 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:31:10.4707 Info Message Template Auto Format enabled
+2022-12-26 21:31:10.4707 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 21:31:10.5709 Info Registered target FileTarget(Name=allfile)
+2022-12-26 21:31:10.5709 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 21:31:10.6097 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:31:12.2765 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:31:48.6792 Info Message Template Auto Format enabled
+2022-12-26 21:31:48.6792 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 21:31:48.7342 Info Registered target FileTarget(Name=allfile)
+2022-12-26 21:31:48.7342 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 21:31:48.7607 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:31:50.3160 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:44:40.0546 Info Message Template Auto Format enabled
+2022-12-26 21:44:40.0689 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 21:44:40.1630 Info Registered target FileTarget(Name=allfile)
+2022-12-26 21:44:40.1630 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 21:44:40.2058 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:44:41.8737 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:45:11.6623 Info Message Template Auto Format enabled
+2022-12-26 21:45:11.6623 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 21:45:11.7265 Info Registered target FileTarget(Name=allfile)
+2022-12-26 21:45:11.7265 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 21:45:11.7509 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:45:13.3714 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:45:52.8972 Info Message Template Auto Format enabled
+2022-12-26 21:45:52.9104 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 21:45:53.0165 Info Registered target FileTarget(Name=allfile)
+2022-12-26 21:45:53.0181 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 21:45:53.0679 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:45:54.3989 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:46:24.0731 Info Message Template Auto Format enabled
+2022-12-26 21:46:24.0814 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 21:46:24.1392 Info Registered target FileTarget(Name=allfile)
+2022-12-26 21:46:24.1392 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 21:46:24.1668 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:46:25.7368 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:48:39.4975 Info Message Template Auto Format enabled
+2022-12-26 21:48:39.5069 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 21:48:39.5731 Info Registered target FileTarget(Name=allfile)
+2022-12-26 21:48:39.5731 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 21:48:39.6050 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:48:41.3204 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:49:45.9601 Info Message Template Auto Format enabled
+2022-12-26 21:49:45.9732 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 21:49:46.0811 Info Registered target FileTarget(Name=allfile)
+2022-12-26 21:49:46.0811 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 21:49:46.1439 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:49:47.6931 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:50:17.7898 Info Message Template Auto Format enabled
+2022-12-26 21:50:17.8114 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 21:50:17.9231 Info Registered target FileTarget(Name=allfile)
+2022-12-26 21:50:17.9231 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 21:50:17.9633 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:50:19.2051 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:50:57.5492 Info Message Template Auto Format enabled
+2022-12-26 21:50:57.5492 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 21:50:57.6176 Info Registered target FileTarget(Name=allfile)
+2022-12-26 21:50:57.6176 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 21:50:57.6438 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:50:59.3411 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:51:26.3207 Info Message Template Auto Format enabled
+2022-12-26 21:51:26.3294 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 21:51:26.3876 Info Registered target FileTarget(Name=allfile)
+2022-12-26 21:51:26.3876 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 21:51:26.4171 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:51:27.5125 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:51:53.8212 Info Message Template Auto Format enabled
+2022-12-26 21:51:53.8397 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 21:51:53.9431 Info Registered target FileTarget(Name=allfile)
+2022-12-26 21:51:53.9431 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 21:51:54.0026 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:51:55.9936 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:54:47.0318 Info Message Template Auto Format enabled
+2022-12-26 21:54:47.0376 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 21:54:47.0774 Info Registered target FileTarget(Name=allfile)
+2022-12-26 21:54:47.0774 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 21:54:47.0963 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:54:48.5305 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:56:20.6520 Info Message Template Auto Format enabled
+2022-12-26 21:56:20.6601 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 21:56:20.7234 Info Registered target FileTarget(Name=allfile)
+2022-12-26 21:56:20.7234 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 21:56:20.7556 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 21:56:22.2749 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:00:21.8596 Info Message Template Auto Format enabled
+2022-12-26 22:00:21.8669 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 22:00:21.9153 Info Registered target FileTarget(Name=allfile)
+2022-12-26 22:00:21.9153 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 22:00:21.9402 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:00:23.9736 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:03:40.2677 Info Message Template Auto Format enabled
+2022-12-26 22:03:40.2677 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 22:03:40.3528 Info Registered target FileTarget(Name=allfile)
+2022-12-26 22:03:40.3528 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 22:03:40.3836 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:03:42.0331 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:03:56.4296 Info Message Template Auto Format enabled
+2022-12-26 22:03:56.4410 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 22:03:56.5249 Info Registered target FileTarget(Name=allfile)
+2022-12-26 22:03:56.5249 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 22:03:56.5665 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:03:57.8252 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:04:29.2784 Info Message Template Auto Format enabled
+2022-12-26 22:04:29.2890 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 22:04:29.4181 Info Registered target FileTarget(Name=allfile)
+2022-12-26 22:04:29.4181 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 22:04:29.4475 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:04:30.4657 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:07:40.5766 Info Message Template Auto Format enabled
+2022-12-26 22:07:40.5867 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 22:07:40.6505 Info Registered target FileTarget(Name=allfile)
+2022-12-26 22:07:40.6505 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 22:07:40.6837 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:07:42.1253 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:08:43.7613 Info Message Template Auto Format enabled
+2022-12-26 22:08:43.7697 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 22:08:43.8383 Info Registered target FileTarget(Name=allfile)
+2022-12-26 22:08:43.8383 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 22:08:43.8666 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:08:45.4368 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:09:18.5357 Info Message Template Auto Format enabled
+2022-12-26 22:09:18.5357 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 22:09:18.6121 Info Registered target FileTarget(Name=allfile)
+2022-12-26 22:09:18.6121 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 22:09:18.6409 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:09:20.1997 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:10:16.8744 Info Message Template Auto Format enabled
+2022-12-26 22:10:16.8982 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 22:10:17.0120 Info Registered target FileTarget(Name=allfile)
+2022-12-26 22:10:17.0120 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 22:10:17.0477 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:10:18.6030 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:14:19.4907 Info Message Template Auto Format enabled
+2022-12-26 22:14:19.4907 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 22:14:19.5616 Info Registered target FileTarget(Name=allfile)
+2022-12-26 22:14:19.5616 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 22:14:19.5877 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:14:21.1319 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:15:45.4542 Info Message Template Auto Format enabled
+2022-12-26 22:15:45.4619 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 22:15:45.5158 Info Registered target FileTarget(Name=allfile)
+2022-12-26 22:15:45.5158 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 22:15:45.5412 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:15:46.9987 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:16:29.1337 Info Message Template Auto Format enabled
+2022-12-26 22:16:29.1421 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 22:16:29.1975 Info Registered target FileTarget(Name=allfile)
+2022-12-26 22:16:29.1975 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 22:16:29.2212 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:16:30.2405 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:17:37.7604 Info Message Template Auto Format enabled
+2022-12-26 22:17:37.7703 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 22:17:37.8285 Info Registered target FileTarget(Name=allfile)
+2022-12-26 22:17:37.8285 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 22:17:37.8539 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:17:39.3022 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:18:02.1280 Info Message Template Auto Format enabled
+2022-12-26 22:18:02.1280 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 22:18:02.1933 Info Registered target FileTarget(Name=allfile)
+2022-12-26 22:18:02.1933 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 22:18:02.2180 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:18:03.8844 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:18:40.7319 Info Message Template Auto Format enabled
+2022-12-26 22:18:40.7424 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 22:18:40.8240 Info Registered target FileTarget(Name=allfile)
+2022-12-26 22:18:40.8240 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 22:18:40.8616 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:18:42.0056 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:19:00.4865 Info Message Template Auto Format enabled
+2022-12-26 22:19:00.4865 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 22:19:00.5566 Info Registered target FileTarget(Name=allfile)
+2022-12-26 22:19:00.5566 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 22:19:00.5853 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:19:02.5124 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:19:31.9030 Info Message Template Auto Format enabled
+2022-12-26 22:19:31.9120 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 22:19:31.9697 Info Registered target FileTarget(Name=allfile)
+2022-12-26 22:19:31.9697 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 22:19:31.9971 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:19:33.6554 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:20:09.6051 Info Message Template Auto Format enabled
+2022-12-26 22:20:09.6142 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 22:20:09.6734 Info Registered target FileTarget(Name=allfile)
+2022-12-26 22:20:09.6734 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 22:20:09.7000 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:20:11.3008 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:21:51.2440 Info Message Template Auto Format enabled
+2022-12-26 22:21:51.2523 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 22:21:51.3126 Info Registered target FileTarget(Name=allfile)
+2022-12-26 22:21:51.3136 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 22:21:51.3424 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:21:53.0507 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:22:13.7566 Info Message Template Auto Format enabled
+2022-12-26 22:22:13.7672 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 22:22:13.8436 Info Registered target FileTarget(Name=allfile)
+2022-12-26 22:22:13.8452 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 22:22:13.8918 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 22:22:15.2552 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 23:27:10.0428 Info Message Template Auto Format enabled
+2022-12-26 23:27:10.0516 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 23:27:10.1078 Info Registered target FileTarget(Name=allfile)
+2022-12-26 23:27:10.1078 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 23:27:10.1330 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 23:27:12.2174 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 23:36:38.2576 Info Message Template Auto Format enabled
+2022-12-26 23:36:38.2736 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 23:36:38.3567 Info Registered target FileTarget(Name=allfile)
+2022-12-26 23:36:38.3567 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 23:36:38.3872 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 23:36:40.0108 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 23:55:12.0508 Info Message Template Auto Format enabled
+2022-12-26 23:55:12.0508 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 23:55:12.1187 Info Registered target FileTarget(Name=allfile)
+2022-12-26 23:55:12.1187 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 23:55:12.1475 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 23:55:13.6921 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 23:55:34.7062 Info Message Template Auto Format enabled
+2022-12-26 23:55:34.7062 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-26 23:55:34.7611 Info Registered target FileTarget(Name=allfile)
+2022-12-26 23:55:34.7611 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-26 23:55:34.7832 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-26 23:55:35.8201 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-27 22:44:23.5438 Info Message Template Auto Format enabled
+2022-12-27 22:44:23.5653 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-27 22:44:23.6101 Info Registered target FileTarget(Name=allfile)
+2022-12-27 22:44:23.6101 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-27 22:44:23.6299 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-27 22:44:25.2266 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-27 23:09:42.8901 Info Message Template Auto Format enabled
+2022-12-27 23:09:42.8901 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-27 23:09:42.9388 Info Registered target FileTarget(Name=allfile)
+2022-12-27 23:09:42.9388 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-27 23:09:42.9591 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-27 23:09:44.0791 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-27 23:10:36.1557 Info Message Template Auto Format enabled
+2022-12-27 23:10:36.1557 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-27 23:10:36.2020 Info Registered target FileTarget(Name=allfile)
+2022-12-27 23:10:36.2020 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-27 23:10:36.2223 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-27 23:10:37.3304 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-27 23:21:20.7019 Info Message Template Auto Format enabled
+2022-12-27 23:21:20.7019 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-27 23:21:20.7555 Info Registered target FileTarget(Name=allfile)
+2022-12-27 23:21:20.7555 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-27 23:21:20.7750 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-27 23:21:21.8799 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-27 23:22:47.7357 Info Message Template Auto Format enabled
+2022-12-27 23:22:47.7357 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-27 23:22:47.7854 Info Registered target FileTarget(Name=allfile)
+2022-12-27 23:22:47.7854 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-27 23:22:47.8120 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-27 23:22:48.9375 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-27 23:26:12.8942 Info Message Template Auto Format enabled
+2022-12-27 23:26:12.8942 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-27 23:26:12.9447 Info Registered target FileTarget(Name=allfile)
+2022-12-27 23:26:12.9447 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-27 23:26:12.9645 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-27 23:26:14.0390 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-27 23:26:44.9107 Info Message Template Auto Format enabled
+2022-12-27 23:26:44.9225 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-27 23:26:44.9796 Info Registered target FileTarget(Name=allfile)
+2022-12-27 23:26:44.9796 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-27 23:26:44.9999 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-27 23:26:46.2939 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-27 23:35:57.7963 Info Message Template Auto Format enabled
+2022-12-27 23:35:57.7963 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-27 23:35:57.8428 Info Registered target FileTarget(Name=allfile)
+2022-12-27 23:35:57.8428 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-27 23:35:57.8636 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-27 23:35:58.9807 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-27 23:36:29.8106 Info Message Template Auto Format enabled
+2022-12-27 23:36:29.8106 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-27 23:36:29.8750 Info Registered target FileTarget(Name=allfile)
+2022-12-27 23:36:29.8750 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-27 23:36:29.9087 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-27 23:36:30.9200 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-27 23:37:29.8241 Info Message Template Auto Format enabled
+2022-12-27 23:37:29.8241 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-27 23:37:29.8907 Info Registered target FileTarget(Name=allfile)
+2022-12-27 23:37:29.8907 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-27 23:37:29.9217 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-27 23:37:31.0801 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-27 23:48:42.4352 Info Message Template Auto Format enabled
+2022-12-27 23:48:42.4352 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-27 23:48:42.4829 Info Registered target FileTarget(Name=allfile)
+2022-12-27 23:48:42.4829 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-27 23:48:42.5023 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-27 23:48:43.5848 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-27 23:49:40.5251 Info Message Template Auto Format enabled
+2022-12-27 23:49:40.5315 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-27 23:49:40.5746 Info Registered target FileTarget(Name=allfile)
+2022-12-27 23:49:40.5746 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-27 23:49:40.5946 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-27 23:49:41.7691 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-27 23:52:15.8251 Info Message Template Auto Format enabled
+2022-12-27 23:52:15.8251 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-27 23:52:15.8741 Info Registered target FileTarget(Name=allfile)
+2022-12-27 23:52:15.8741 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-27 23:52:15.8937 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-27 23:52:16.9698 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:00:39.0563 Info Message Template Auto Format enabled
+2022-12-28 00:00:39.0626 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 00:00:39.1035 Info Registered target FileTarget(Name=allfile)
+2022-12-28 00:00:39.1035 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 00:00:39.1226 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:00:40.2202 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:01:08.1238 Info Message Template Auto Format enabled
+2022-12-28 00:01:08.1238 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 00:01:08.1723 Info Registered target FileTarget(Name=allfile)
+2022-12-28 00:01:08.1723 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 00:01:08.1935 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:01:09.3245 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:01:39.5790 Info Message Template Auto Format enabled
+2022-12-28 00:01:39.5790 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 00:01:39.6293 Info Registered target FileTarget(Name=allfile)
+2022-12-28 00:01:39.6293 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 00:01:39.6490 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:01:40.7686 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:02:21.8423 Info Message Template Auto Format enabled
+2022-12-28 00:02:21.8423 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 00:02:21.8979 Info Registered target FileTarget(Name=allfile)
+2022-12-28 00:02:21.8979 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 00:02:21.9247 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:02:23.2036 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:05:26.7148 Info Message Template Auto Format enabled
+2022-12-28 00:05:26.7148 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 00:05:26.7617 Info Registered target FileTarget(Name=allfile)
+2022-12-28 00:05:26.7617 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 00:05:26.7811 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:05:27.8546 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:06:34.0396 Info Message Template Auto Format enabled
+2022-12-28 00:06:34.0456 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 00:06:34.0884 Info Registered target FileTarget(Name=allfile)
+2022-12-28 00:06:34.0893 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 00:06:34.1092 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:06:35.1972 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:07:41.3949 Info Message Template Auto Format enabled
+2022-12-28 00:07:41.3949 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 00:07:41.4508 Info Registered target FileTarget(Name=allfile)
+2022-12-28 00:07:41.4508 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 00:07:41.4769 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:07:42.6478 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:08:23.4010 Info Message Template Auto Format enabled
+2022-12-28 00:08:23.4075 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 00:08:23.4589 Info Registered target FileTarget(Name=allfile)
+2022-12-28 00:08:23.4589 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 00:08:23.4881 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:08:24.7095 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:42:45.0868 Info Message Template Auto Format enabled
+2022-12-28 00:42:45.0950 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 00:42:45.1565 Info Registered target FileTarget(Name=allfile)
+2022-12-28 00:42:45.1565 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 00:42:45.1833 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:42:46.4232 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:46:25.6865 Info Message Template Auto Format enabled
+2022-12-28 00:46:25.6865 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 00:46:25.7336 Info Registered target FileTarget(Name=allfile)
+2022-12-28 00:46:25.7336 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 00:46:25.7530 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:46:26.8610 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:46:42.8508 Info Message Template Auto Format enabled
+2022-12-28 00:46:42.8566 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 00:46:42.8977 Info Registered target FileTarget(Name=allfile)
+2022-12-28 00:46:42.8977 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 00:46:42.9167 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:46:43.7431 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:47:41.3055 Info Message Template Auto Format enabled
+2022-12-28 00:47:41.3117 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 00:47:41.3547 Info Registered target FileTarget(Name=allfile)
+2022-12-28 00:47:41.3547 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 00:47:41.3750 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:47:42.4882 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:53:16.9665 Info Message Template Auto Format enabled
+2022-12-28 00:53:16.9665 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 00:53:17.0220 Info Registered target FileTarget(Name=allfile)
+2022-12-28 00:53:17.0220 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 00:53:17.0437 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:53:18.4690 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:54:04.1454 Info Message Template Auto Format enabled
+2022-12-28 00:54:04.1513 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 00:54:04.1939 Info Registered target FileTarget(Name=allfile)
+2022-12-28 00:54:04.1939 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 00:54:04.2168 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:54:05.5370 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:56:27.1002 Info Message Template Auto Format enabled
+2022-12-28 00:56:27.1061 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 00:56:27.1470 Info Registered target FileTarget(Name=allfile)
+2022-12-28 00:56:27.1470 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 00:56:27.1678 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 00:56:28.2351 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 01:01:13.2085 Info Message Template Auto Format enabled
+2022-12-28 01:01:13.2149 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 01:01:13.2589 Info Registered target FileTarget(Name=allfile)
+2022-12-28 01:01:13.2589 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 01:01:13.2788 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 01:01:51.6694 Info Message Template Auto Format enabled
+2022-12-28 01:01:51.6694 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 01:01:51.7173 Info Registered target FileTarget(Name=allfile)
+2022-12-28 01:01:51.7173 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 01:01:51.7368 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 01:01:52.8529 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 01:02:30.4552 Info Message Template Auto Format enabled
+2022-12-28 01:02:30.4552 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 01:02:30.5016 Info Registered target FileTarget(Name=allfile)
+2022-12-28 01:02:30.5016 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 01:02:30.5206 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 01:02:31.3222 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 01:11:48.7954 Info Message Template Auto Format enabled
+2022-12-28 01:11:48.7954 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 01:11:48.8424 Info Registered target FileTarget(Name=allfile)
+2022-12-28 01:11:48.8424 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 01:11:48.8616 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 01:11:49.9875 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 12:56:45.3163 Info Message Template Auto Format enabled
+2022-12-28 12:56:45.3477 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 12:56:45.4008 Info Registered target FileTarget(Name=allfile)
+2022-12-28 12:56:45.4016 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 12:56:45.4288 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 12:56:47.5507 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 13:03:57.1498 Info Message Template Auto Format enabled
+2022-12-28 13:03:57.1561 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 13:03:57.2048 Info Registered target FileTarget(Name=allfile)
+2022-12-28 13:03:57.2048 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 13:03:57.2279 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 13:03:58.6326 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 13:08:17.4453 Info Message Template Auto Format enabled
+2022-12-28 13:08:17.4518 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 13:08:17.4978 Info Registered target FileTarget(Name=allfile)
+2022-12-28 13:08:17.4978 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 13:08:17.5205 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 13:08:19.0163 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 13:09:26.3364 Info Message Template Auto Format enabled
+2022-12-28 13:09:26.3423 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 13:09:26.3820 Info Registered target FileTarget(Name=allfile)
+2022-12-28 13:09:26.3820 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 13:09:26.4036 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 13:09:27.7857 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 13:14:06.1093 Info Message Template Auto Format enabled
+2022-12-28 13:14:06.1206 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 13:14:06.1940 Info Registered target FileTarget(Name=allfile)
+2022-12-28 13:14:06.1940 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 13:14:06.2241 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 13:14:07.7835 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 13:48:30.8378 Info Message Template Auto Format enabled
+2022-12-28 13:48:30.8485 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 13:48:30.9214 Info Registered target FileTarget(Name=allfile)
+2022-12-28 13:48:30.9214 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 13:48:30.9796 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 13:48:32.6848 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 13:49:21.6744 Info Message Template Auto Format enabled
+2022-12-28 13:49:21.6744 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 13:49:21.7397 Info Registered target FileTarget(Name=allfile)
+2022-12-28 13:49:21.7397 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 13:49:21.7630 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 13:49:23.2817 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 13:50:27.4080 Info Message Template Auto Format enabled
+2022-12-28 13:50:27.4080 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 13:50:27.4580 Info Registered target FileTarget(Name=allfile)
+2022-12-28 13:50:27.4580 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 13:50:27.4768 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 13:50:28.9749 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 13:55:06.8649 Info Message Template Auto Format enabled
+2022-12-28 13:55:06.8743 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 13:55:06.9371 Info Registered target FileTarget(Name=allfile)
+2022-12-28 13:55:06.9371 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 13:55:06.9645 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 13:55:08.7259 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 13:59:01.6118 Info Message Template Auto Format enabled
+2022-12-28 13:59:01.6118 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 13:59:01.6804 Info Registered target FileTarget(Name=allfile)
+2022-12-28 13:59:01.6804 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 13:59:01.7067 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 13:59:03.5069 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:03:21.1055 Info Message Template Auto Format enabled
+2022-12-28 14:03:21.1123 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 14:03:21.1576 Info Registered target FileTarget(Name=allfile)
+2022-12-28 14:03:21.1576 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 14:03:21.1783 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:03:23.0972 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:07:14.2338 Info Message Template Auto Format enabled
+2022-12-28 14:07:14.2338 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 14:07:14.3067 Info Registered target FileTarget(Name=allfile)
+2022-12-28 14:07:14.3067 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 14:07:14.3341 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:07:15.7412 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:07:30.9448 Info Message Template Auto Format enabled
+2022-12-28 14:07:30.9448 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 14:07:30.9926 Info Registered target FileTarget(Name=allfile)
+2022-12-28 14:07:30.9926 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 14:07:31.0124 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:07:31.8352 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:08:44.0087 Info Message Template Auto Format enabled
+2022-12-28 14:08:44.0148 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 14:08:44.0588 Info Registered target FileTarget(Name=allfile)
+2022-12-28 14:08:44.0588 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 14:08:44.0786 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:08:45.5421 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:09:06.3385 Info Message Template Auto Format enabled
+2022-12-28 14:09:06.3474 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 14:09:06.4022 Info Registered target FileTarget(Name=allfile)
+2022-12-28 14:09:06.4022 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 14:09:06.4262 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:09:08.1003 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:10:07.1324 Info Message Template Auto Format enabled
+2022-12-28 14:10:07.1413 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 14:10:07.2049 Info Registered target FileTarget(Name=allfile)
+2022-12-28 14:10:07.2049 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 14:10:07.2356 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:10:08.8070 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:10:29.2524 Info Message Template Auto Format enabled
+2022-12-28 14:10:29.2524 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 14:10:29.3114 Info Registered target FileTarget(Name=allfile)
+2022-12-28 14:10:29.3114 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 14:10:29.3339 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:10:30.3803 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:15:56.4690 Info Message Template Auto Format enabled
+2022-12-28 14:15:56.4690 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 14:15:56.5330 Info Registered target FileTarget(Name=allfile)
+2022-12-28 14:15:56.5330 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 14:15:56.5593 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:15:58.1550 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:26:05.3521 Info Message Template Auto Format enabled
+2022-12-28 14:26:05.3660 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 14:26:05.4716 Info Registered target FileTarget(Name=allfile)
+2022-12-28 14:26:05.4716 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 14:26:05.5124 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:26:07.2814 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:43:49.0761 Info Message Template Auto Format enabled
+2022-12-28 14:43:49.0827 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 14:43:49.1363 Info Registered target FileTarget(Name=allfile)
+2022-12-28 14:43:49.1363 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 14:43:49.1664 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:43:50.6493 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:45:55.0495 Info Message Template Auto Format enabled
+2022-12-28 14:45:55.0495 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 14:45:55.1006 Info Registered target FileTarget(Name=allfile)
+2022-12-28 14:45:55.1006 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 14:45:55.1203 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:45:56.6041 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:47:27.6698 Info Message Template Auto Format enabled
+2022-12-28 14:47:27.6797 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 14:47:27.7402 Info Registered target FileTarget(Name=allfile)
+2022-12-28 14:47:27.7402 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 14:47:27.7662 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:47:29.3935 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:47:51.7567 Info Message Template Auto Format enabled
+2022-12-28 14:47:51.7666 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 14:47:51.8320 Info Registered target FileTarget(Name=allfile)
+2022-12-28 14:47:51.8320 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 14:47:51.8629 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:47:53.2668 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:50:02.6618 Info Message Template Auto Format enabled
+2022-12-28 14:50:02.6618 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 14:50:02.7255 Info Registered target FileTarget(Name=allfile)
+2022-12-28 14:50:02.7255 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 14:50:02.7510 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 14:50:04.4225 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:04:28.2789 Info Message Template Auto Format enabled
+2022-12-28 15:04:28.2943 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 15:04:28.4054 Info Registered target FileTarget(Name=allfile)
+2022-12-28 15:04:28.4054 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 15:04:28.4633 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:04:30.2744 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:05:02.5566 Info Message Template Auto Format enabled
+2022-12-28 15:05:02.5640 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 15:05:02.6165 Info Registered target FileTarget(Name=allfile)
+2022-12-28 15:05:02.6165 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 15:05:02.6414 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:05:03.8159 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:06:02.7584 Info Message Template Auto Format enabled
+2022-12-28 15:06:02.7661 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 15:06:02.8213 Info Registered target FileTarget(Name=allfile)
+2022-12-28 15:06:02.8213 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 15:06:02.8457 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:06:04.3201 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:09:34.1149 Info Message Template Auto Format enabled
+2022-12-28 15:09:34.1149 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 15:09:34.1793 Info Registered target FileTarget(Name=allfile)
+2022-12-28 15:09:34.1793 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 15:09:34.2042 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:09:35.9639 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:10:48.8025 Info Message Template Auto Format enabled
+2022-12-28 15:10:48.8025 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 15:10:48.8616 Info Registered target FileTarget(Name=allfile)
+2022-12-28 15:10:48.8616 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 15:10:48.8860 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:10:50.5866 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:11:26.8110 Info Message Template Auto Format enabled
+2022-12-28 15:11:26.8193 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 15:11:26.8822 Info Registered target FileTarget(Name=allfile)
+2022-12-28 15:11:26.8822 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 15:11:26.9136 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:11:28.0794 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:26:33.6994 Info Message Template Auto Format enabled
+2022-12-28 15:26:33.7108 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 15:26:33.7962 Info Registered target FileTarget(Name=allfile)
+2022-12-28 15:26:33.7962 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 15:26:33.8501 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:26:35.6167 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:29:16.9911 Info Message Template Auto Format enabled
+2022-12-28 15:29:17.0035 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 15:29:17.0708 Info Registered target FileTarget(Name=allfile)
+2022-12-28 15:29:17.0708 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 15:29:17.1004 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:29:18.6304 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:31:43.9099 Info Message Template Auto Format enabled
+2022-12-28 15:31:43.9099 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 15:31:43.9717 Info Registered target FileTarget(Name=allfile)
+2022-12-28 15:31:43.9717 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 15:31:43.9953 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:31:46.0771 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:33:41.1354 Info Message Template Auto Format enabled
+2022-12-28 15:33:41.1425 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 15:33:41.1929 Info Registered target FileTarget(Name=allfile)
+2022-12-28 15:33:41.1929 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 15:33:41.2168 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:33:42.7223 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:34:39.9220 Info Message Template Auto Format enabled
+2022-12-28 15:34:39.9220 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 15:34:39.9806 Info Registered target FileTarget(Name=allfile)
+2022-12-28 15:34:39.9806 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 15:34:40.0024 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:34:41.4519 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:36:31.3400 Info Message Template Auto Format enabled
+2022-12-28 15:36:31.3521 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 15:36:31.4356 Info Registered target FileTarget(Name=allfile)
+2022-12-28 15:36:31.4372 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 15:36:31.4756 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:36:33.3127 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:36:52.4966 Info Message Template Auto Format enabled
+2022-12-28 15:36:52.5076 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 15:36:52.5797 Info Registered target FileTarget(Name=allfile)
+2022-12-28 15:36:52.5797 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 15:36:52.6138 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:36:53.8677 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:56:31.5119 Info Message Template Auto Format enabled
+2022-12-28 15:56:31.5193 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 15:56:31.5709 Info Registered target FileTarget(Name=allfile)
+2022-12-28 15:56:31.5709 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 15:56:31.5947 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 15:56:33.4100 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 16:34:45.3026 Info Message Template Auto Format enabled
+2022-12-28 16:34:45.3538 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 16:34:45.6109 Info Registered target FileTarget(Name=allfile)
+2022-12-28 16:34:45.6109 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 16:34:45.7313 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 16:34:51.4724 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 16:40:44.1458 Info Message Template Auto Format enabled
+2022-12-28 16:40:44.1588 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 16:40:44.2244 Info Registered target FileTarget(Name=allfile)
+2022-12-28 16:40:44.2244 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 16:40:44.2514 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 16:40:46.8132 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 16:41:34.4652 Info Message Template Auto Format enabled
+2022-12-28 16:41:34.4742 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 16:41:34.5426 Info Registered target FileTarget(Name=allfile)
+2022-12-28 16:41:34.5426 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 16:41:34.5669 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 16:41:37.2303 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 18:35:39.1835 Info Message Template Auto Format enabled
+2022-12-28 18:35:39.2083 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 18:35:39.2960 Info Registered target FileTarget(Name=allfile)
+2022-12-28 18:35:39.2960 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 18:35:39.3350 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 18:35:41.3333 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 18:42:33.8803 Info Message Template Auto Format enabled
+2022-12-28 18:42:33.8803 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 18:42:33.9446 Info Registered target FileTarget(Name=allfile)
+2022-12-28 18:42:33.9446 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 18:42:33.9711 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 18:42:35.3148 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 18:42:49.6358 Info Message Template Auto Format enabled
+2022-12-28 18:42:49.6435 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 18:42:49.6955 Info Registered target FileTarget(Name=allfile)
+2022-12-28 18:42:49.6955 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 18:42:49.7196 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 18:42:51.2208 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 18:44:48.6510 Info Message Template Auto Format enabled
+2022-12-28 18:44:48.6605 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 18:44:48.7142 Info Registered target FileTarget(Name=allfile)
+2022-12-28 18:44:48.7142 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 18:44:48.7390 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 18:44:50.2923 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 18:52:16.9735 Info Message Template Auto Format enabled
+2022-12-28 18:52:16.9735 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 18:52:17.0245 Info Registered target FileTarget(Name=allfile)
+2022-12-28 18:52:17.0245 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 18:52:17.0445 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 18:52:18.1297 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 20:23:17.3301 Info Message Template Auto Format enabled
+2022-12-28 20:23:17.3563 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 20:23:17.4101 Info Registered target FileTarget(Name=allfile)
+2022-12-28 20:23:17.4101 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 20:23:17.4357 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 20:23:19.1822 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 21:36:01.8098 Info Message Template Auto Format enabled
+2022-12-28 21:36:01.8156 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 21:36:01.8575 Info Registered target FileTarget(Name=allfile)
+2022-12-28 21:36:01.8575 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 21:36:01.8761 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 21:36:03.0799 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 21:37:36.4240 Info Message Template Auto Format enabled
+2022-12-28 21:37:36.4240 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 21:37:36.4811 Info Registered target FileTarget(Name=allfile)
+2022-12-28 21:37:36.4811 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 21:37:36.5030 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 21:37:37.8684 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 21:38:31.9480 Info Message Template Auto Format enabled
+2022-12-28 21:38:31.9591 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 21:38:32.0373 Info Registered target FileTarget(Name=allfile)
+2022-12-28 21:38:32.0373 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 21:38:32.0739 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 21:38:33.8482 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 21:43:12.4640 Info Message Template Auto Format enabled
+2022-12-28 21:43:12.4710 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-28 21:43:12.5141 Info Registered target FileTarget(Name=allfile)
+2022-12-28 21:43:12.5141 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-28 21:43:12.5333 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-28 21:43:13.9477 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 12:56:58.7233 Info Message Template Auto Format enabled
+2022-12-29 12:56:58.7615 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 12:56:58.9199 Info Registered target FileTarget(Name=allfile)
+2022-12-29 12:56:58.9199 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 12:56:59.0133 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 12:57:04.6642 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:35:39.8131 Info Message Template Auto Format enabled
+2022-12-29 13:35:39.8131 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 13:35:39.8690 Info Registered target FileTarget(Name=allfile)
+2022-12-29 13:35:39.8690 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 13:35:39.8908 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:35:41.3358 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:36:40.0602 Info Message Template Auto Format enabled
+2022-12-29 13:36:40.0682 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 13:36:40.1227 Info Registered target FileTarget(Name=allfile)
+2022-12-29 13:36:40.1227 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 13:36:40.1470 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:36:41.6536 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:36:57.2794 Info Message Template Auto Format enabled
+2022-12-29 13:36:57.2947 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 13:36:57.3868 Info Registered target FileTarget(Name=allfile)
+2022-12-29 13:36:57.3868 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 13:36:57.4230 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:36:58.9631 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:37:16.8100 Info Message Template Auto Format enabled
+2022-12-29 13:37:16.8234 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 13:37:16.8846 Info Registered target FileTarget(Name=allfile)
+2022-12-29 13:37:16.8846 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 13:37:16.9115 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:37:17.9616 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:38:10.0692 Info Message Template Auto Format enabled
+2022-12-29 13:38:10.0769 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 13:38:10.1264 Info Registered target FileTarget(Name=allfile)
+2022-12-29 13:38:10.1264 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 13:38:10.1639 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:38:12.0528 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:38:33.8843 Info Message Template Auto Format enabled
+2022-12-29 13:38:33.8944 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 13:38:33.9617 Info Registered target FileTarget(Name=allfile)
+2022-12-29 13:38:33.9617 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 13:38:33.9934 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:38:35.0719 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:38:49.9519 Info Message Template Auto Format enabled
+2022-12-29 13:38:49.9672 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 13:38:50.0527 Info Registered target FileTarget(Name=allfile)
+2022-12-29 13:38:50.0527 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 13:38:50.0943 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:38:51.1876 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:41:15.0977 Info Message Template Auto Format enabled
+2022-12-29 13:41:15.0977 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 13:41:15.1614 Info Registered target FileTarget(Name=allfile)
+2022-12-29 13:41:15.1614 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 13:41:15.1850 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:41:16.7519 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:41:54.0304 Info Message Template Auto Format enabled
+2022-12-29 13:41:54.0304 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 13:41:54.0961 Info Registered target FileTarget(Name=allfile)
+2022-12-29 13:41:54.0961 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 13:41:54.1252 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:41:55.6698 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:42:18.9100 Info Message Template Auto Format enabled
+2022-12-29 13:42:18.9239 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 13:42:19.0489 Info Registered target FileTarget(Name=allfile)
+2022-12-29 13:42:19.0489 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 13:42:19.1340 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:42:20.5192 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:48:49.2335 Info Message Template Auto Format enabled
+2022-12-29 13:48:49.2335 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 13:48:49.2981 Info Registered target FileTarget(Name=allfile)
+2022-12-29 13:48:49.2981 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 13:48:49.3251 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:48:50.7971 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:49:39.6196 Info Message Template Auto Format enabled
+2022-12-29 13:49:39.6277 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 13:49:39.6832 Info Registered target FileTarget(Name=allfile)
+2022-12-29 13:49:39.6832 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 13:49:39.7110 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:49:41.2004 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:49:54.3355 Info Message Template Auto Format enabled
+2022-12-29 13:49:54.3495 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 13:49:54.4292 Info Registered target FileTarget(Name=allfile)
+2022-12-29 13:49:54.4292 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 13:49:54.4617 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:49:55.5446 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:51:38.9034 Info Message Template Auto Format enabled
+2022-12-29 13:51:38.9110 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 13:51:38.9579 Info Registered target FileTarget(Name=allfile)
+2022-12-29 13:51:38.9579 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 13:51:38.9849 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:51:40.3218 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:53:57.0653 Info Message Template Auto Format enabled
+2022-12-29 13:53:57.0653 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 13:53:57.1201 Info Registered target FileTarget(Name=allfile)
+2022-12-29 13:53:57.1201 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 13:53:57.1425 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:53:59.2520 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:56:00.9049 Info Message Template Auto Format enabled
+2022-12-29 13:56:00.9049 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 13:56:00.9754 Info Registered target FileTarget(Name=allfile)
+2022-12-29 13:56:00.9754 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 13:56:01.0008 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 13:56:02.6385 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 14:09:16.0865 Info Message Template Auto Format enabled
+2022-12-29 14:09:16.0942 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 14:09:16.1495 Info Registered target FileTarget(Name=allfile)
+2022-12-29 14:09:16.1495 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 14:09:16.1729 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 14:09:17.7548 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 14:32:09.0945 Info Message Template Auto Format enabled
+2022-12-29 14:32:09.1005 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 14:32:09.1475 Info Registered target FileTarget(Name=allfile)
+2022-12-29 14:32:09.1475 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 14:32:09.1748 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 14:32:10.8410 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 14:36:26.6119 Info Message Template Auto Format enabled
+2022-12-29 14:36:26.6119 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 14:36:26.6749 Info Registered target FileTarget(Name=allfile)
+2022-12-29 14:36:26.6749 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 14:36:26.7008 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 14:36:28.1650 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 14:40:10.2181 Info Message Template Auto Format enabled
+2022-12-29 14:40:10.2273 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 14:40:10.2893 Info Registered target FileTarget(Name=allfile)
+2022-12-29 14:40:10.2893 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 14:40:10.3165 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 14:40:11.5948 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 14:43:32.9949 Info Message Template Auto Format enabled
+2022-12-29 14:43:33.0027 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 14:43:33.0540 Info Registered target FileTarget(Name=allfile)
+2022-12-29 14:43:33.0540 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 14:43:33.0791 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 14:43:34.1704 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 14:49:02.4203 Info Message Template Auto Format enabled
+2022-12-29 14:49:02.4634 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 14:49:02.5682 Info Registered target FileTarget(Name=allfile)
+2022-12-29 14:49:02.5682 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 14:49:02.6136 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 14:49:04.2865 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 14:51:54.2312 Info Message Template Auto Format enabled
+2022-12-29 14:51:54.2389 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 14:51:54.2909 Info Registered target FileTarget(Name=allfile)
+2022-12-29 14:51:54.2909 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 14:51:54.3168 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 14:51:55.4661 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 14:52:25.2459 Info Message Template Auto Format enabled
+2022-12-29 14:52:25.2546 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 14:52:25.3127 Info Registered target FileTarget(Name=allfile)
+2022-12-29 14:52:25.3127 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 14:52:25.3394 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 14:52:26.4940 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 14:55:48.6578 Info Message Template Auto Format enabled
+2022-12-29 14:55:48.6794 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 14:55:48.7917 Info Registered target FileTarget(Name=allfile)
+2022-12-29 14:55:48.7917 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 14:55:48.8330 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 14:55:50.2114 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:00:47.1355 Info Message Template Auto Format enabled
+2022-12-29 15:00:47.1438 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 15:00:47.1998 Info Registered target FileTarget(Name=allfile)
+2022-12-29 15:00:47.1998 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 15:00:47.2276 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:00:48.4188 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:04:52.7197 Info Message Template Auto Format enabled
+2022-12-29 15:04:52.7271 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 15:04:52.7846 Info Registered target FileTarget(Name=allfile)
+2022-12-29 15:04:52.7846 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 15:04:52.8170 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:04:53.9549 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:14:52.8778 Info Message Template Auto Format enabled
+2022-12-29 15:14:52.8778 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 15:14:52.9374 Info Registered target FileTarget(Name=allfile)
+2022-12-29 15:14:52.9374 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 15:14:52.9633 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:14:54.5938 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:18:05.2395 Info Message Template Auto Format enabled
+2022-12-29 15:18:05.2395 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 15:18:05.3077 Info Registered target FileTarget(Name=allfile)
+2022-12-29 15:18:05.3077 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 15:18:05.3357 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:18:07.5150 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:20:34.0546 Info Message Template Auto Format enabled
+2022-12-29 15:20:34.0744 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 15:20:34.1829 Info Registered target FileTarget(Name=allfile)
+2022-12-29 15:20:34.1829 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 15:20:34.2325 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:20:35.8856 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:20:57.5958 Info Message Template Auto Format enabled
+2022-12-29 15:20:57.6070 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 15:20:57.6854 Info Registered target FileTarget(Name=allfile)
+2022-12-29 15:20:57.6854 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 15:20:57.7229 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:20:58.9378 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:21:17.6725 Info Message Template Auto Format enabled
+2022-12-29 15:21:17.6804 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 15:21:17.7281 Info Registered target FileTarget(Name=allfile)
+2022-12-29 15:21:17.7281 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 15:21:17.7581 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:21:19.4811 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:21:41.0936 Info Message Template Auto Format enabled
+2022-12-29 15:21:41.1020 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 15:21:41.1474 Info Registered target FileTarget(Name=allfile)
+2022-12-29 15:21:41.1474 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 15:21:41.1715 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:21:42.9772 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:24:18.7408 Info Message Template Auto Format enabled
+2022-12-29 15:24:18.7408 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 15:24:18.8091 Info Registered target FileTarget(Name=allfile)
+2022-12-29 15:24:18.8091 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 15:24:18.8449 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:24:20.7871 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:25:15.4136 Info Message Template Auto Format enabled
+2022-12-29 15:25:15.4136 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 15:25:15.4664 Info Registered target FileTarget(Name=allfile)
+2022-12-29 15:25:15.4664 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 15:25:15.4880 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:25:17.4299 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:26:59.1049 Info Message Template Auto Format enabled
+2022-12-29 15:26:59.1128 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 15:26:59.1826 Info Registered target FileTarget(Name=allfile)
+2022-12-29 15:26:59.1826 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 15:26:59.2441 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:27:00.4508 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:27:51.6699 Info Message Template Auto Format enabled
+2022-12-29 15:27:51.6794 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 15:27:51.7445 Info Registered target FileTarget(Name=allfile)
+2022-12-29 15:27:51.7445 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 15:27:51.7777 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:27:52.8933 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:28:24.2408 Info Message Template Auto Format enabled
+2022-12-29 15:28:24.2601 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 15:28:24.3990 Info Registered target FileTarget(Name=allfile)
+2022-12-29 15:28:24.3990 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 15:28:24.4474 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:28:26.8772 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:33:40.1007 Info Message Template Auto Format enabled
+2022-12-29 15:33:40.1188 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 15:33:40.2726 Info Registered target FileTarget(Name=allfile)
+2022-12-29 15:33:40.2726 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 15:33:40.3228 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:33:42.5345 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:44:24.0350 Info Message Template Auto Format enabled
+2022-12-29 15:44:24.0350 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 15:44:24.0906 Info Registered target FileTarget(Name=allfile)
+2022-12-29 15:44:24.0906 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 15:44:24.1146 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 15:44:26.2806 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 17:21:03.3320 Info Message Template Auto Format enabled
+2022-12-29 17:21:03.3320 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 17:21:03.3941 Info Registered target FileTarget(Name=allfile)
+2022-12-29 17:21:03.3941 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 17:21:03.4252 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 17:21:05.5586 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 17:21:29.5413 Info Message Template Auto Format enabled
+2022-12-29 17:21:29.5497 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 17:21:29.6055 Info Registered target FileTarget(Name=allfile)
+2022-12-29 17:21:29.6055 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 17:21:29.6302 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 17:21:31.2430 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 17:21:56.2301 Info Message Template Auto Format enabled
+2022-12-29 17:21:56.2398 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 17:21:56.3233 Info Registered target FileTarget(Name=allfile)
+2022-12-29 17:21:56.3233 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 17:21:56.3687 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 17:21:57.6529 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 17:22:42.6268 Info Message Template Auto Format enabled
+2022-12-29 17:22:42.6377 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 17:22:42.7262 Info Registered target FileTarget(Name=allfile)
+2022-12-29 17:22:42.7262 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 17:22:42.7643 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 17:22:44.7704 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 17:25:11.6101 Info Message Template Auto Format enabled
+2022-12-29 17:25:11.6235 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 17:25:11.7211 Info Registered target FileTarget(Name=allfile)
+2022-12-29 17:25:11.7211 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 17:25:11.7640 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 17:25:13.4048 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 23:07:10.6393 Info Message Template Auto Format enabled
+2022-12-29 23:07:10.6545 Info Loading assembly: NLog.Web.AspNetCore
+2022-12-29 23:07:10.7477 Info Registered target FileTarget(Name=allfile)
+2022-12-29 23:07:10.7477 Info Registered target FileTarget(Name=ownFile-web)
+2022-12-29 23:07:10.7978 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2022-12-29 23:07:12.9883 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Users\Ahmet\source\repos\CarRental\CarRental\bin\Debug\net6.0\nlog.config
+2023-01-11 18:29:59.3421 Info Message Template Auto Format enabled
+2023-01-11 18:29:59.3521 Info Loading assembly: NLog.Web.AspNetCore
+2023-01-11 18:29:59.4206 Info Registered target FileTarget(Name=allfile)
+2023-01-11 18:29:59.4206 Info Registered target FileTarget(Name=ownFile-web)
+2023-01-11 18:29:59.4511 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\SendBox\KprRentACars\CarRental\bin\Debug\net6.0\nlog.config
+2023-01-11 18:30:01.7910 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\SendBox\KprRentACars\CarRental\bin\Debug\net6.0\nlog.config

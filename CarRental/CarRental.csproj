@@ -1,0 +1,61 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>annotations</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <OutputType>Exe</OutputType>
+    <PlatformTarget>x86</PlatformTarget>
+    <Platforms>AnyCPU;x86</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.12" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.12" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="5.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CarRental.Library\CarRental.Library.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="StaticFiles\" />
+    <Folder Include="wwwroot\js\lib\bootstrap\dist\css\" />
+    <Folder Include="wwwroot\js\lib\bootstrap\dist\js\" />
+    <Folder Include="wwwroot\js\lib\jquery-validation-unobtrusive\" />
+    <Folder Include="wwwroot\js\lib\jquery-validation\dist\" />
+    <Folder Include="wwwroot\js\lib\jquery\dist\" />
+    <Folder Include="wwwroot\js\vendors\animate-css\" />
+    <Folder Include="wwwroot\js\vendors\counterup\" />
+    <Folder Include="wwwroot\js\vendors\datetime-picker\css\" />
+    <Folder Include="wwwroot\js\vendors\datetime-picker\js\" />
+    <Folder Include="wwwroot\js\vendors\flat-icon\" />
+    <Folder Include="wwwroot\js\vendors\isotope\" />
+    <Folder Include="wwwroot\js\vendors\jquery-ui\images\" />
+    <Folder Include="wwwroot\js\vendors\lightbox\" />
+    <Folder Include="wwwroot\js\vendors\linearicons\fonts\" />
+    <Folder Include="wwwroot\js\vendors\magnifc-popup\" />
+    <Folder Include="wwwroot\js\vendors\nice-select\css\" />
+    <Folder Include="wwwroot\js\vendors\nice-select\js\" />
+    <Folder Include="wwwroot\js\vendors\owl-carousel\" />
+    <Folder Include="wwwroot\js\vendors\revolution\assets\sources\" />
+    <Folder Include="wwwroot\js\vendors\revolution\assets\svg\" />
+    <Folder Include="wwwroot\js\vendors\revolution\css\navigation-skins\" />
+    <Folder Include="wwwroot\js\vendors\revolution\fonts\font-awesome\css\" />
+    <Folder Include="wwwroot\js\vendors\revolution\fonts\font-awesome\fonts\" />
+    <Folder Include="wwwroot\js\vendors\revolution\fonts\pe-icon-7-stroke\css\" />
+    <Folder Include="wwwroot\js\vendors\revolution\fonts\pe-icon-7-stroke\fonts\" />
+    <Folder Include="wwwroot\js\vendors\revolution\fonts\revicons\" />
+    <Folder Include="wwwroot\js\vendors\revolution\js\extensions\source\" />
+    <Folder Include="wwwroot\js\vendors\revolution\js\source\" />
+    <Folder Include="wwwroot\js\vendors\revolution\php\facebook\" />
+    <Folder Include="wwwroot\js\vendors\revolution\php\flickr\" />
+    <Folder Include="wwwroot\js\vendors\revolution\php\instagram\" />
+    <Folder Include="wwwroot\js\vendors\revolution\php\twitter\connection\" />
+    <Folder Include="wwwroot\js\vendors\revolution\php\vimeo\" />
+    <Folder Include="wwwroot\js\vendors\revolution\php\youtube\" />
+    <Folder Include="wwwroot\js\vendors\stroke-icon\fonts\" />
+  </ItemGroup>
+
+</Project>

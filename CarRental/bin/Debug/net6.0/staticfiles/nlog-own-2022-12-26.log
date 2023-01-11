@@ -1,0 +1,192 @@
+2022-12-26 13:14:20.8211||DEBUG|Program|init main |url: |action: 
+2022-12-26 14:00:47.4887||DEBUG|Program|init main |url: |action: 
+2022-12-26 14:04:45.0746||DEBUG|Program|init main |url: |action: 
+2022-12-26 14:42:03.0050||DEBUG|Program|init main |url: |action: 
+2022-12-26 14:44:45.4430||DEBUG|Program|init main |url: |action: 
+2022-12-26 14:47:01.6404||DEBUG|Program|init main |url: |action: 
+2022-12-26 14:49:14.9548||DEBUG|Program|init main |url: |action: 
+2022-12-26 14:50:38.4395||DEBUG|Program|init main |url: |action: 
+2022-12-26 14:51:20.1851||DEBUG|Program|init main |url: |action: 
+2022-12-26 14:52:41.6183||DEBUG|Program|init main |url: |action: 
+2022-12-26 14:53:33.7117||DEBUG|Program|init main |url: |action: 
+2022-12-26 14:54:21.0187||DEBUG|Program|init main |url: |action: 
+2022-12-26 14:54:55.1624||DEBUG|Program|init main |url: |action: 
+2022-12-26 14:56:19.2560||DEBUG|Program|init main |url: |action: 
+2022-12-26 14:57:19.4918||DEBUG|Program|init main |url: |action: 
+2022-12-26 14:57:54.6888||DEBUG|Program|init main |url: |action: 
+2022-12-26 14:58:47.2521||DEBUG|Program|init main |url: |action: 
+2022-12-26 14:59:04.4694||DEBUG|Program|init main |url: |action: 
+2022-12-26 14:59:27.0765||DEBUG|Program|init main |url: |action: 
+2022-12-26 15:00:09.3272||DEBUG|Program|init main |url: |action: 
+2022-12-26 15:00:58.0485||DEBUG|Program|init main |url: |action: 
+2022-12-26 15:01:11.7280||DEBUG|Program|init main |url: |action: 
+2022-12-26 15:03:03.4591||DEBUG|Program|init main |url: |action: 
+2022-12-26 15:08:15.2249||DEBUG|Program|init main |url: |action: 
+2022-12-26 15:26:48.6009||DEBUG|Program|init main |url: |action: 
+2022-12-26 15:30:23.2890||DEBUG|Program|init main |url: |action: 
+2022-12-26 15:31:27.4314||DEBUG|Program|init main |url: |action: 
+2022-12-26 15:36:58.1784||DEBUG|Program|init main |url: |action: 
+2022-12-26 15:37:21.0142||DEBUG|Program|init main |url: |action: 
+2022-12-26 15:38:58.2223||DEBUG|Program|init main |url: |action: 
+2022-12-26 15:42:21.6805||DEBUG|Program|init main |url: |action: 
+2022-12-26 15:49:11.0678||DEBUG|Program|init main |url: |action: 
+2022-12-26 15:52:37.4585||DEBUG|Program|init main |url: |action: 
+2022-12-26 20:13:13.2532||DEBUG|Program|init main |url: |action: 
+2022-12-26 20:53:58.7654||DEBUG|Program|init main |url: |action: 
+2022-12-26 20:54:42.9588||DEBUG|Program|init main |url: |action: 
+2022-12-26 20:55:05.8949||DEBUG|Program|init main |url: |action: 
+2022-12-26 20:55:33.0774||DEBUG|Program|init main |url: |action: 
+2022-12-26 20:55:54.9624||DEBUG|Program|init main |url: |action: 
+2022-12-26 20:57:20.1748||DEBUG|Program|init main |url: |action: 
+2022-12-26 20:58:03.6421||ERROR|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|The view 'en' was not found. Searched locations: /Views/Car/en.cshtml, /Views/Shared/en.cshtml |url: https://localhost/language/en|action: en
+2022-12-26 20:58:03.6421||ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: The view 'en' was not found. The following locations were searched:
+/Views/Car/en.cshtml
+/Views/Shared/en.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeResultAsync>g__Logged|22_0(ResourceInvoker invoker, IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: https://localhost/language/en|action: en
+2022-12-26 20:58:51.6612||DEBUG|Program|init main |url: |action: 
+2022-12-26 20:59:57.1725||DEBUG|Program|init main |url: |action: 
+2022-12-26 21:02:50.8322||DEBUG|Program|init main |url: |action: 
+2022-12-26 21:03:24.6782||ERROR|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|The view 'en' was not found. Searched locations: /Views/Car/en.cshtml, /Views/Shared/en.cshtml |url: https://localhost/language/en|action: en
+2022-12-26 21:03:24.6884||ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: The view 'en' was not found. The following locations were searched:
+/Views/Car/en.cshtml
+/Views/Shared/en.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeResultAsync>g__Logged|22_0(ResourceInvoker invoker, IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: https://localhost/language/en|action: en
+2022-12-26 21:05:47.7326||DEBUG|Program|init main |url: |action: 
+2022-12-26 21:07:13.3367||DEBUG|Program|init main |url: |action: 
+2022-12-26 21:08:45.4278||DEBUG|Program|init main |url: |action: 
+2022-12-26 21:10:50.7741||DEBUG|Program|init main |url: |action: 
+2022-12-26 21:18:13.5065||ERROR|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|The view 'ru' was not found. Searched locations: /Views/Car/ru.cshtml, /Views/Shared/ru.cshtml |url: https://localhost/language/ru|action: ru
+2022-12-26 21:18:13.5189||ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: The view 'ru' was not found. The following locations were searched:
+/Views/Car/ru.cshtml
+/Views/Shared/ru.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeResultAsync>g__Logged|22_0(ResourceInvoker invoker, IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: https://localhost/language/ru|action: ru
+2022-12-26 21:19:05.9549||DEBUG|Program|init main |url: |action: 
+2022-12-26 21:23:19.1751||DEBUG|Program|init main |url: |action: 
+2022-12-26 21:24:58.9856||DEBUG|Program|init main |url: |action: 
+2022-12-26 21:29:31.6058||DEBUG|Program|init main |url: |action: 
+2022-12-26 21:30:14.3319||DEBUG|Program|init main |url: |action: 
+2022-12-26 21:30:31.8542||DEBUG|Program|init main |url: |action: 
+2022-12-26 21:30:49.1223||DEBUG|Program|init main |url: |action: 
+2022-12-26 21:31:10.6570||DEBUG|Program|init main |url: |action: 
+2022-12-26 21:31:48.7927||DEBUG|Program|init main |url: |action: 
+2022-12-26 21:44:40.2568||DEBUG|Program|init main |url: |action: 
+2022-12-26 21:44:42.4293||ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. Microsoft.CSharp.RuntimeBinder.RuntimeBinderException: Cannot perform runtime binding on a null reference
+   at CallSite.Target(Closure , CallSite , Object )
+   at System.Dynamic.UpdateDelegates.UpdateAndExecute1[T0,TRet](CallSite site, T0 arg0)
+   at AspNetCoreGeneratedDocument.Views_Car_en.ExecuteAsync() in C:\Users\Ahmet\source\repos\CarRental\CarRental\Views\Car\en.cshtml:line 40
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageCoreAsync(IRazorPage page, ViewContext context)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderPageAsync(IRazorPage page, ViewContext context, Boolean invokeViewStarts)
+   at Microsoft.AspNetCore.Mvc.Razor.RazorView.RenderAsync(ViewContext context)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ViewContext viewContext, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewExecutor.ExecuteAsync(ActionContext actionContext, IView view, ViewDataDictionary viewData, ITempDataDictionary tempData, String contentType, Nullable`1 statusCode)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeResultAsync>g__Logged|22_0(ResourceInvoker invoker, IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: https://localhost/language/en|action: en
+2022-12-26 21:45:11.7774||DEBUG|Program|init main |url: |action: 
+2022-12-26 21:45:53.1469||DEBUG|Program|init main |url: |action: 
+2022-12-26 21:46:24.1980||DEBUG|Program|init main |url: |action: 
+2022-12-26 21:48:39.6422||DEBUG|Program|init main |url: |action: 
+2022-12-26 21:49:46.2034||DEBUG|Program|init main |url: |action: 
+2022-12-26 21:50:18.0015||DEBUG|Program|init main |url: |action: 
+2022-12-26 21:50:57.6724||DEBUG|Program|init main |url: |action: 
+2022-12-26 21:51:26.4471||DEBUG|Program|init main |url: |action: 
+2022-12-26 21:51:54.0665||DEBUG|Program|init main |url: |action: 
+2022-12-26 21:54:47.1209||DEBUG|Program|init main |url: |action: 
+2022-12-26 21:56:20.7914||DEBUG|Program|init main |url: |action: 
+2022-12-26 22:00:21.9678||DEBUG|Program|init main |url: |action: 
+2022-12-26 22:03:40.4160||DEBUG|Program|init main |url: |action: 
+2022-12-26 22:03:56.6193||DEBUG|Program|init main |url: |action: 
+2022-12-26 22:04:29.4781||DEBUG|Program|init main |url: |action: 
+2022-12-26 22:07:40.7192||DEBUG|Program|init main |url: |action: 
+2022-12-26 22:08:43.8965||DEBUG|Program|init main |url: |action: 
+2022-12-26 22:09:18.6753||DEBUG|Program|init main |url: |action: 
+2022-12-26 22:10:17.0851||DEBUG|Program|init main |url: |action: 
+2022-12-26 22:14:19.6158||DEBUG|Program|init main |url: |action: 
+2022-12-26 22:15:45.5690||DEBUG|Program|init main |url: |action: 
+2022-12-26 22:16:29.2499||DEBUG|Program|init main |url: |action: 
+2022-12-26 22:17:37.8815||DEBUG|Program|init main |url: |action: 
+2022-12-26 22:18:02.2470||DEBUG|Program|init main |url: |action: 
+2022-12-26 22:18:40.8975||DEBUG|Program|init main |url: |action: 
+2022-12-26 22:19:00.6162||DEBUG|Program|init main |url: |action: 
+2022-12-26 22:19:32.0250||DEBUG|Program|init main |url: |action: 
+2022-12-26 22:20:09.7295||DEBUG|Program|init main |url: |action: 
+2022-12-26 22:21:51.3720||DEBUG|Program|init main |url: |action: 
+2022-12-26 22:22:13.9899||DEBUG|Program|init main |url: |action: 
+2022-12-26 23:27:10.1609||DEBUG|Program|init main |url: |action: 
+2022-12-26 23:36:38.4200||DEBUG|Program|init main |url: |action: 
+2022-12-26 23:55:12.1786||DEBUG|Program|init main |url: |action: 
+2022-12-26 23:55:34.8086||DEBUG|Program|init main |url: |action: 

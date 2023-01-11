@@ -1,0 +1,170 @@
+2022-12-28 00:00:39.1453||DEBUG|Program|init main |url: |action: 
+2022-12-28 00:01:08.2190||DEBUG|Program|init main |url: |action: 
+2022-12-28 00:01:39.6732||DEBUG|Program|init main |url: |action: 
+2022-12-28 00:02:21.9527||DEBUG|Program|init main |url: |action: 
+2022-12-28 00:05:26.8049||DEBUG|Program|init main |url: |action: 
+2022-12-28 00:06:34.1319||DEBUG|Program|init main |url: |action: 
+2022-12-28 00:07:41.5088||DEBUG|Program|init main |url: |action: 
+2022-12-28 00:08:23.5210||DEBUG|Program|init main |url: |action: 
+2022-12-28 00:42:45.2084||DEBUG|Program|init main |url: |action: 
+2022-12-28 00:46:25.7751||DEBUG|Program|init main |url: |action: 
+2022-12-28 00:46:42.9392||DEBUG|Program|init main |url: |action: 
+2022-12-28 00:47:41.3980||DEBUG|Program|init main |url: |action: 
+2022-12-28 00:52:52.7765||ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.Exception: (Car)
+ 'Overview' Bu alana en fazla 100 adet harf yazılabilir.
+   at OrionDAL.ActiveRecord.ActiveRecordBase.Validate() in C:\Users\Ahmet\source\repos\CarRental\OrionDAL\ActiveRecord\ActiveRecordBase.cs:line 145
+   at OrionDAL.ActiveRecord.ActiveRecordBase.Save() in C:\Users\Ahmet\source\repos\CarRental\OrionDAL\ActiveRecord\ActiveRecordBase.cs:line 229
+   at CarRental.Controllers.AdminController.OrionSave(IFormCollection form) in C:\Users\Ahmet\source\repos\CarRental\CarRental\Controllers\AdminController.cs:line 287
+   at lambda_method100(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: https://localhost/Admin/OrionSave|action: OrionSave
+2022-12-28 00:53:17.0693||DEBUG|Program|init main |url: |action: 
+2022-12-28 00:54:04.2436||DEBUG|Program|init main |url: |action: 
+2022-12-28 00:56:27.1905||DEBUG|Program|init main |url: |action: 
+2022-12-28 01:01:13.3018||DEBUG|Program|init main |url: |action: 
+2022-12-28 01:01:51.7592||DEBUG|Program|init main |url: |action: 
+2022-12-28 01:02:30.5433||DEBUG|Program|init main |url: |action: 
+2022-12-28 01:11:48.8838||DEBUG|Program|init main |url: |action: 
+2022-12-28 12:56:45.4727||DEBUG|Program|init main |url: |action: 
+2022-12-28 13:03:57.2520||DEBUG|Program|init main |url: |action: 
+2022-12-28 13:08:17.5463||DEBUG|Program|init main |url: |action: 
+2022-12-28 13:09:26.4290||DEBUG|Program|init main |url: |action: 
+2022-12-28 13:14:06.2554||DEBUG|Program|init main |url: |action: 
+2022-12-28 13:48:31.0245||DEBUG|Program|init main |url: |action: 
+2022-12-28 13:49:21.7897||DEBUG|Program|init main |url: |action: 
+2022-12-28 13:50:27.5022||DEBUG|Program|init main |url: |action: 
+2022-12-28 13:55:06.9950||DEBUG|Program|init main |url: |action: 
+2022-12-28 13:59:01.7360||DEBUG|Program|init main |url: |action: 
+2022-12-28 14:03:21.2000||DEBUG|Program|init main |url: |action: 
+2022-12-28 14:06:23.6567||ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. Microsoft.Data.SqlClient.SqlException (0x80131904): String or binary data would be truncated in table 'CarRentalDB.dbo.Car', column 'Location'. Truncated value: '<p>&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3020.3610876600064!2d2'.
+The statement has been terminated.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String methodName)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at OrionDAL.DAL.DataAccess.ExecuteNonQuery(IConnectionHandle handle, String query, Dictionary`2 namedParameters, Object[] parameterValues, IParameterHandle[] extraParameters) in C:\Users\Ahmet\source\repos\CarRental\OrionDAL\DAL\DataAccess.cs:line 224
+   at OrionDAL.OAL.Transaction.<>c__DisplayClass57_0.<ExecuteNonQuery>b__0() in C:\Users\Ahmet\source\repos\CarRental\OrionDAL\OAL\Transaction.cs:line 501
+   at OrionDAL.OAL.Transaction.Join(Action run, Action rollback, Action beforeCommit, Action commit, Boolean startNewTransaction, Int32 timeoutSeconds) in C:\Users\Ahmet\source\repos\CarRental\OrionDAL\OAL\Transaction.cs:line 210
+   at OrionDAL.OAL.Transaction.Join(Action run, Action rollback, Action commit, Boolean startNewTransaction, Int32 timeoutSeconds) in C:\Users\Ahmet\source\repos\CarRental\OrionDAL\OAL\Transaction.cs:line 165
+   at OrionDAL.OAL.Transaction.Join(Action run) in C:\Users\Ahmet\source\repos\CarRental\OrionDAL\OAL\Transaction.cs:line 155
+   at OrionDAL.OAL.Transaction.ExecuteNonQuery(String query, Dictionary`2 namedParameters, Object[] parameterValues, IParameterHandle[] extraParameters) in C:\Users\Ahmet\source\repos\CarRental\OrionDAL\OAL\Transaction.cs:line 489
+   at OrionDAL.OAL.Transaction.ExecuteNonQuery(String query, Object[] parameterValues) in C:\Users\Ahmet\source\repos\CarRental\OrionDAL\OAL\Transaction.cs:line 473
+   at OrionDAL.OAL.Persistence.Update(Object entity) in C:\Users\Ahmet\source\repos\CarRental\OrionDAL\OAL\Persistence.cs:line 353
+   at OrionDAL.ActiveRecord.ActiveRecordBase.<>c__DisplayClass14_0.<Update>b__0() in C:\Users\Ahmet\source\repos\CarRental\OrionDAL\ActiveRecord\ActiveRecordBase.cs:line 204
+   at OrionDAL.OAL.Transaction.Join(Action run, Action rollback, Action beforeCommit, Action commit, Boolean startNewTransaction, Int32 timeoutSeconds) in C:\Users\Ahmet\source\repos\CarRental\OrionDAL\OAL\Transaction.cs:line 210
+   at OrionDAL.OAL.Transaction.Join(Action run, Action rollback, Action commit, Boolean startNewTransaction, Int32 timeoutSeconds) in C:\Users\Ahmet\source\repos\CarRental\OrionDAL\OAL\Transaction.cs:line 165
+   at OrionDAL.ActiveRecord.ActiveRecordBase.Update() in C:\Users\Ahmet\source\repos\CarRental\OrionDAL\ActiveRecord\ActiveRecordBase.cs:line 202
+   at OrionDAL.ActiveRecord.ActiveRecordBase.Save() in C:\Users\Ahmet\source\repos\CarRental\OrionDAL\ActiveRecord\ActiveRecordBase.cs:line 231
+   at CarRental.Controllers.AdminController.OrionSave(IFormCollection form) in C:\Users\Ahmet\source\repos\CarRental\CarRental\Controllers\AdminController.cs:line 287
+   at lambda_method129(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ClientConnectionId:93ca423a-695e-4c08-8cf7-3470205b8c2c
+Error Number:2628,State:1,Class:16|url: https://localhost/Admin/OrionSave|action: OrionSave
+2022-12-28 14:07:14.3657||DEBUG|Program|init main |url: |action: 
+2022-12-28 14:07:31.0355||DEBUG|Program|init main |url: |action: 
+2022-12-28 14:08:44.1014||DEBUG|Program|init main |url: |action: 
+2022-12-28 14:09:06.4531||DEBUG|Program|init main |url: |action: 
+2022-12-28 14:10:07.2699||DEBUG|Program|init main |url: |action: 
+2022-12-28 14:10:29.3599||DEBUG|Program|init main |url: |action: 
+2022-12-28 14:15:56.5883||DEBUG|Program|init main |url: |action: 
+2022-12-28 14:26:05.5567||DEBUG|Program|init main |url: |action: 
+2022-12-28 14:43:49.1940||DEBUG|Program|init main |url: |action: 
+2022-12-28 14:45:55.1456||DEBUG|Program|init main |url: |action: 
+2022-12-28 14:47:27.7953||DEBUG|Program|init main |url: |action: 
+2022-12-28 14:47:51.9007||DEBUG|Program|init main |url: |action: 
+2022-12-28 14:50:02.7815||DEBUG|Program|init main |url: |action: 
+2022-12-28 15:04:28.5167||DEBUG|Program|init main |url: |action: 
+2022-12-28 15:05:02.6731||DEBUG|Program|init main |url: |action: 
+2022-12-28 15:06:02.8750||DEBUG|Program|init main |url: |action: 
+2022-12-28 15:09:34.2303||DEBUG|Program|init main |url: |action: 
+2022-12-28 15:10:48.9120||DEBUG|Program|init main |url: |action: 
+2022-12-28 15:11:26.9996||DEBUG|Program|init main |url: |action: 
+2022-12-28 15:26:33.9330||DEBUG|Program|init main |url: |action: 
+2022-12-28 15:29:17.1309||DEBUG|Program|init main |url: |action: 
+2022-12-28 15:30:16.7875||ERROR|CarRental.Controllers.AccountController|kullanıcı adı veya şifre bilginiz yanlış System.Exception: kullanıcı adı veya şifre bilginiz yanlış
+   at CarRental.Controllers.AccountController.GirisYap(LoginDto dto) in C:\Users\Ahmet\source\repos\CarRental\CarRental\Controllers\AccountController.cs:line 49|url: https://localhost/girisyap|action: GirisYap
+2022-12-28 15:30:21.1544||ERROR|CarRental.Controllers.AccountController|kullanıcı adı veya şifre bilginiz yanlış System.Exception: kullanıcı adı veya şifre bilginiz yanlış
+   at CarRental.Controllers.AccountController.GirisYap(LoginDto dto) in C:\Users\Ahmet\source\repos\CarRental\CarRental\Controllers\AccountController.cs:line 49|url: https://localhost/girisyap|action: GirisYap
+2022-12-28 15:31:44.0240||DEBUG|Program|init main |url: |action: 
+2022-12-28 15:33:41.2425||DEBUG|Program|init main |url: |action: 
+2022-12-28 15:34:40.0303||DEBUG|Program|init main |url: |action: 
+2022-12-28 15:36:31.5154||DEBUG|Program|init main |url: |action: 
+2022-12-28 15:36:52.6525||DEBUG|Program|init main |url: |action: 
+2022-12-28 15:56:31.6222||DEBUG|Program|init main |url: |action: 
+2022-12-28 16:34:45.8711||DEBUG|Program|init main |url: |action: 
+2022-12-28 16:40:44.2856||DEBUG|Program|init main |url: |action: 
+2022-12-28 16:41:34.5982||DEBUG|Program|init main |url: |action: 
+2022-12-28 18:35:39.3854||DEBUG|Program|init main |url: |action: 
+2022-12-28 18:42:34.0012||DEBUG|Program|init main |url: |action: 
+2022-12-28 18:42:49.7469||DEBUG|Program|init main |url: |action: 
+2022-12-28 18:44:48.7713||DEBUG|Program|init main |url: |action: 
+2022-12-28 18:46:37.1754||ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.FormatException: Input string was not in a correct format.
+   at System.Number.ThrowOverflowOrFormatException(ParsingStatus status, TypeCode type)
+   at System.Convert.ToInt32(String value)
+   at CarRental.Controllers.AdminController.OrionDelete(IFormCollection form) in C:\Users\Ahmet\source\repos\CarRental\CarRental\Controllers\AdminController.cs:line 301
+   at lambda_method188(Closure , Object , Object[] )
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Logged|12_1(ControllerActionInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: https://localhost/Admin/OrionDelete|action: OrionDelete
+2022-12-28 18:52:17.0671||DEBUG|Program|init main |url: |action: 
+2022-12-28 20:23:17.4659||DEBUG|Program|init main |url: |action: 
+2022-12-28 21:36:01.9015||DEBUG|Program|init main |url: |action: 
+2022-12-28 21:37:36.5279||DEBUG|Program|init main |url: |action: 
+2022-12-28 21:38:32.1259||DEBUG|Program|init main |url: |action: 
+2022-12-28 21:41:37.5796||ERROR|CarRental.Controllers.AccountController|Lütfen kullanıcı adı veya şifrenizi giriniz System.Exception: Lütfen kullanıcı adı veya şifrenizi giriniz
+   at CarRental.Controllers.AccountController.GirisYap(LoginDto dto) in C:\Users\Ahmet\source\repos\CarRental\CarRental\Controllers\AccountController.cs:line 42|url: https://localhost/girisyap|action: GirisYap
+2022-12-28 21:41:40.5652||ERROR|CarRental.Controllers.AccountController|Lütfen kullanıcı adı veya şifrenizi giriniz System.Exception: Lütfen kullanıcı adı veya şifrenizi giriniz
+   at CarRental.Controllers.AccountController.GirisYap(LoginDto dto) in C:\Users\Ahmet\source\repos\CarRental\CarRental\Controllers\AccountController.cs:line 42|url: https://localhost/girisyap|action: GirisYap
+2022-12-28 21:43:12.5555||DEBUG|Program|init main |url: |action: 

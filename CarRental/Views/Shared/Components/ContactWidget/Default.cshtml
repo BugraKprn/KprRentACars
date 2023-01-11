@@ -1,0 +1,28 @@
+﻿@model CarRental.ViewComponents.ContactWidgetDto
+
+<div class="col-lg-4">
+    <aside class="l-sidebar">
+
+
+        <div class="b-seller">
+            <div class="b-seller__header">
+                <div class="b-seller__img"></div>
+                <div class="b-seller__title">
+                    <div class="b-seller__name">@Model.SiteSetting.ContactName</div>
+                    <div class="b-seller__category"></div>
+                </div>
+            </div>
+            <div class="b-seller__main">
+                <i class="b-seller__ic fas fa-phone text-primary"></i>
+                <div class="b-seller__contact"><span class="d-block">İletişim Numarası</span><a class="b-seller__phone" href="tel:12584037961">@Model.SiteSetting.Phone </a></div>
+                <ul class="b-seller-soc list-unstyled">
+                    <li class="b-seller-soc__item"><a class="b-seller-soc__link" href="@Model.SiteSetting.Twitter" target="_blank"><i class="ic fab fa-twitter"></i></a></li>
+                    <li class="b-seller-soc__item"><a class="b-seller-soc__link" href="@Model.SiteSetting.Facebook" target="_blank"><i class="ic fab fa-facebook"></i></a></li>
+                    <li class="b-seller-soc__item"><a class="b-seller-soc__link" href="@Model.SiteSetting.Linkedin" target="_blank"><i class="ic fab fa-linkedin"></i></a></li>
+                    <li class="b-seller-soc__item"><a class="b-seller-soc__link" href="@Model.SiteSetting.GooglePlus" target="_blank"><i class="ic fab fa-google-plus-g"></i></a></li>
+                </ul>
+            </div>
+        </div>
+        <!-- end .b-seller-->
+    </aside>
+</div>

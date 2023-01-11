@@ -1,0 +1,25 @@
+﻿@model CarRental.ViewComponents.DashboardDto
+
+<div>
+    <p><b>@Model.SettingLink.CompanyName</b> Dashboard</p>
+</div>
+<div class="row">
+    <div class="col-xl-3 col-md-6">
+        <div class="card bg-primary text-white mb-4">
+            <div class="card-body">@Model.CarLink.Count</div>
+            <div class="card-footer d-flex align-items-center justify-content-between">
+                <a class="small text-white stretched-link" href="/Admin/RentCarPage" style="text-decoration: none;">Sergilenen Toplam Araba</a>
+                <div class="small text-white"><i class="fas fa-angle-right"></i></div>
+            </div>
+        </div>
+    </div>
+    <div class="col-xl-3 col-md-6">
+        <div class="card bg-primary text-white mb-4">
+            <div class="card-body">@Model.ContactLink.Count</div>
+            <div class="card-footer d-flex align-items-center justify-content-between">
+                <a class="small text-white stretched-link" href="/Admin/ContactPage" style="text-decoration: none;">Gelen İletişim Mailleri</a>
+                <div class="small text-white"><i class="fas fa-angle-right"></i></div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,12 @@
+C:\AktifProjeler\OrionCore\OrionDAL\bin\Debug\net5.0\OrionDAL.deps.json
+C:\AktifProjeler\OrionCore\OrionDAL\bin\Debug\net5.0\OrionDAL.dll
+C:\AktifProjeler\OrionCore\OrionDAL\bin\Debug\net5.0\OrionDAL.pdb
+C:\AktifProjeler\OrionCore\OrionDAL\obj\Debug\net5.0\OrionDAL.csproj.AssemblyReference.cache
+C:\AktifProjeler\OrionCore\OrionDAL\obj\Debug\net5.0\OrionDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\AktifProjeler\OrionCore\OrionDAL\obj\Debug\net5.0\OrionDAL.AssemblyInfoInputs.cache
+C:\AktifProjeler\OrionCore\OrionDAL\obj\Debug\net5.0\OrionDAL.AssemblyInfo.cs
+C:\AktifProjeler\OrionCore\OrionDAL\obj\Debug\net5.0\OrionDAL.csproj.CoreCompileInputs.cache
+C:\AktifProjeler\OrionCore\OrionDAL\obj\Debug\net5.0\OrionDAL.dll
+C:\AktifProjeler\OrionCore\OrionDAL\obj\Debug\net5.0\ref\OrionDAL.dll
+C:\AktifProjeler\OrionCore\OrionDAL\obj\Debug\net5.0\OrionDAL.pdb
+C:\AktifProjeler\OrionCore\OrionDAL\obj\Debug\net5.0\refint\OrionDAL.dll

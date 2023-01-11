@@ -1,0 +1,68 @@
+2022-12-25 00:12:50.4414||DEBUG|Program|init main |url: |action: 
+2022-12-25 00:25:40.3539||DEBUG|Program|init main |url: |action: 
+2022-12-25 00:29:10.7048||DEBUG|Program|init main |url: |action: 
+2022-12-25 00:32:06.2439||DEBUG|Program|init main |url: |action: 
+2022-12-25 00:33:02.8002||DEBUG|Program|init main |url: |action: 
+2022-12-25 00:36:26.4280||DEBUG|Program|init main |url: |action: 
+2022-12-25 00:37:47.4024||DEBUG|Program|init main |url: |action: 
+2022-12-25 02:17:06.1625||DEBUG|Program|init main |url: |action: 
+2022-12-25 02:21:42.3611||DEBUG|Program|init main |url: |action: 
+2022-12-25 02:53:27.5929||DEBUG|Program|init main |url: |action: 
+2022-12-25 02:53:58.6674||DEBUG|Program|init main |url: |action: 
+2022-12-25 02:57:12.3643||DEBUG|Program|init main |url: |action: 
+2022-12-25 02:57:36.8955||DEBUG|Program|init main |url: |action: 
+2022-12-25 02:59:45.9192||DEBUG|Program|init main |url: |action: 
+2022-12-25 16:26:46.5067||DEBUG|Program|init main |url: |action: 
+2022-12-25 16:39:51.1729||DEBUG|Program|init main |url: |action: 
+2022-12-25 16:40:35.0271||DEBUG|Program|init main |url: |action: 
+2022-12-25 16:41:19.8128||DEBUG|Program|init main |url: |action: 
+2022-12-25 16:41:34.4777||DEBUG|Program|init main |url: |action: 
+2022-12-25 16:44:00.3623||DEBUG|Program|init main |url: |action: 
+2022-12-25 16:44:43.8410||DEBUG|Program|init main |url: |action: 
+2022-12-25 17:27:45.8351||DEBUG|Program|init main |url: |action: 
+2022-12-25 18:03:00.0655||DEBUG|Program|init main |url: |action: 
+2022-12-25 18:03:30.7303||DEBUG|Program|init main |url: |action: 
+2022-12-25 18:04:57.5914||DEBUG|Program|init main |url: |action: 
+2022-12-25 18:06:56.7848||DEBUG|Program|init main |url: |action: 
+2022-12-25 18:09:05.3429||DEBUG|Program|init main |url: |action: 
+2022-12-25 18:10:12.0042||DEBUG|Program|init main |url: |action: 
+2022-12-25 18:11:25.9913||DEBUG|Program|init main |url: |action: 
+2022-12-25 18:19:31.8285||DEBUG|Program|init main |url: |action: 
+2022-12-25 18:20:29.8635||DEBUG|Program|init main |url: |action: 
+2022-12-25 18:23:01.5033||DEBUG|Program|init main |url: |action: 
+2022-12-25 18:23:34.0373||DEBUG|Program|init main |url: |action: 
+2022-12-25 18:31:58.3003||DEBUG|Program|init main |url: |action: 
+2022-12-25 19:43:23.4127||DEBUG|Program|init main |url: |action: 
+2022-12-25 19:44:05.6554||DEBUG|Program|init main |url: |action: 
+2022-12-25 19:44:09.9495||ERROR|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|The view 'Index' was not found. Searched locations: /Views/Admin/Index.cshtml, /Views/Shared/Index.cshtml |url: https://localhost/admin|action: Index
+2022-12-25 19:44:09.9639||ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: The view 'Index' was not found. The following locations were searched:
+/Views/Admin/Index.cshtml
+/Views/Shared/Index.cshtml
+   at Microsoft.AspNetCore.Mvc.ViewEngines.ViewEngineResult.EnsureSuccessful(IEnumerable`1 originalLocations)
+   at Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor.ExecuteAsync(ActionContext context, ViewResult result)
+   at Microsoft.AspNetCore.Mvc.ViewResult.ExecuteResultAsync(ActionContext context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeResultAsync>g__Logged|22_0(ResourceInvoker invoker, IActionResult result)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResultFilterAsync>g__Awaited|30_0[TFilter,TFilterAsync](ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResultExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.ResultNext[TFilter,TFilterAsync](State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeResultFilters()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeNextResourceFilter>g__Awaited|25_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Rethrow(ResourceExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.InvokeFilterPipelineAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)|url: https://localhost/admin|action: Index
+2022-12-25 19:44:34.7901||DEBUG|Program|init main |url: |action: 
+2022-12-25 19:45:43.9017||DEBUG|Program|init main |url: |action: 
+2022-12-25 19:48:40.8508||DEBUG|Program|init main |url: |action: 
+2022-12-25 19:51:33.7916||DEBUG|Program|init main |url: |action: 
+2022-12-25 19:54:20.4774||DEBUG|Program|init main |url: |action: 
+2022-12-25 19:55:14.6229||DEBUG|Program|init main |url: |action: 
+2022-12-25 19:59:19.6266||DEBUG|Program|init main |url: |action: 
+2022-12-25 19:59:43.6110||DEBUG|Program|init main |url: |action: 

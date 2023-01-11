@@ -1,0 +1,15 @@
+﻿@model List<CarRental.Library.Entity.Slider>
+
+
+<div class="main-slider slider-pro" id="main-slider" data-slider-width="1424px" data-slider-height="469px" data-slider-arrows="false" data-slider-buttons="false">
+    <div class="sp-slides">
+        @foreach (var item in Model)
+        {
+            <div class="main-slider__slide sp-slide">
+                <img class="sp-image" src="@Url.Content("~/StaticFiles")/@item.SliderImage" alt="slider" />
+                <div class="sp-layer" data-width="100%" data-show-transition="left" data-hide-transition="left" data-show-duration="800" data-show-delay="400" data-hide-delay="400">
+                </div>
+            </div>
+        }
+    </div>
+</div>

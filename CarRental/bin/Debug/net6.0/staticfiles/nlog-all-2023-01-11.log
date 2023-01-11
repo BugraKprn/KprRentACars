@@ -1,0 +1,620 @@
+2023-01-11 18:29:59.4861||DEBUG|Program|init main 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Account/Login.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Admin/CarImagePage.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Admin/ContactPage.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Admin/Index.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Admin/LinkPage.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Admin/RentCarPage.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Admin/SettingPage.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Admin/SliderPage.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Car/About.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Car/Contact.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Car/Details.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Car/en.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Car/Index.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Car/ru.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Car/sa.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/Components/Car/Default.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/Components/ContactWidget/Default.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/Components/Dashboard/Default.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/Components/Footer/Default.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/Components/Header/Default.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/Components/MobileHeader/Default.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/Components/RentaHome/Default.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/Components/Slider/Default.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/Error.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/_ValidationScriptsPartial.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/_ViewImports.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/_ViewStart.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/_Layout.cshtml'. 
+2023-01-11 18:30:02.0208||DEBUG|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Initializing Razor view compiler with compiled view: '/Views/Shared/_LayoutAdmin.cshtml'. 
+2023-01-11 18:30:02.0359||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ModelBinderFactory|Registered model binder providers, in the following order: Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BinderTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ServicesModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.BodyModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.HeaderModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FloatingPointTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.EnumTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DateTimeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CancellationTokenModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ByteArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormFileModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.FormCollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.KeyValuePairModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.DictionaryModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ArrayModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.CollectionModelBinderProvider, Microsoft.AspNetCore.Mvc.ModelBinding.Binders.ComplexObjectModelBinderProvider 
+2023-01-11 18:30:02.0707||DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting starting 
+2023-01-11 18:30:02.0974||INFO|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Ahmet\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2023-01-11 18:30:02.0974||DEBUG|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Reading data from file 'C:\Users\Ahmet\AppData\Local\ASP.NET\DataProtection-Keys\key-815aae77-febb-47ef-9095-db5481b4751b.xml'. 
+2023-01-11 18:30:02.0974||DEBUG|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Reading data from file 'C:\Users\Ahmet\AppData\Local\ASP.NET\DataProtection-Keys\key-851e6229-b78e-4ecc-9c41-ea4cd4ba4b36.xml'. 
+2023-01-11 18:30:02.0974||DEBUG|Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository|Reading data from file 'C:\Users\Ahmet\AppData\Local\ASP.NET\DataProtection-Keys\key-8c321fe8-8a1f-4af8-8224-16e268d43ae7.xml'. 
+2023-01-11 18:30:02.0974||DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {815aae77-febb-47ef-9095-db5481b4751b}. 
+2023-01-11 18:30:02.0974||DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {851e6229-b78e-4ecc-9c41-ea4cd4ba4b36}. 
+2023-01-11 18:30:02.0974||DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|Found key {8c321fe8-8a1f-4af8-8224-16e268d43ae7}. 
+2023-01-11 18:30:02.1116||DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.DefaultKeyResolver|Considering key {815aae77-febb-47ef-9095-db5481b4751b} with expiration date 2023-02-24 14:05:32Z as default key. 
+2023-01-11 18:30:02.1116||DEBUG|Microsoft.AspNetCore.DataProtection.TypeForwardingActivator|Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60 
+2023-01-11 18:30:02.1116||DEBUG|Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor|Decrypting secret element using Windows DPAPI. 
+2023-01-11 18:30:02.1116||DEBUG|Microsoft.AspNetCore.DataProtection.TypeForwardingActivator|Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=6.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60 
+2023-01-11 18:30:02.1116||DEBUG|Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory|Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC. 
+2023-01-11 18:30:02.1116||DEBUG|Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory|Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC. 
+2023-01-11 18:30:02.1116||DEBUG|Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingProvider|Using key {815aae77-febb-47ef-9095-db5481b4751b} as the default key. 
+2023-01-11 18:30:02.1116||DEBUG|Microsoft.AspNetCore.DataProtection.Internal.DataProtectionHostedService|Key ring with default key {815aae77-febb-47ef-9095-db5481b4751b} was loaded during application startup. 
+2023-01-11 18:30:02.1482||DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly CarRental 
+2023-01-11 18:30:02.1482||DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh 
+2023-01-11 18:30:02.1482||DEBUG|Microsoft.AspNetCore.Hosting.Diagnostics|Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net 
+2023-01-11 18:30:02.1482||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2023-01-11 18:30:02.1482||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2023-01-11 18:30:02.1482||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\SendBox\KprRentACars\CarRental\ 
+2023-01-11 18:30:02.1482||DEBUG|Microsoft.Extensions.Hosting.Internal.Host|Hosting started 
+2023-01-11 18:30:02.1807||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/ - - 
+2023-01-11 18:30:02.2067||DEBUG|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|Wildcard detected, all requests with hosts will be allowed. 
+2023-01-11 18:30:02.2067||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:02.2067||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path / does not match a supported file type 
+2023-01-11 18:30:02.2067||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter 
+2023-01-11 18:30:02.2361||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/' 
+2023-01-11 18:30:02.2388||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'CarRental.Controllers.CarController.Index (CarRental)' with route pattern '{controller=Car}/{action=Index}/{id?}' is valid for the request path '/' 
+2023-01-11 18:30:02.2388||DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'CarRental.Controllers.CarController.Index (CarRental)' 
+2023-01-11 18:30:02.2519||DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Cookies was not authenticated. 
+2023-01-11 18:30:02.2519||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CarRental.Controllers.CarController.Index (CarRental)' 
+2023-01-11 18:30:02.2811||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Index", controller = "Car"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller CarRental.Controllers.CarController (CarRental). 
+2023-01-11 18:30:02.2811||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None 
+2023-01-11 18:30:02.2811||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2023-01-11 18:30:02.2811||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000) 
+2023-01-11 18:30:02.2811||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None 
+2023-01-11 18:30:02.2811||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2023-01-11 18:30:02.2811||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: Before executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-01-11 18:30:02.2811||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: After executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-01-11 18:30:02.2811||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller CarRental.Controllers.CarController (CarRental) 
+2023-01-11 18:30:02.2839||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller CarRental.Controllers.CarController (CarRental) 
+2023-01-11 18:30:02.2839||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter. 
+2023-01-11 18:30:02.2839||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-01-11 18:30:02.2839||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-01-11 18:30:02.2839||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method CarRental.Controllers.CarController.Index (CarRental) - Validation state: Valid 
+2023-01-11 18:30:02.2839||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method CarRental.Controllers.CarController.Index (CarRental), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.4841ms. 
+2023-01-11 18:30:02.2839||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-01-11 18:30:02.2839||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-01-11 18:30:02.2839||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter. 
+2023-01-11 18:30:02.2839||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-01-11 18:30:02.2839||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-01-11 18:30:02.2839||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.ViewResult. 
+2023-01-11 18:30:02.2839||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view 'Index' in controller 'Car'. 
+2023-01-11 18:30:02.2839||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/Car/Index.cshtml'. 
+2023-01-11 18:30:02.2839||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Views/Car/_ViewStart.cshtml'. 
+2023-01-11 18:30:02.2839||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/_ViewStart.cshtml'. 
+2023-01-11 18:30:02.2991||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/_ViewStart.cshtml'. 
+2023-01-11 18:30:02.2991||INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Index. 
+2023-01-11 18:30:02.2991||DEBUG|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|The view path '/Views/Car/Index.cshtml' was found in 4.952ms. 
+2023-01-11 18:30:02.3326||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executing view component CarRental.ViewComponents.Slider with arguments (). 
+2023-01-11 18:30:02.3461||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executed view component CarRental.ViewComponents.Slider in 9.7914ms and returned Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult 
+2023-01-11 18:30:02.3461||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view 'Components/Slider/Default' in controller 'Car'. 
+2023-01-11 18:30:02.3461||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Views/Car/Components/Slider/Default.cshtml'. 
+2023-01-11 18:30:02.3461||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/Shared/Components/Slider/Default.cshtml'. 
+2023-01-11 18:30:02.3461||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executing view component CarRental.ViewComponents.Car with arguments (). 
+2023-01-11 18:30:02.3461||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executed view component CarRental.ViewComponents.Car in 6.9219ms and returned Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult 
+2023-01-11 18:30:02.3461||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view 'Components/Car/Default' in controller 'Car'. 
+2023-01-11 18:30:02.3461||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Views/Car/Components/Car/Default.cshtml'. 
+2023-01-11 18:30:02.3461||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/Shared/Components/Car/Default.cshtml'. 
+2023-01-11 18:30:02.3826||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints CarRental.Controllers.CarController.Details (CarRental), Route: {controller=Car}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress 
+2023-01-11 18:30:02.3826||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Failed to process the template Car/Details/{title}/{id} for CarRental.Controllers.CarController.Details (CarRental). A required route value is missing, or has a different value from the required default values. Supplied ambient values { "action": "Index", "controller": "Car" } and { "action": "Details", "controller": "Car" } with default values { "action": "Details", "controller": "Car" } 
+2023-01-11 18:30:02.3946||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Car}/{action=Index}/{id?} for Route: {controller=Car}/{action=Index}/{id?} resulting in /Car/Details and  
+2023-01-11 18:30:02.3946||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints CarRental.Controllers.CarController.Details (CarRental), Route: {controller=Car}/{action=Index}/{id?} with result /Car/Details 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints CarRental.Controllers.CarController.Details (CarRental), Route: {controller=Car}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Failed to process the template Car/Details/{title}/{id} for CarRental.Controllers.CarController.Details (CarRental). A required route value is missing, or has a different value from the required default values. Supplied ambient values { "action": "Index", "controller": "Car" } and { "action": "Details", "controller": "Car" } with default values { "action": "Details", "controller": "Car" } 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Car}/{action=Index}/{id?} for Route: {controller=Car}/{action=Index}/{id?} resulting in /Car/Details and  
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints CarRental.Controllers.CarController.Details (CarRental), Route: {controller=Car}/{action=Index}/{id?} with result /Car/Details 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints CarRental.Controllers.CarController.Details (CarRental), Route: {controller=Car}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Failed to process the template Car/Details/{title}/{id} for CarRental.Controllers.CarController.Details (CarRental). A required route value is missing, or has a different value from the required default values. Supplied ambient values { "action": "Index", "controller": "Car" } and { "action": "Details", "controller": "Car" } with default values { "action": "Details", "controller": "Car" } 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Car}/{action=Index}/{id?} for Route: {controller=Car}/{action=Index}/{id?} resulting in /Car/Details and  
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints CarRental.Controllers.CarController.Details (CarRental), Route: {controller=Car}/{action=Index}/{id?} with result /Car/Details 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints CarRental.Controllers.CarController.Details (CarRental), Route: {controller=Car}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Failed to process the template Car/Details/{title}/{id} for CarRental.Controllers.CarController.Details (CarRental). A required route value is missing, or has a different value from the required default values. Supplied ambient values { "action": "Index", "controller": "Car" } and { "action": "Details", "controller": "Car" } with default values { "action": "Details", "controller": "Car" } 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Car}/{action=Index}/{id?} for Route: {controller=Car}/{action=Index}/{id?} resulting in /Car/Details and  
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints CarRental.Controllers.CarController.Details (CarRental), Route: {controller=Car}/{action=Index}/{id?} with result /Car/Details 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints CarRental.Controllers.CarController.Details (CarRental), Route: {controller=Car}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Failed to process the template Car/Details/{title}/{id} for CarRental.Controllers.CarController.Details (CarRental). A required route value is missing, or has a different value from the required default values. Supplied ambient values { "action": "Index", "controller": "Car" } and { "action": "Details", "controller": "Car" } with default values { "action": "Details", "controller": "Car" } 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Car}/{action=Index}/{id?} for Route: {controller=Car}/{action=Index}/{id?} resulting in /Car/Details and  
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints CarRental.Controllers.CarController.Details (CarRental), Route: {controller=Car}/{action=Index}/{id?} with result /Car/Details 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints CarRental.Controllers.CarController.Details (CarRental), Route: {controller=Car}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Failed to process the template Car/Details/{title}/{id} for CarRental.Controllers.CarController.Details (CarRental). A required route value is missing, or has a different value from the required default values. Supplied ambient values { "action": "Index", "controller": "Car" } and { "action": "Details", "controller": "Car" } with default values { "action": "Details", "controller": "Car" } 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Car}/{action=Index}/{id?} for Route: {controller=Car}/{action=Index}/{id?} resulting in /Car/Details and  
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints CarRental.Controllers.CarController.Details (CarRental), Route: {controller=Car}/{action=Index}/{id?} with result /Car/Details 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints CarRental.Controllers.CarController.Details (CarRental), Route: {controller=Car}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Failed to process the template Car/Details/{title}/{id} for CarRental.Controllers.CarController.Details (CarRental). A required route value is missing, or has a different value from the required default values. Supplied ambient values { "action": "Index", "controller": "Car" } and { "action": "Details", "controller": "Car" } with default values { "action": "Details", "controller": "Car" } 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Car}/{action=Index}/{id?} for Route: {controller=Car}/{action=Index}/{id?} resulting in /Car/Details and  
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints CarRental.Controllers.CarController.Details (CarRental), Route: {controller=Car}/{action=Index}/{id?} with result /Car/Details 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints CarRental.Controllers.CarController.Details (CarRental), Route: {controller=Car}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Failed to process the template Car/Details/{title}/{id} for CarRental.Controllers.CarController.Details (CarRental). A required route value is missing, or has a different value from the required default values. Supplied ambient values { "action": "Index", "controller": "Car" } and { "action": "Details", "controller": "Car" } with default values { "action": "Details", "controller": "Car" } 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Car}/{action=Index}/{id?} for Route: {controller=Car}/{action=Index}/{id?} resulting in /Car/Details and  
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints CarRental.Controllers.CarController.Details (CarRental), Route: {controller=Car}/{action=Index}/{id?} with result /Car/Details 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints CarRental.Controllers.CarController.Details (CarRental), Route: {controller=Car}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Failed to process the template Car/Details/{title}/{id} for CarRental.Controllers.CarController.Details (CarRental). A required route value is missing, or has a different value from the required default values. Supplied ambient values { "action": "Index", "controller": "Car" } and { "action": "Details", "controller": "Car" } with default values { "action": "Details", "controller": "Car" } 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Car}/{action=Index}/{id?} for Route: {controller=Car}/{action=Index}/{id?} resulting in /Car/Details and  
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints CarRental.Controllers.CarController.Details (CarRental), Route: {controller=Car}/{action=Index}/{id?} with result /Car/Details 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Found the endpoints CarRental.Controllers.CarController.Details (CarRental), Route: {controller=Car}/{action=Index}/{id?} for address Microsoft.AspNetCore.Routing.RouteValuesAddress 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Failed to process the template Car/Details/{title}/{id} for CarRental.Controllers.CarController.Details (CarRental). A required route value is missing, or has a different value from the required default values. Supplied ambient values { "action": "Index", "controller": "Car" } and { "action": "Details", "controller": "Car" } with default values { "action": "Details", "controller": "Car" } 
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Successfully processed template {controller=Car}/{action=Index}/{id?} for Route: {controller=Car}/{action=Index}/{id?} resulting in /Car/Details and  
+2023-01-11 18:30:02.4098||DEBUG|Microsoft.AspNetCore.Routing.DefaultLinkGenerator|Link generation succeeded for endpoints CarRental.Controllers.CarController.Details (CarRental), Route: {controller=Car}/{action=Index}/{id?} with result /Car/Details 
+2023-01-11 18:30:02.4098||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/Shared/_Layout.cshtml'. 
+2023-01-11 18:30:02.5530||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executing view component CarRental.ViewComponents.MobileHeader with arguments (). 
+2023-01-11 18:30:02.5530||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executed view component CarRental.ViewComponents.MobileHeader in 2.7197ms and returned Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult 
+2023-01-11 18:30:02.5530||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view 'Components/MobileHeader/Default' in controller 'Car'. 
+2023-01-11 18:30:02.5530||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Views/Car/Components/MobileHeader/Default.cshtml'. 
+2023-01-11 18:30:02.5530||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/Shared/Components/MobileHeader/Default.cshtml'. 
+2023-01-11 18:30:02.5530||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executing view component CarRental.ViewComponents.Header with arguments (). 
+2023-01-11 18:30:02.5530||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executed view component CarRental.ViewComponents.Header in 0.9201ms and returned Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult 
+2023-01-11 18:30:02.5530||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view 'Components/Header/Default' in controller 'Car'. 
+2023-01-11 18:30:02.5530||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Views/Car/Components/Header/Default.cshtml'. 
+2023-01-11 18:30:02.5530||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/Shared/Components/Header/Default.cshtml'. 
+2023-01-11 18:30:02.5530||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executing view component CarRental.ViewComponents.Footer with arguments (). 
+2023-01-11 18:30:02.5530||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executed view component CarRental.ViewComponents.Footer in 2.4911ms and returned Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult 
+2023-01-11 18:30:02.5530||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view 'Components/Footer/Default' in controller 'Car'. 
+2023-01-11 18:30:02.5530||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Views/Car/Components/Footer/Default.cshtml'. 
+2023-01-11 18:30:02.5530||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/Shared/Components/Footer/Default.cshtml'. 
+2023-01-11 18:30:02.7169||INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Index executed in 421.0932ms. 
+2023-01-11 18:30:02.7169||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.ViewResult. 
+2023-01-11 18:30:02.7169||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-01-11 18:30:02.7169||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-01-11 18:30:02.7216||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: Before executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-01-11 18:30:02.7216||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: After executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-01-11 18:30:02.7216||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CarRental.Controllers.CarController.Index (CarRental) in 440.9354ms 
+2023-01-11 18:30:02.7216||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CarRental.Controllers.CarController.Index (CarRental)' 
+2023-01-11 18:30:02.7484||DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup is scheduled to include browser refresh script injection. 
+2023-01-11 18:30:02.7761||DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup was updated to include browser refresh script injection. 
+2023-01-11 18:30:02.7852||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18302628891539275777" disconnecting. 
+2023-01-11 18:30:02.7852||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/ - - - 200 - text/html;+charset=utf-8 609.5216ms 
+2023-01-11 18:30:02.8631||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/StaticFiles/33eda4e2-5c57-42c5-901c-1e84ed6b985d.png - - 
+2023-01-11 18:30:02.8631||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/css/master.css - - 
+2023-01-11 18:30:02.8631||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:02.8631||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:02.8631||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /StaticFiles/33eda4e2-5c57-42c5-901c-1e84ed6b985d.png does not match an existing file 
+2023-01-11 18:30:02.8631||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:02.8631||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:02.8771||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/css/master.css'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\css\master.css' 
+2023-01-11 18:30:02.8771||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686489872171012" disconnecting. 
+2023-01-11 18:30:02.8771||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/css/master.css - - - 200 1836 text/css 14.4637ms 
+2023-01-11 18:30:02.8940||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/plugins/slider-pro/slider-pro.css - - 
+2023-01-11 18:30:02.8940||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:02.8940||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/fonts/simple-line-icons/css/simple-line-icons.css - - 
+2023-01-11 18:30:02.8940||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:02.8940||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/libs/bootstrap-4.1.3/bootstrap.css - - 
+2023-01-11 18:30:02.8940||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:02.8940||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:02.8940||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:02.8940||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:02.9418||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/plugins/slick/slick.css - - 
+2023-01-11 18:30:02.9418||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:02.9418||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:02.9418||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/fonts/fontawesome-free-5.6.1/css/all.min.css - - 
+2023-01-11 18:30:02.9418||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:02.9418||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:02.9418||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/css/main.css - - 
+2023-01-11 18:30:02.9418||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:02.9418||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:02.9677||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/plugins/bootstrap-select/css/bootstrap-select.min.css - - 
+2023-01-11 18:30:02.9677||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:02.9677||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/plugins/headers/header.css - - 
+2023-01-11 18:30:02.9677||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/fonts/stroke/style.css - - 
+2023-01-11 18:30:02.9677||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/fonts/elegant/style.css - - 
+2023-01-11 18:30:02.9677||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:02.9677||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:02.9677||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:02.9677||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:02.9677||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:02.9677||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:02.9677||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:02.9677||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/css/responsive.css - - 
+2023-01-11 18:30:02.9677||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:02.9677||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:02.9741||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/css/color.css - - 
+2023-01-11 18:30:02.9741||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:02.9741||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:02.9741||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/plugins/headers/yamm.css - - 
+2023-01-11 18:30:02.9741||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:02.9741||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:02.9741||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/plugins/slick/slick-theme.css - - 
+2023-01-11 18:30:02.9741||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:02.9741||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:02.9864||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css - - 
+2023-01-11 18:30:02.9864||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:02.9864||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.0064||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/plugins/slick/slick-theme.css'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\plugins\slick\slick-theme.css' 
+2023-01-11 18:30:03.0064||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18230571357630889985" disconnecting. 
+2023-01-11 18:30:03.0064||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/plugins/slick/slick-theme.css - - - 200 2880 text/css 22.2968ms 
+2023-01-11 18:30:03.0064||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/plugins/flowplayer/skin/playful.css - - 
+2023-01-11 18:30:03.0064||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.0064||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.0241||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/plugins/animate/animate.css - - 
+2023-01-11 18:30:03.0241||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.0241||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/fonts/flaticon/font/flaticon.css - - 
+2023-01-11 18:30:03.0241||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.0241||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/plugins/magnific-popup/magnific-popup.css - - 
+2023-01-11 18:30:03.0241||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.0241||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/plugins/noUiSlider/nouislider.css - - 
+2023-01-11 18:30:03.0241||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.0241||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.0241||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.0241||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.0241||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.0241||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/plugins/magnific-popup/magnific-popup.css'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\plugins\magnific-popup\magnific-popup.css' 
+2023-01-11 18:30:03.0241||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/plugins/magnific-popup/magnific-popup.css - - - 200 6951 text/css 5.1070ms 
+2023-01-11 18:30:03.0241||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18158513763592962049" disconnecting. 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/fonts/simple-line-icons/css/simple-line-icons.css'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\fonts\simple-line-icons\css\simple-line-icons.css' 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/33eda4e2-5c57-42c5-901c-1e84ed6b985d.png'. Physical path: 'C:\SendBox\KprRentACars\CarRental\StaticFiles\33eda4e2-5c57-42c5-901c-1e84ed6b985d.png' 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/plugins/slider-pro/slider-pro.css'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\plugins\slider-pro\slider-pro.css' 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/css/color.css'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\css\color.css' 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/fonts/flaticon/font/flaticon.css'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\fonts\flaticon\font\flaticon.css' 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/plugins/headers/yamm.css'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\plugins\headers\yamm.css' 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/fonts/simple-line-icons/css/simple-line-icons.css - - - 200 12958 text/css 142.4727ms 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/plugins/slider-pro/slider-pro.css - - - 200 12617 text/css 144.8313ms 
+2023-01-11 18:30:03.0377||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18230571301796315139" disconnecting. 
+2023-01-11 18:30:03.0377||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18086456169555034113" disconnecting. 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/plugins/slick/slick.css'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\plugins\slick\slick.css' 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/plugins/bootstrap-select/css/bootstrap-select.min.css'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\plugins\bootstrap-select\css\bootstrap-select.min.css' 
+2023-01-11 18:30:03.0377||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18158513742118125569" disconnecting. 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/StaticFiles/33eda4e2-5c57-42c5-901c-1e84ed6b985d.png - - - 200 41307 image/png 175.9907ms 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/fonts/elegant/style.css'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\fonts\elegant\style.css' 
+2023-01-11 18:30:03.0377||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686545706745857" disconnecting. 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/plugins/bootstrap-select/css/bootstrap-select.min.css - - - 200 9887 text/css 71.5819ms 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/plugins/noUiSlider/nouislider.css'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\plugins\noUiSlider\nouislider.css' 
+2023-01-11 18:30:03.0377||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18302628913014112257" disconnecting. 
+2023-01-11 18:30:03.0377||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18230571336156053507" disconnecting. 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/plugins/flowplayer/skin/playful.css'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\plugins\flowplayer\skin\playful.css' 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/css/color.css - - - 200 3760 text/css 64.8003ms 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/plugins/headers/yamm.css - - - 200 1936 text/css 62.0063ms 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/plugins/slick/slick.css - - - 200 1816 text/css 97.2266ms 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/fonts/fontawesome-free-5.6.1/css/all.min.css'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\fonts\fontawesome-free-5.6.1\css\all.min.css' 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/plugins/headers/header.css'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\plugins\headers\header.css' 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/css/responsive.css'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\css\responsive.css' 
+2023-01-11 18:30:03.0377||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18302628887244308481" disconnecting. 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/css/responsive.css - - - 200 10315 text/css 70.2196ms 
+2023-01-11 18:30:03.0377||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18302628895834243074" disconnecting. 
+2023-01-11 18:30:03.0377||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18302628951668817921" disconnecting. 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/fonts/flaticon/font/flaticon.css - - - 200 1733 text/css 14.6556ms 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/plugins/noUiSlider/nouislider.css - - - 200 4750 text/css 14.5264ms 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/css/main.css'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\css\main.css' 
+2023-01-11 18:30:03.0377||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18086456130900328449" disconnecting. 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/libs/bootstrap-4.1.3/bootstrap.css'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\libs\bootstrap-4.1.3\bootstrap.css' 
+2023-01-11 18:30:03.0377||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686541411778562" disconnecting. 
+2023-01-11 18:30:03.0377||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18158513724938256385" disconnecting. 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/fonts/stroke/style.css'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\fonts\stroke\style.css' 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/fonts/elegant/style.css - - - 200 25237 text/css 71.8720ms 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/plugins/headers/header.css - - - 200 11972 text/css 71.9422ms 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\fonts\pe-icon-7-stroke\css\pe-icon-7-stroke.css' 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/plugins/animate/animate.css'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\plugins\animate\animate.css' 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css - - - 200 9742 text/css 54.0355ms 
+2023-01-11 18:30:03.0377||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18158513707758387201" disconnecting. 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/plugins/flowplayer/skin/playful.css - - - 200 36993 text/css 33.2801ms 
+2023-01-11 18:30:03.0377||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686489872171014" disconnecting. 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/fonts/fontawesome-free-5.6.1/css/all.min.css - - - 200 53741 text/css 97.3989ms 
+2023-01-11 18:30:03.0377||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18230571318976184321" disconnecting. 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/plugins/animate/animate.css - - - 200 68778 text/css 18.0382ms 
+2023-01-11 18:30:03.0377||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18230571340451020801" disconnecting. 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/css/main.css - - - 200 84175 text/css 96.3152ms 
+2023-01-11 18:30:03.0377||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686481282236421" disconnecting. 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/libs/bootstrap-4.1.3/bootstrap.css - - - 200 140001 text/css 147.7576ms 
+2023-01-11 18:30:03.0377||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18302628891539275779" disconnecting. 
+2023-01-11 18:30:03.0377||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/fonts/stroke/style.css - - - 200 115263 text/css 77.7091ms 
+2023-01-11 18:30:03.0678||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/libs/bootstrap-select.min.js - - 
+2023-01-11 18:30:03.0678||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/plugins/magnific-popup/jquery.magnific-popup.min.js - - 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.0678||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/plugins/switcher/js/dmss.js - - 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.0678||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/plugins/jqBootstrapValidation.js - - 
+2023-01-11 18:30:03.0678||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/plugins/headers/slidebar.js - - 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.0678||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/plugins/headers/header.js - - 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.0678||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/plugins/flowplayer/flowplayer.min.js - - 
+2023-01-11 18:30:03.0678||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/plugins/isotope/isotope.pkgd.min.js - - 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.0678||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/plugins/isotope/imagesLoaded.js - - 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.0678||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/plugins/contact_me.js - - 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.0678||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/plugins/scrollreveal/scrollreveal.min.js - - 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.0678||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/plugins/slider-pro/jquery.sliderPro.min.js - - 
+2023-01-11 18:30:03.0678||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/plugins/ofi.min.js - - 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.0678||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/plugins/slick/slick.js - - 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.0678||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/plugins/rendro-easy-pie-chart/jquery.easypiechart.min.js - - 
+2023-01-11 18:30:03.0678||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/plugins/rendro-easy-pie-chart/jquery.waypoints.min.js - - 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.0678||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.1174||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/plugins/isotope/imagesLoaded.js'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\plugins\isotope\imagesLoaded.js' 
+2023-01-11 18:30:03.1174||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/plugins/isotope/imagesLoaded.js - - - 200 5408 application/javascript 46.0964ms 
+2023-01-11 18:30:03.1174||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/StaticFiles/fd6ea920-567a-4842-9fe5-8e52cbe754cc.png - - 
+2023-01-11 18:30:03.1174||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.1174||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /StaticFiles/fd6ea920-567a-4842-9fe5-8e52cbe754cc.png does not match an existing file 
+2023-01-11 18:30:03.1174||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/StaticFiles/slider1.png - - 
+2023-01-11 18:30:03.1174||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.1174||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.1174||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /StaticFiles/slider1.png does not match an existing file 
+2023-01-11 18:30:03.1174||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.1317||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/StaticFiles/slider3.png - - 
+2023-01-11 18:30:03.1317||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.1317||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /StaticFiles/slider3.png does not match an existing file 
+2023-01-11 18:30:03.1317||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.1317||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/plugins/rendro-easy-pie-chart/jquery.easypiechart.min.js'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\plugins\rendro-easy-pie-chart\jquery.easypiechart.min.js' 
+2023-01-11 18:30:03.1317||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/plugins/rendro-easy-pie-chart/jquery.easypiechart.min.js - - - 200 3990 application/javascript 56.4645ms 
+2023-01-11 18:30:03.1317||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18158513737823158273" disconnecting. 
+2023-01-11 18:30:03.1317||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/StaticFiles/slider2.png - - 
+2023-01-11 18:30:03.1317||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.1317||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /StaticFiles/slider2.png does not match an existing file 
+2023-01-11 18:30:03.1317||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.1317||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/plugins/contact_me.js'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\plugins\contact_me.js' 
+2023-01-11 18:30:03.1317||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18302628917309079553" disconnecting. 
+2023-01-11 18:30:03.1317||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/plugins/contact_me.js - - - 200 2102 application/javascript 66.9703ms 
+2023-01-11 18:30:03.1317||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/plugins/switcher/js/dmss.js'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\plugins\switcher\js\dmss.js' 
+2023-01-11 18:30:03.1317||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/plugins/headers/header.js'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\plugins\headers\header.js' 
+2023-01-11 18:30:03.1317||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686489872171016" disconnecting. 
+2023-01-11 18:30:03.1317||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/plugins/switcher/js/dmss.js - - - 200 2437 application/javascript 71.9464ms 
+2023-01-11 18:30:03.1317||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/plugins/headers/header.js - - - 200 10362 application/javascript 69.5547ms 
+2023-01-11 18:30:03.1317||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/StaticFiles/car3.jpg - - 
+2023-01-11 18:30:03.1317||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18302628891539275781" disconnecting. 
+2023-01-11 18:30:03.1317||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.1317||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/StaticFiles/b93f282a-5120-4df9-b3ad-1c682467f299.jpg - - 
+2023-01-11 18:30:03.1317||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/StaticFiles/go_top.png - - 
+2023-01-11 18:30:03.1317||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.1317||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.1317||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/plugins/ofi.min.js'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\plugins\ofi.min.js' 
+2023-01-11 18:30:03.1317||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /StaticFiles/car3.jpg does not match an existing file 
+2023-01-11 18:30:03.1317||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /StaticFiles/b93f282a-5120-4df9-b3ad-1c682467f299.jpg does not match an existing file 
+2023-01-11 18:30:03.1317||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /StaticFiles/go_top.png does not match an existing file 
+2023-01-11 18:30:03.1317||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/plugins/ofi.min.js - - - 200 3285 application/javascript 68.2751ms 
+2023-01-11 18:30:03.1317||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.1317||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18230571293206380545" disconnecting. 
+2023-01-11 18:30:03.1317||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.1317||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.1424||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/StaticFiles/1.jpg - - 
+2023-01-11 18:30:03.1424||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.1424||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/plugins/headers/slidebar.js'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\plugins\headers\slidebar.js' 
+2023-01-11 18:30:03.1424||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /StaticFiles/1.jpg does not match an existing file 
+2023-01-11 18:30:03.1424||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/plugins/headers/slidebar.js - - - 200 11674 application/javascript 73.2944ms 
+2023-01-11 18:30:03.1424||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686519936942081" disconnecting. 
+2023-01-11 18:30:03.1424||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.1424||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/_vs/browserLink - - 
+2023-01-11 18:30:03.1424||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/plugins/magnific-popup/jquery.magnific-popup.min.js'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\plugins\magnific-popup\jquery.magnific-popup.min.js' 
+2023-01-11 18:30:03.1424||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/libs/bootstrap-select.min.js'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\libs\bootstrap-select.min.js' 
+2023-01-11 18:30:03.1424||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/StaticFiles/09933c60-ab45-47ba-aa46-b6313f202615.png - - 
+2023-01-11 18:30:03.1424||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.1424||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/plugins/magnific-popup/jquery.magnific-popup.min.js - - - 200 20216 application/javascript 83.0416ms 
+2023-01-11 18:30:03.1424||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18230571340451020803" disconnecting. 
+2023-01-11 18:30:03.1424||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/js/custom.js - - 
+2023-01-11 18:30:03.1424||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /StaticFiles/09933c60-ab45-47ba-aa46-b6313f202615.png does not match an existing file 
+2023-01-11 18:30:03.1424||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.1424||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/car3.jpg'. Physical path: 'C:\SendBox\KprRentACars\CarRental\StaticFiles\car3.jpg' 
+2023-01-11 18:30:03.1424||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.1424||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "17798225754748616705" disconnecting. 
+2023-01-11 18:30:03.1424||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/StaticFiles/car3.jpg - - - 200 6821 image/jpeg 12.2763ms 
+2023-01-11 18:30:03.1424||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.1424||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/_framework/aspnetcore-browser-refresh.js - - 
+2023-01-11 18:30:03.1424||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/go_top.png'. Physical path: 'C:\SendBox\KprRentACars\CarRental\StaticFiles\go_top.png' 
+2023-01-11 18:30:03.1424||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/StaticFiles/go_top.png - - - 200 8228 image/png 12.8640ms 
+2023-01-11 18:30:03.1424||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "17509995378596904961" disconnecting. 
+2023-01-11 18:30:03.1424||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/plugins/isotope/isotope.pkgd.min.js'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\plugins\isotope\isotope.pkgd.min.js' 
+2023-01-11 18:30:03.1424||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/StaticFiles/about-2.jpg - - 
+2023-01-11 18:30:03.1424||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.1424||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/fd6ea920-567a-4842-9fe5-8e52cbe754cc.png'. Physical path: 'C:\SendBox\KprRentACars\CarRental\StaticFiles\fd6ea920-567a-4842-9fe5-8e52cbe754cc.png' 
+2023-01-11 18:30:03.1424||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /StaticFiles/about-2.jpg does not match an existing file 
+2023-01-11 18:30:03.1424||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18086456130900328451" disconnecting. 
+2023-01-11 18:30:03.1424||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/StaticFiles/19be7022-b3ec-4d92-89ef-3579f4530ff0.jpg - - 
+2023-01-11 18:30:03.1424||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /about-2.jpg does not match an existing file 
+2023-01-11 18:30:03.1424||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.1424||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18158513707758387203" disconnecting. 
+2023-01-11 18:30:03.1424||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/plugins/scrollreveal/scrollreveal.min.js'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\plugins\scrollreveal\scrollreveal.min.js' 
+2023-01-11 18:30:03.1424||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /StaticFiles/19be7022-b3ec-4d92-89ef-3579f4530ff0.jpg does not match an existing file 
+2023-01-11 18:30:03.1424||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/plugins/scrollreveal/scrollreveal.min.js - - - 200 7566 application/javascript 85.1038ms 
+2023-01-11 18:30:03.1424||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.1424||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/1.jpg'. Physical path: 'C:\SendBox\KprRentACars\CarRental\StaticFiles\1.jpg' 
+2023-01-11 18:30:03.1424||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18302628887244308483" disconnecting. 
+2023-01-11 18:30:03.1424||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "17942340942824472577" disconnecting. 
+2023-01-11 18:30:03.1582||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18302628925899014145" disconnecting. 
+2023-01-11 18:30:03.1582||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/StaticFiles/fd6ea920-567a-4842-9fe5-8e52cbe754cc.png - - - 200 41307 image/png 41.7936ms 
+2023-01-11 18:30:03.1582||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/plugins/isotope/isotope.pkgd.min.js - - - 200 34696 application/javascript 88.3533ms 
+2023-01-11 18:30:03.1582||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/StaticFiles/1.jpg - - - 200 33154 image/jpeg 18.0387ms 
+2023-01-11 18:30:03.1582||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/plugins/rendro-easy-pie-chart/jquery.waypoints.min.js'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\plugins\rendro-easy-pie-chart\jquery.waypoints.min.js' 
+2023-01-11 18:30:03.1582||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/plugins/jqBootstrapValidation.js'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\plugins\jqBootstrapValidation.js' 
+2023-01-11 18:30:03.1582||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/plugins/slick/slick.js'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\plugins\slick\slick.js' 
+2023-01-11 18:30:03.1582||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/slider1.png'. Physical path: 'C:\SendBox\KprRentACars\CarRental\StaticFiles\slider1.png' 
+2023-01-11 18:30:03.1582||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/libs/bootstrap-select.min.js - - - 200 48234 application/javascript 94.1907ms 
+2023-01-11 18:30:03.1582||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/plugins/rendro-easy-pie-chart/jquery.waypoints.min.js - - - 200 9028 application/javascript 83.4499ms 
+2023-01-11 18:30:03.1582||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18158513724938256387" disconnecting. 
+2023-01-11 18:30:03.1582||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686481282236423" disconnecting. 
+2023-01-11 18:30:03.1582||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/StaticFiles/slider1.png - - - 200 18814 image/png 38.7446ms 
+2023-01-11 18:30:03.1582||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/09933c60-ab45-47ba-aa46-b6313f202615.png'. Physical path: 'C:\SendBox\KprRentACars\CarRental\StaticFiles\09933c60-ab45-47ba-aa46-b6313f202615.png' 
+2023-01-11 18:30:03.1582||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/StaticFiles/09933c60-ab45-47ba-aa46-b6313f202615.png - - - 200 1540 image/png 12.9912ms 
+2023-01-11 18:30:03.1582||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/b93f282a-5120-4df9-b3ad-1c682467f299.jpg'. Physical path: 'C:\SendBox\KprRentACars\CarRental\StaticFiles\b93f282a-5120-4df9-b3ad-1c682467f299.jpg' 
+2023-01-11 18:30:03.1582||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686511347007491" disconnecting. 
+2023-01-11 18:30:03.1582||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "17654110566672760833" disconnecting. 
+2023-01-11 18:30:03.1582||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/plugins/jqBootstrapValidation.js - - - 200 36180 application/javascript 94.6549ms 
+2023-01-11 18:30:03.1582||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/StaticFiles/b93f282a-5120-4df9-b3ad-1c682467f299.jpg - - - 200 82527 image/jpeg 25.1658ms 
+2023-01-11 18:30:03.1582||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|No candidates found for the request path '/StaticFiles/about-2.jpg' 
+2023-01-11 18:30:03.1582||DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request did not match any endpoints 
+2023-01-11 18:30:03.1582||DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Cookies was not authenticated. 
+2023-01-11 18:30:03.1582||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18086456105130524673" disconnecting. 
+2023-01-11 18:30:03.1582||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/slider2.png'. Physical path: 'C:\SendBox\KprRentACars\CarRental\StaticFiles\slider2.png' 
+2023-01-11 18:30:03.1582||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/plugins/slick/slick.js - - - 200 88955 application/javascript 97.2560ms 
+2023-01-11 18:30:03.1582||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18302628913014112259" disconnecting. 
+2023-01-11 18:30:03.1582||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/StaticFiles/slider2.png - - - 200 18368 image/png 37.3050ms 
+2023-01-11 18:30:03.1740||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/slider3.png'. Physical path: 'C:\SendBox\KprRentACars\CarRental\StaticFiles\slider3.png' 
+2023-01-11 18:30:03.1740||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/19be7022-b3ec-4d92-89ef-3579f4530ff0.jpg'. Physical path: 'C:\SendBox\KprRentACars\CarRental\StaticFiles\19be7022-b3ec-4d92-89ef-3579f4530ff0.jpg' 
+2023-01-11 18:30:03.1740||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/plugins/slider-pro/jquery.sliderPro.min.js'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\plugins\slider-pro\jquery.sliderPro.min.js' 
+2023-01-11 18:30:03.1740||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/_framework/aspnetcore-browser-refresh.js - - - 200 11988 application/javascript;+charset=utf-8 24.8264ms 
+2023-01-11 18:30:03.1740||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18158513699168452609" disconnecting. 
+2023-01-11 18:30:03.1740||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/plugins/slider-pro/jquery.sliderPro.min.js - - - 200 92886 application/javascript 110.7290ms 
+2023-01-11 18:30:03.1740||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "17726168160710688769" disconnecting. 
+2023-01-11 18:30:03.1740||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/StaticFiles/19be7022-b3ec-4d92-89ef-3579f4530ff0.jpg - - - 200 85652 image/jpeg 29.1544ms 
+2023-01-11 18:30:03.1740||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "17870283348786544641" disconnecting. 
+2023-01-11 18:30:03.1740||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/StaticFiles/about-2.jpg - - - 404 - - 31.3048ms 
+2023-01-11 18:30:03.1740||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18014398536862400513" disconnecting. 
+2023-01-11 18:30:03.1740||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/StaticFiles/slider3.png - - - 200 19255 image/png 54.6706ms 
+2023-01-11 18:30:03.1740||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/plugins/flowplayer/flowplayer.min.js'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\plugins\flowplayer\flowplayer.min.js' 
+2023-01-11 18:30:03.1936||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18230571297501347843" disconnecting. 
+2023-01-11 18:30:03.1936||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/plugins/flowplayer/flowplayer.min.js - - - 200 100542 application/javascript 122.3692ms 
+2023-01-11 18:30:03.1936||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/js/custom.js'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\js\custom.js' 
+2023-01-11 18:30:03.1936||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/js/custom.js - - - 200 9741 application/javascript 45.1026ms 
+2023-01-11 18:30:03.1936||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18230571318976184323" disconnecting. 
+2023-01-11 18:30:03.2113||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/fonts/simple-line-icons/fonts/Simple-Line-Icons.woff2?v=2.4.0 - - 
+2023-01-11 18:30:03.2113||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.2113||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.2284||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/fonts/simple-line-icons/fonts/Simple-Line-Icons.woff2'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\fonts\simple-line-icons\fonts\Simple-Line-Icons.woff2' 
+2023-01-11 18:30:03.2284||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686511347007493" disconnecting. 
+2023-01-11 18:30:03.2284||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/fonts/simple-line-icons/fonts/Simple-Line-Icons.woff2?v=2.4.0 - - - 200 30064 font/woff2 17.5911ms 
+2023-01-11 18:30:03.2466||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/fonts/fontawesome-free-5.6.1/webfonts/fa-solid-900.woff2 - - 
+2023-01-11 18:30:03.2466||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.2466||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/fonts/flaticon/font/Flaticon.woff - - 
+2023-01-11 18:30:03.2466||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.2466||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.2466||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.2600||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/fonts/flaticon/font/Flaticon.woff'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\fonts\flaticon\font\Flaticon.woff' 
+2023-01-11 18:30:03.2600||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/fonts/fontawesome-free-5.6.1/webfonts/fa-solid-900.woff2'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\fonts\fontawesome-free-5.6.1\webfonts\fa-solid-900.woff2' 
+2023-01-11 18:30:03.2600||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/fonts/flaticon/font/Flaticon.woff - - - 200 10284 application/font-woff 14.9932ms 
+2023-01-11 18:30:03.2600||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18230571297501347845" disconnecting. 
+2023-01-11 18:30:03.2600||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686541411778564" disconnecting. 
+2023-01-11 18:30:03.2600||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/fonts/fontawesome-free-5.6.1/webfonts/fa-solid-900.woff2 - - - 200 79072 font/woff2 16.7790ms 
+2023-01-11 18:30:03.2761||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/fonts/fontawesome-free-5.6.1/webfonts/fa-brands-400.woff2 - - 
+2023-01-11 18:30:03.2761||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.2761||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.2931||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/fonts/fontawesome-free-5.6.1/webfonts/fa-brands-400.woff2'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\fonts\fontawesome-free-5.6.1\webfonts\fa-brands-400.woff2' 
+2023-01-11 18:30:03.2931||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686541411778566" disconnecting. 
+2023-01-11 18:30:03.2931||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/fonts/fontawesome-free-5.6.1/webfonts/fa-brands-400.woff2 - - - 200 73936 font/woff2 17.5031ms 
+2023-01-11 18:30:03.3031||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "17437937784558977025" disconnecting. 
+2023-01-11 18:30:03.3031||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 158.6312ms 
+2023-01-11 18:30:03.9283||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/favicon.ico - - 
+2023-01-11 18:30:03.9283||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:03.9283||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:03.9283||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/favicon.ico'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\favicon.ico' 
+2023-01-11 18:30:03.9283||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/favicon.ico - - - 200 1538 image/x-icon 8.4222ms 
+2023-01-11 18:30:03.9283||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18230571310386249729" disconnecting. 
+2023-01-11 18:30:10.9507||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/Car/Details/fiat-linea/1 - - 
+2023-01-11 18:30:10.9507||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:10.9507||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /Car/Details/fiat-linea/1 does not match a supported file type 
+2023-01-11 18:30:10.9507||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path  does not match the path filter 
+2023-01-11 18:30:10.9507||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|1 candidate(s) found for the request path '/Car/Details/fiat-linea/1' 
+2023-01-11 18:30:10.9507||DEBUG|Microsoft.AspNetCore.Routing.Matching.DfaMatcher|Endpoint 'CarRental.Controllers.CarController.Details (CarRental)' with route pattern 'Car/Details/{title}/{id}' is valid for the request path '/Car/Details/fiat-linea/1' 
+2023-01-11 18:30:10.9507||DEBUG|Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware|Request matched endpoint 'CarRental.Controllers.CarController.Details (CarRental)' 
+2023-01-11 18:30:10.9559||DEBUG|Microsoft.AspNetCore.Authentication.Cookies.CookieAuthenticationHandler|AuthenticationScheme: Cookies was not authenticated. 
+2023-01-11 18:30:10.9559||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CarRental.Controllers.CarController.Details (CarRental)' 
+2023-01-11 18:30:10.9559||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Details", controller = "Car"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Details(Int32) on controller CarRental.Controllers.CarController (CarRental). 
+2023-01-11 18:30:10.9559||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of authorization filters (in the following order): None 
+2023-01-11 18:30:10.9559||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of resource filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2023-01-11 18:30:10.9559||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of action filters (in the following order): Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter (Order: -2147483648), Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter (Order: -3000) 
+2023-01-11 18:30:10.9559||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of exception filters (in the following order): None 
+2023-01-11 18:30:10.9559||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Execution plan of result filters (in the following order): Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter 
+2023-01-11 18:30:10.9559||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: Before executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-01-11 18:30:10.9559||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: After executing OnResourceExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-01-11 18:30:10.9559||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing controller factory for controller CarRental.Controllers.CarController (CarRental) 
+2023-01-11 18:30:10.9559||DEBUG|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed controller factory for controller CarRental.Controllers.CarController (CarRental) 
+2023-01-11 18:30:10.9559||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to bind parameter 'id' of type 'System.Int32' ... 
+2023-01-11 18:30:10.9559||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Attempting to bind parameter 'id' of type 'System.Int32' using the name 'id' in request data ... 
+2023-01-11 18:30:10.9713||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.Binders.SimpleTypeModelBinder|Done attempting to bind parameter 'id' of type 'System.Int32'. 
+2023-01-11 18:30:10.9713||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to bind parameter 'id' of type 'System.Int32'. 
+2023-01-11 18:30:10.9713||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Attempting to validate the bound parameter 'id' of type 'System.Int32' ... 
+2023-01-11 18:30:10.9713||DEBUG|Microsoft.AspNetCore.Mvc.ModelBinding.ParameterBinder|Done attempting to validate the bound parameter 'id' of type 'System.Int32'. 
+2023-01-11 18:30:10.9713||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter. 
+2023-01-11 18:30:10.9713||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-01-11 18:30:10.9713||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuting on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-01-11 18:30:10.9713||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method CarRental.Controllers.CarController.Details (CarRental) - Validation state: Valid 
+2023-01-11 18:30:10.9713||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executing action method CarRental.Controllers.CarController.Details (CarRental) with arguments (1) 
+2023-01-11 18:30:10.9713||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action method CarRental.Controllers.CarController.Details (CarRental), returned result Microsoft.AspNetCore.Mvc.ViewResult in 5.7544ms. 
+2023-01-11 18:30:10.9713||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: Before executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-01-11 18:30:10.9713||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecuted on filter Microsoft.AspNetCore.Mvc.ModelBinding.UnsupportedContentTypeFilter. 
+2023-01-11 18:30:10.9713||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Action Filter: After executing OnActionExecutionAsync on filter Microsoft.AspNetCore.Mvc.Filters.ControllerActionFilter. 
+2023-01-11 18:30:10.9713||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-01-11 18:30:10.9713||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuting on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-01-11 18:30:10.9713||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Before executing action result Microsoft.AspNetCore.Mvc.ViewResult. 
+2023-01-11 18:30:10.9713||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view 'Details' in controller 'Car'. 
+2023-01-11 18:30:10.9713||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/Car/Details.cshtml'. 
+2023-01-11 18:30:10.9713||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Views/Car/_ViewStart.cshtml'. 
+2023-01-11 18:30:10.9713||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/_ViewStart.cshtml'. 
+2023-01-11 18:30:10.9713||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/_ViewStart.cshtml'. 
+2023-01-11 18:30:10.9713||INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executing ViewResult, running view Details. 
+2023-01-11 18:30:10.9713||DEBUG|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|The view path '/Views/Car/Details.cshtml' was found in 0.4062ms. 
+2023-01-11 18:30:10.9713||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executing view component CarRental.ViewComponents.ContactWidget with arguments (). 
+2023-01-11 18:30:10.9878||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executed view component CarRental.ViewComponents.ContactWidget in 2.1374ms and returned Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult 
+2023-01-11 18:30:10.9878||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache miss for view 'Components/ContactWidget/Default' in controller 'Car'. 
+2023-01-11 18:30:10.9878||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Could not find a file for view at path '/Views/Car/Components/ContactWidget/Default.cshtml'. 
+2023-01-11 18:30:10.9878||TRACE|Microsoft.AspNetCore.Mvc.Razor.Compilation.DefaultViewCompiler|Located compiled view for view at path '/Views/Shared/Components/ContactWidget/Default.cshtml'. 
+2023-01-11 18:30:10.9878||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executing view component CarRental.ViewComponents.MobileHeader with arguments (). 
+2023-01-11 18:30:10.9878||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executed view component CarRental.ViewComponents.MobileHeader in 0.8049ms and returned Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult 
+2023-01-11 18:30:10.9878||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache hit for view 'Components/MobileHeader/Default' in controller 'Car'. 
+2023-01-11 18:30:10.9878||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executing view component CarRental.ViewComponents.Header with arguments (). 
+2023-01-11 18:30:10.9878||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executed view component CarRental.ViewComponents.Header in 0.7244ms and returned Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult 
+2023-01-11 18:30:10.9878||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache hit for view 'Components/Header/Default' in controller 'Car'. 
+2023-01-11 18:30:10.9878||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executing view component CarRental.ViewComponents.Footer with arguments (). 
+2023-01-11 18:30:10.9878||DEBUG|Microsoft.AspNetCore.Mvc.ViewComponents.DefaultViewComponentInvoker|Executed view component CarRental.ViewComponents.Footer in 1.649ms and returned Microsoft.AspNetCore.Mvc.ViewComponents.ViewViewComponentResult 
+2023-01-11 18:30:10.9878||DEBUG|Microsoft.AspNetCore.Mvc.Razor.RazorViewEngine|View lookup cache hit for view 'Components/Footer/Default' in controller 'Car'. 
+2023-01-11 18:30:11.0038||INFO|Microsoft.AspNetCore.Mvc.ViewFeatures.ViewResultExecutor|Executed ViewResult - view Details executed in 24.6279ms. 
+2023-01-11 18:30:11.0038||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|After executing action result Microsoft.AspNetCore.Mvc.ViewResult. 
+2023-01-11 18:30:11.0038||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: Before executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-01-11 18:30:11.0038||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Result Filter: After executing OnResultExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-01-11 18:30:11.0038||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: Before executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-01-11 18:30:11.0038||TRACE|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Resource Filter: After executing OnResourceExecuted on filter Microsoft.AspNetCore.Mvc.ViewFeatures.Filters.SaveTempDataFilter. 
+2023-01-11 18:30:11.0038||INFO|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CarRental.Controllers.CarController.Details (CarRental) in 37.5129ms 
+2023-01-11 18:30:11.0038||INFO|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CarRental.Controllers.CarController.Details (CarRental)' 
+2023-01-11 18:30:11.0038||DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup is scheduled to include browser refresh script injection. 
+2023-01-11 18:30:11.0038||DEBUG|Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware|Response markup was updated to include browser refresh script injection. 
+2023-01-11 18:30:11.0038||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18086456105130524675" disconnecting. 
+2023-01-11 18:30:11.0038||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/Car/Details/fiat-linea/1 - - - 200 - text/html;+charset=utf-8 57.7345ms 
+2023-01-11 18:30:11.0239||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/StaticFiles/2.jpg - - 
+2023-01-11 18:30:11.0239||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:11.0239||DEBUG|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|The request path /StaticFiles/2.jpg does not match an existing file 
+2023-01-11 18:30:11.0239||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:11.0239||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/2.jpg'. Physical path: 'C:\SendBox\KprRentACars\CarRental\StaticFiles\2.jpg' 
+2023-01-11 18:30:11.0239||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18302628925899014147" disconnecting. 
+2023-01-11 18:30:11.0239||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/StaticFiles/2.jpg - - - 200 34181 image/jpeg 6.0786ms 
+2023-01-11 18:30:11.0571||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/_framework/aspnetcore-browser-refresh.js - - 
+2023-01-11 18:30:11.0571||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686541411778568" disconnecting. 
+2023-01-11 18:30:11.0571||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/_framework/aspnetcore-browser-refresh.js - - - 200 11988 application/javascript;+charset=utf-8 0.8365ms 
+2023-01-11 18:30:11.0571||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/_vs/browserLink - - 
+2023-01-11 18:30:11.0571||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/media/content/b-title-page/bg-1.jpg - - 
+2023-01-11 18:30:11.0571||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:11.0571||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:11.0571||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/fonts/elegant/fonts/ElegantIcons.woff - - 
+2023-01-11 18:30:11.0571||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:11.0571||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:11.0700||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/media/content/b-title-page/bg-1.jpg'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\media\content\b-title-page\bg-1.jpg' 
+2023-01-11 18:30:11.0700||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/fonts/elegant/fonts/ElegantIcons.woff'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\fonts\elegant\fonts\ElegantIcons.woff' 
+2023-01-11 18:30:11.0700||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/media/content/b-title-page/bg-1.jpg - - - 200 14737 image/jpeg 15.8070ms 
+2023-01-11 18:30:11.0700||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18302628921604046849" disconnecting. 
+2023-01-11 18:30:11.0700||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18158513707758387205" disconnecting. 
+2023-01-11 18:30:11.0700||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/fonts/elegant/fonts/ElegantIcons.woff - - - 200 63664 application/font-woff 12.6710ms 
+2023-01-11 18:30:11.1078||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18374686541411778570" disconnecting. 
+2023-01-11 18:30:11.1078||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/_vs/browserLink - - - 200 - text/javascript;+charset=UTF-8 48.8279ms 
+2023-01-11 18:30:11.1558||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/assets/plugins/slick/ajax-loader.gif - - 
+2023-01-11 18:30:11.1558||TRACE|Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware|All hosts are allowed. 
+2023-01-11 18:30:11.1558||TRACE|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Range header's value is empty. 
+2023-01-11 18:30:11.1622||INFO|Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware|Sending file. Request path: '/assets/plugins/slick/ajax-loader.gif'. Physical path: 'C:\SendBox\KprRentACars\CarRental\wwwroot\assets\plugins\slick\ajax-loader.gif' 
+2023-01-11 18:30:11.1622||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/assets/plugins/slick/ajax-loader.gif - - - 200 4178 image/gif 6.6990ms 
+2023-01-11 18:30:11.1622||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18086456169555034115" disconnecting. 
+2023-01-11 18:30:18.1439||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/2 GET https://localhost:44319/_framework/aspnetcore-browser-refresh.js - - 
+2023-01-11 18:30:18.1439||DEBUG|Microsoft.AspNetCore.Server.IIS.Core.IISHttpServer|Connection ID "18302628921604046851" disconnecting. 
+2023-01-11 18:30:18.1439||INFO|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/2 GET https://localhost:44319/_framework/aspnetcore-browser-refresh.js - - - 200 11988 application/javascript;+charset=utf-8 1.4084ms 

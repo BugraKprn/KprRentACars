@@ -1,0 +1,107 @@
+﻿@model CarRental.Library.Entity.Setting
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="section-title-page area-bg area-bg_dark area-bg_op_60">
+    <div class="area-bg__inner">
+        <div class="container">
+            <div class="row">
+                <div class="col offset-lg-3">
+                    <div class="b-title-page__wrap">
+                        <h1 class="b-title-page">İletişim</h1>
+                        <nav aria-label="breadcrumb">
+                            <ol class="breadcrumb">
+                                <li class="breadcrumb-item"><a href="/">Anasayfa</a></li>
+                                <li class="breadcrumb-item active" aria-current="page">İletişim</li>
+                            </ol>
+                            <!-- end breadcrumb-->
+                        </nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- end .b-title-page-->
+<main class="l-main-content">
+    <div class="container">
+        <div class="section-area">
+            <div class="row">
+                <div class="col-md-6 col-lg-3">
+                    <div class="b-contacts">
+                        <i class="ic icon-direction"></i>
+                        <div class="b-contacts__title">Merkez Ofis</div>
+                        <div class="b-contacts__info">@Html.Raw(Model.Adress)</div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="b-contacts">
+                        <i class="ic icon-call-end bg-primary"></i>
+                        <div class="b-contacts__title">İletişim Numaramız</div>
+                        <div class="b-contacts__info">@Html.Raw(Model.Phone)</div>
+                    </div>
+                </div>
+                <div class="col-md-6 col-lg-3">
+                    <div class="b-contacts">
+                        <i class="ic icon-envelope"></i>
+                        <div class="b-contacts__title">Mail Adresimiz</div>
+                        <div class="b-contacts__info">@Html.Raw(Model.Mail)</div>
+                    </div>
+                </div>
+            </div>
+            <!-- end .b-contacts-->
+        </div>
+        <div class="row">
+            <div class="col-md-6">
+                <div class="map" id="map">@Html.Raw(Model.GoogleMapUrl)</div>
+            </div>
+            <div class="col-md-6">
+                <section class="section-form-contacts">
+                    <h2 class="ui-title-inner">Bizimle <span class="text-primary"> İletişime</span> Geçin</h2>
+                    <p></p>
+                    <div id="success"></div>
+                    <form class="b-form-contacts ui-form" id="myContactPostForm">
+                        @Html.AntiForgeryToken()
+                        <div class="form-group">
+                            <input class="form-control" type="text" id="ContactName" name="ContactName" placeholder="Name" required="required" />
+                        </div>
+                        <div class="form-group">
+                            <input class="form-control" type="email" id="ContactMail" name="ContactMail" placeholder="Mail" />
+                        </div>
+                        <div class="form-group">
+                            <textarea class="form-control" rows="5" id="ContactMessage" name="ContactMessage" placeholder="Message" required="required"></textarea>
+                        </div>
+                        <button class="btn btn-primary" onclick="submitContactForm()">Gönder</button>
+                    </form>
+                </section>
+                <!-- end .b-form-contact-->
+            </div>
+        </div>
+    </div>
+</main>
+
+<script type="text/javascript">
+    function submitContactForm() {
+        var data = $("#myContactPostForm").serialize();
+        $.ajax({
+            type: 'POST',
+            url: '@Url.Action("ContactPost","Car")',
+            dataType: 'json', // when we use .serialize() this generates the data in query string format. this needs the default contentType (default content type is: contentType: 'application/x-www-form-urlencoded; charset=UTF-8') so it is optional, you can remove it
+            data: data,
+            success: function (result) {
+                if (result.Success) {
+                    alert(result.Message);
+                    window.location.href = "@Url.Action("Contact","Car")";
+                }
+                else {
+                    alert(result.ErrorMessage);
+                }
+            },
+            error: function () {
+                alert("Suncuda geçici bir hata oluştu");
+            }
+        })
+    }
+
+</script>

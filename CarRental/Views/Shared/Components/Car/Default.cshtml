@@ -1,0 +1,48 @@
+﻿@using CarRental.Library.Entity
+@model List<CarRental.Library.Entity.Car>
+
+<section class="b-isotope section-default">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center">
+                <div class="ui-title-slogan"></div>
+                <h2 class="ui-title">Araçlarımız</h2>
+                <ul class="b-isotope-filter list-unstyled">
+                </ul>
+            </div>
+        </div>
+        <ul class="b-isotope-grid grid list-unstyled row">
+            <li class="grid-sizer col-lg-4 col-md-6"></li>
+            @foreach (var item in Model)
+            {
+                <li class="b-isotope-grid__item grid-item col-lg-4 col-md-6 web honda">
+                    <div class="b-goods-f b-goods-f_dark">
+                        <div class="b-goods-f__media">
+                            <a href="#"><img class="b-goods-f__img img-scale" src="@Url.Content("~/StaticFiles")/@item.LargeImage" alt="foto" /></a>
+                        </div>
+                        <div class="b-goods-f__main">
+                            <div class="b-goods-f__descrip">
+                                <div class="b-goods-f__title">
+                                    <a href="@Url.Action("Details","Car")/@Url.FriendlyUrl(item.CarName)/@item.Id" style="color: white;">@item.CarName</a>
+                                </div>
+                                <div class="b-goods-f__info"></div>
+                                <ul class="b-goods-f__list list-unstyled">
+                                    <li class="b-goods-f__list-item"><span class="b-goods-f__list-info"><i class="ic flaticon-gearshift"></i>&nbsp; @item.Gear</span></li>
+                                    <li class="b-goods-f__list-item"><span class="b-goods-f__list-info"><i class="fa fa-gas-pump"></i>&nbsp; @item.FuelType</span></li>
+                                    <li class="b-goods-f__list-item"><span class="b-goods-f__list-info"><i class="fa fa-user"></i>&nbsp; @item.Seats</span></li>
+                                    <li class="b-goods-f__list-item"><span class="b-goods-f__list-info"><i class="fa fa-droplet"></i>&nbsp; @item.Color</span></li>
+                                </ul>
+                            </div>
+                            <div class="b-goods-f__sidebar">
+                                <span class="b-goods-f__price-group">
+                                    <span class="b-goods-f__price"><a href="@Url.Action("Details","Car")/@Url.FriendlyUrl(item.CarName)/@item.Id" class="btn btn-primary">Detaylar</a></span>
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- end .b-goods-->
+                </li>
+            }
+        </ul>
+    </div>
+</section>
