@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\CarRental"
+    "\\CarRental",
+    "\\CarRental\\Views",
+    "\\CarRental\\Views\\Admin"
   ],
-  "SelectedNode": "\\CarRental\\appsettings.json",
+  "SelectedNode": "\\CarRental\\Controllers",
   "PreviewInSolutionExplorer": false
 }

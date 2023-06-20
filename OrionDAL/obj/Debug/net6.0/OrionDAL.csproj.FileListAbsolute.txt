@@ -70,3 +70,15 @@ C:\SendBox\KprRentACars\OrionDAL\obj\Debug\net6.0\OrionDAL.dll
 C:\SendBox\KprRentACars\OrionDAL\obj\Debug\net6.0\refint\OrionDAL.dll
 C:\SendBox\KprRentACars\OrionDAL\obj\Debug\net6.0\OrionDAL.pdb
 C:\SendBox\KprRentACars\OrionDAL\obj\Debug\net6.0\ref\OrionDAL.dll
+C:\Users\Ahmet\Desktop\MaysFiloRentACar\OrionDAL\bin\Debug\net6.0\OrionDAL.deps.json
+C:\Users\Ahmet\Desktop\MaysFiloRentACar\OrionDAL\bin\Debug\net6.0\OrionDAL.dll
+C:\Users\Ahmet\Desktop\MaysFiloRentACar\OrionDAL\bin\Debug\net6.0\OrionDAL.pdb
+C:\Users\Ahmet\Desktop\MaysFiloRentACar\OrionDAL\obj\Debug\net6.0\OrionDAL.csproj.AssemblyReference.cache
+C:\Users\Ahmet\Desktop\MaysFiloRentACar\OrionDAL\obj\Debug\net6.0\OrionDAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ahmet\Desktop\MaysFiloRentACar\OrionDAL\obj\Debug\net6.0\OrionDAL.AssemblyInfoInputs.cache
+C:\Users\Ahmet\Desktop\MaysFiloRentACar\OrionDAL\obj\Debug\net6.0\OrionDAL.AssemblyInfo.cs
+C:\Users\Ahmet\Desktop\MaysFiloRentACar\OrionDAL\obj\Debug\net6.0\OrionDAL.csproj.CoreCompileInputs.cache
+C:\Users\Ahmet\Desktop\MaysFiloRentACar\OrionDAL\obj\Debug\net6.0\OrionDAL.dll
+C:\Users\Ahmet\Desktop\MaysFiloRentACar\OrionDAL\obj\Debug\net6.0\refint\OrionDAL.dll
+C:\Users\Ahmet\Desktop\MaysFiloRentACar\OrionDAL\obj\Debug\net6.0\OrionDAL.pdb
+C:\Users\Ahmet\Desktop\MaysFiloRentACar\OrionDAL\obj\Debug\net6.0\ref\OrionDAL.dll

@@ -1,0 +1,5 @@
+gn=@15n0Vn=AX5P=
+
+
+
+Select Product.Id, Product.ProductName, Product.ProductPrice, Product.ProductOrder, Product.NormalSize, Product.PantsSize, Product.ShoeSize, ProductColor.ColorName, ProductColor.ColorOrder, ProductColor.ColorImage as ColorImageName, Product.ProductBigImage, Product.Category_Id as CategoryId, Category.Id, Category.CategoryName as CategoryName  from Product  JOIN Category ON Product.Category_Id = Category.Id LEFT JOIN ProductColor ON Product.Id = ProductColor.Product_Id;

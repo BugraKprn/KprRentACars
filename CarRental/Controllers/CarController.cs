@@ -36,7 +36,7 @@ namespace CarRental.Controllers
         [Route("language/en")]
         public IActionResult en()
         {
-            ViewData["Title"] = "English | KPR Rent a Car";
+            ViewData["Title"] = "English | Mays Filo Rent a Car";
             var settingModel = _settingService.Get();
             return View(settingModel);
         }
@@ -44,7 +44,7 @@ namespace CarRental.Controllers
         [Route("language/sa")]
         public IActionResult sa()
         {
-            ViewData["Title"] = "عربي | KPR Rent a Car";
+            ViewData["Title"] = "عربي | Mays Filo Rent a Car";
             var settingModel = _settingService.Get();
             return View(settingModel);
         }
@@ -52,7 +52,7 @@ namespace CarRental.Controllers
         [Route("language/ru")]
         public IActionResult ru()
         {
-            ViewData["Title"] = "Русский | KPR Rent a Car";
+            ViewData["Title"] = "Русский | Mays Filo Rent a Car";
             var settingModel = _settingService.Get();
             return View(settingModel);
         }

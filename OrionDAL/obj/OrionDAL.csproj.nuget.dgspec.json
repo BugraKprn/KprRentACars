@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\SendBox\\KprRentACars\\OrionDAL\\OrionDAL.csproj": {}
+    "C:\\Users\\Ahmet\\source\\repos\\MaysFiloRentACar\\OrionDAL\\OrionDAL.csproj": {}
   },
   "projects": {
-    "C:\\SendBox\\KprRentACars\\OrionDAL\\OrionDAL.csproj": {
+    "C:\\Users\\Ahmet\\source\\repos\\MaysFiloRentACar\\OrionDAL\\OrionDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\SendBox\\KprRentACars\\OrionDAL\\OrionDAL.csproj",
+        "projectUniqueName": "C:\\Users\\Ahmet\\source\\repos\\MaysFiloRentACar\\OrionDAL\\OrionDAL.csproj",
         "projectName": "OrionDAL",
-        "projectPath": "C:\\SendBox\\KprRentACars\\OrionDAL\\OrionDAL.csproj",
+        "projectPath": "C:\\Users\\Ahmet\\source\\repos\\MaysFiloRentACar\\OrionDAL\\OrionDAL.csproj",
         "packagesPath": "C:\\Users\\Ahmet\\.nuget\\packages\\",
-        "outputPath": "C:\\SendBox\\KprRentACars\\OrionDAL\\obj\\",
+        "outputPath": "C:\\Users\\Ahmet\\source\\repos\\MaysFiloRentACar\\OrionDAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ahmet\\AppData\\Roaming\\NuGet\\NuGet.Config",

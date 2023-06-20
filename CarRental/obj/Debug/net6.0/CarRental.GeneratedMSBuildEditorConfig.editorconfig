@@ -9,125 +9,125 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CarRental
 build_property.RootNamespace = CarRental
-build_property.ProjectDir = C:\SendBox\KprRentACars\CarRental\
+build_property.ProjectDir = C:\Users\Ahmet\source\repos\MaysFiloRentACar\CarRental\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\SendBox\KprRentACars\CarRental
+build_property.MSBuildProjectDirectory = C:\Users\Ahmet\source\repos\MaysFiloRentACar\CarRental
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/Account/Login.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/Admin/CarImagePage.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Admin/CarImagePage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ2FySW1hZ2VQYWdlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/Admin/ContactPage.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Admin/ContactPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ29udGFjdFBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/Admin/Index.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Admin/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/Admin/LinkPage.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Admin/LinkPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cTGlua1BhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/Admin/RentCarPage.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Admin/RentCarPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmVudENhclBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/Admin/SettingPage.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Admin/SettingPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2V0dGluZ1BhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/Admin/SliderPage.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Admin/SliderPage.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2xpZGVyUGFnZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/Car/About.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Car/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXEFib3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/Car/Contact.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Car/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXENvbnRhY3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/Car/Details.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Car/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/Car/en.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Car/en.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXGVuLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/Car/Index.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Car/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/Car/ru.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Car/ru.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXHJ1LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/Car/sa.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Car/sa.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FyXHNhLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/Shared/Components/Car/Default.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Shared/Components/Car/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FyXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/Shared/Components/ContactWidget/Default.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Shared/Components/ContactWidget/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ29udGFjdFdpZGdldFxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/Shared/Components/Dashboard/Default.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Shared/Components/Dashboard/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRGFzaGJvYXJkXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/Shared/Components/Footer/Default.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Shared/Components/Footer/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcRm9vdGVyXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/Shared/Components/Header/Default.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Shared/Components/Header/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSGVhZGVyXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/Shared/Components/MobileHeader/Default.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Shared/Components/MobileHeader/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcTW9iaWxlSGVhZGVyXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/Shared/Components/RentaHome/Default.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Shared/Components/RentaHome/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcUmVudGFIb21lXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/Shared/Components/Slider/Default.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Shared/Components/Slider/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcU2xpZGVyXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/Shared/Error.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/_ViewImports.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/_ViewStart.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/SendBox/KprRentACars/CarRental/Views/Shared/_Layout.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-pihumplo1e
 
-[C:/SendBox/KprRentACars/CarRental/Views/Shared/_LayoutAdmin.cshtml]
+[C:/Users/Ahmet/source/repos/MaysFiloRentACar/CarRental/Views/Shared/_LayoutAdmin.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-l57pb7dek1
